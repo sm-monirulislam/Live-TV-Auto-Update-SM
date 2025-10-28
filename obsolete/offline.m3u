@@ -21,12 +21,12 @@ http://stvlive.net:8080/zeebangla/index.m3u8
 https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla News",IN | Kolkata Tv (0d)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
-#EXTINF:-1 group-title="Educational",Safari TV Tamil (0d)
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="India",ENT | COLORS HD (8d)
 http://195.181.169.162/COLORS_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="India",ENT | Sony Entertainment (7d)
 http://stvlive.net:8080/sonyentten/index.m3u8
+#EXTINF:-1 group-title="India",ENT | Star Utsav (0d)
+http://116.90.120.149:8000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="India",ENT | Zee Amol TV (7d)
 http://103.175.242.10:8080/zeeanmol/index.m3u8
 #EXTINF:-1 group-title="India",ENT | ZEE TV (7d)
@@ -45,20 +45,14 @@ http://103.175.242.10:8080/zeeaction/index.m3u8
 http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="India",MU | 7X PANJAB MUSIC (5d)
 https://stream.e2is.in/hls/7xMusic.m3u8
-#EXTINF:-1 group-title="India",NEWS | 1st India News (0d)
-https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 group-title="India",NEWS | Aaj Tak HD (0d)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
 #EXTINF:-1 group-title="International",EN | Saudia Radio (7d)
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
-#EXTINF:-1 group-title="International",EN | TV BRICS English (0d)
-https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1 group-title="International News",GB News (0d)
+https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="Kids",0. Cartoon Network HD + (7d)
 http://103.175.242.10:8080/cartoonnetwork/index.m3u8
-#EXTINF:-1 group-title="Kids",0. Tiny POP (0d)
-https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="Kids",2. POGO (0d)
-http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/453.m3u8
 #EXTINF:-1 group-title="Kids",2. SONY YAY! (7d)
 http://stvlive.net:8080/sonyyay/index.m3u8
 #EXTINF:-1 group-title="Kids",Kid Screation (0d)
@@ -67,8 +61,8 @@ http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 http://103.175.242.10:8080/sonypix/index.m3u8
 #EXTINF:-1 group-title="Music",EN | HTV (8d)
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
-#EXTINF:-1 group-title="Music",OTHER | 4ACETV (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CVA0UNL2K6KH61IL162P/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Music",EN | MTV Hits Europe (0d)
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Digital (2d)
 7950
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Zindagi (2d)
@@ -101,6 +95,8 @@ https://video.primexsports.com/pnn/live/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
 #EXTINF:-1 group-title="Sports",---Live(Star Sports 1 HD)--- (2d)
 http://supersonictv.live:8080/live/Bobby1/Bobby1/85564.ts
+#EXTINF:-1 group-title="Sports",--Live(FOOTBALL)-- (0d)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="Sports",--Live(PTV Sports)-- (7d)
 https://tvsen5.aynaott.com/Ptvsports/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sky Sport 2)-- (0d)
@@ -123,12 +119,12 @@ http://103.175.242.10:8080/tencricket/index.m3u8
 https://fl31.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Willow HD)-- (4d)
 https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
-#EXTINF:-1 group-title="Sports",CR | Star Sports 2 HD (0d)
-http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1370.m3u8
 #EXTINF:-1 group-title="Sports",FB | M-Sports HD (0d)
 http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 group-title="Sports",FB | M-Sports HD (0d)
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
+#EXTINF:-1 group-title="Sports",MIXER | ACE TV (0d)
+https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | ESPN (0d)
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | Hub Sports 1 (2d)
@@ -137,3 +133,5 @@ https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | Hub Sports 4 (2d)
 https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports",RACING | RACER International (0d)
+https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/playlist.m3u8
