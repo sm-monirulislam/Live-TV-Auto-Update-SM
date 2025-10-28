@@ -1,11 +1,17 @@
-name: "⏱️ Orchestrate EPG Pipeline"
+name: "⏱️ Orchestrate EPG Pipeline (Bangladesh Time)"
 
 on:
   schedule:
-    - cron: "0 */4 * * *"     # every 4 hours (UTC)
-  workflow_dispatch: {}       # manual: runs the full chain
+    # প্রতি ৫ মিনিট পর পর রান হবে (UTC অনুযায়ী, কিন্তু বাংলাদেশেও প্রতি ৫ মিনিট পরই হবে)
+    - cron: "*/5 * * * *"
+  workflow_dispatch:           # ম্যানুয়ালি রান করার সুযোগ
+    inputs:
+      reason:
+        description: "ম্যানুয়ালি চালানোর কারণ (ঐচ্ছিক)"
+        required: false
+        default: "Manual trigger"
 
-# Use a DIFFERENT concurrency group than the child workflows to avoid deadlock
+# আলাদা concurrency group, যেন deadlock না হয়
 concurrency:
   group: epg-orchestrator-${{ github.ref_name }}
   cancel-in-progress: false
@@ -15,24 +21,24 @@ permissions:
 
 jobs:
   update_json_status:
-    name: "1️⃣ 🛰️ Update JSON Status"
+    name: "1️⃣ 🛰️ JSON স্ট্যাটাস আপডেট"
     uses: ./.github/workflows/update_json_status.yml
     secrets: inherit
 
   youtube_playlist:
-    name: "2️⃣ 🎣 Build YouTube Playlist"
+    name: "2️⃣ 🎣 YouTube প্লেলিস্ট তৈরি"
     needs: [update_json_status]
     uses: ./.github/workflows/youtube_playlist.yml
     secrets: inherit
 
   combine_playlists:
-    name: "3️⃣ 🔀 Combine YouTube & Static IPTV Links"
+    name: "3️⃣ 🔀 YouTube ও স্ট্যাটিক IPTV লিংক একত্র করা"
     needs: [youtube_playlist]
     uses: ./.github/workflows/combine_playlists.yml
     secrets: inherit
 
   epg:
-    name: "4️⃣ 🧭📺 Generate & Publish EPG"
+    name: "4️⃣ 🧭📺 EPG জেনারেট ও প্রকাশ করা"
     needs: [combine_playlists]
     uses: ./.github/workflows/epg.yml
     secrets: inherit
