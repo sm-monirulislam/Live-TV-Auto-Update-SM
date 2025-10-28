@@ -781,9 +781,6 @@
     <display-name>CNBC Awaaz</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/18/CNBC_Awaaz_2025.svg"/>
   </channel>
-  <programme start="20251028232700 +0600" stop="20251028235700 +0600" channel="CNBCAwaaz">
-    <title lang="bn">Awaaz Adda</title>
-  </programme>
   <programme start="20251028235700 +0600" stop="20251029003000 +0600" channel="CNBCAwaaz">
     <title lang="bn">Awaaz Adda</title>
   </programme>
@@ -870,6 +867,9 @@
   </programme>
   <programme start="20251029105700 +0600" stop="20251029112700 +0600" channel="CNBCAwaaz">
     <title lang="bn">Traders Hotline</title>
+  </programme>
+  <programme start="20251029112700 +0600" stop="20251029115700 +0600" channel="CNBCAwaaz">
+    <title lang="bn">Khiladi No.1</title>
   </programme>
   <channel id="BharatSamacharTV.in">
     <display-name>Bharat Samachar TV</display-name>
@@ -3186,10 +3186,7 @@
     <display-name>Enter 10 Bangla</display-name>
     <icon src="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"/>
   </channel>
-  <programme start="20251028232000 +0600" stop="20251028235000 +0600" channel="enter10bangla.in">
-    <title lang="bn">Crime Alert</title>
-  </programme>
-  <programme start="20251028235000 +0600" stop="20251029004600 +0600" channel="enter10bangla.in">
+  <programme start="20251029001600 +0600" stop="20251029004600 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
   <programme start="20251029004600 +0600" stop="20251029013000 +0600" channel="enter10bangla.in">
@@ -3222,7 +3219,10 @@
   <programme start="20251029093000 +0600" stop="20251029113500 +0600" channel="enter10bangla.in">
     <title lang="bn">Naagmani (1991)</title>
   </programme>
-  <programme start="20251029113500 +0600" stop="20251029120500 +0600" channel="enter10bangla.in">
+  <programme start="20251029113500 +0600" stop="20251029123500 +0600" channel="enter10bangla.in">
+    <title lang="bn">Crime Alert</title>
+  </programme>
+  <programme start="20251029123500 +0600" stop="20251029130500 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
   <channel id="sangeetbangla.in">
