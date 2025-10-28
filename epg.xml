@@ -654,7 +654,7 @@
     <title lang="bn">CNN NewsNight With Abby Phillip</title>
   </programme>
   <programme start="20251029140000 +0600" stop="20251029150000 +0600" channel="CNN.us">
-    <title lang="bn">American Pulse</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251029150000 +0600" stop="20251029160000 +0600" channel="CNN.us">
     <title lang="bn">Early Start With Rahel Solomon</title>
@@ -973,10 +973,7 @@
     <display-name>Aaj Tak HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png"/>
   </channel>
-  <programme start="20251028133000 +0600" stop="20251028140000 +0600" channel="AajTak.in">
-    <title lang="bn">Non-Stop 100</title>
-  </programme>
-  <programme start="20251028140000 +0600" stop="20251028141000 +0600" channel="AajTak.in">
+  <programme start="20251028134000 +0600" stop="20251028141000 +0600" channel="AajTak.in">
     <title lang="bn">Lunch Break</title>
   </programme>
   <programme start="20251028141000 +0600" stop="20251028143000 +0600" channel="AajTak.in">
@@ -1062,6 +1059,9 @@
   </programme>
   <programme start="20251029005000 +0600" stop="20251029010000 +0600" channel="AajTak.in">
     <title lang="bn">Non-Stop 100</title>
+  </programme>
+  <programme start="20251029010000 +0600" stop="20251029011500 +0600" channel="AajTak.in">
+    <title lang="bn">Black And White</title>
   </programme>
   <channel id="ZEETV.tv">
     <display-name>ZEE TV HD</display-name>
@@ -1404,10 +1404,7 @@
     <display-name>Star Jalsha</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"/>
   </channel>
-  <programme start="20251028133000 +0600" stop="20251028140000 +0600" channel="starjalsha.in">
-    <title lang="bn">Hochhe Ta Ki</title>
-  </programme>
-  <programme start="20251028140000 +0600" stop="20251028153000 +0600" channel="starjalsha.in">
+  <programme start="20251028134500 +0600" stop="20251028153000 +0600" channel="starjalsha.in">
     <title lang="bn">Tapur Tupur</title>
   </programme>
   <programme start="20251028153000 +0600" stop="20251028163000 +0600" channel="starjalsha.in">
@@ -1493,6 +1490,9 @@
   </programme>
   <programme start="20251029090000 +0600" stop="20251029093000 +0600" channel="starjalsha.in">
     <title lang="bn">Compass</title>
+  </programme>
+  <programme start="20251029093000 +0600" stop="20251029100000 +0600" channel="starjalsha.in">
+    <title lang="bn">Parashuram</title>
   </programme>
   <channel id="colorsBangla.in">
     <display-name>Colors Bangla HD</display-name>
@@ -2160,10 +2160,7 @@
     <display-name>Star Sports 2 4K</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/c/c3/SS2_Crop.jpg"/>
   </channel>
-  <programme start="20251028133000 +0600" stop="20251028140000 +0600" channel="starsports2hd.in">
-    <title lang="bn">Qualifier 1: Puneri Paltan vs. Dabang Delhi KC; Pro Kab...</title>
-  </programme>
-  <programme start="20251028140000 +0600" stop="20251028141500 +0600" channel="starsports2hd.in">
+  <programme start="20251028134500 +0600" stop="20251028141500 +0600" channel="starsports2hd.in">
     <title lang="bn">2nd ODI: Australia v India; One-Day International Crick...</title>
   </programme>
   <programme start="20251028141500 +0600" stop="20251028143000 +0600" channel="starsports2hd.in">
@@ -2250,14 +2247,14 @@
   <programme start="20251029004500 +0600" stop="20251029010000 +0600" channel="starsports2hd.in">
     <title lang="bn">2nd T20: India vs England; T20 Cricket</title>
   </programme>
+  <programme start="20251029010000 +0600" stop="20251029011500 +0600" channel="starsports2hd.in">
+    <title lang="bn">India vs Bangladesh: 2nd T20I; Cricket Highlights</title>
+  </programme>
   <channel id="starsports3.in">
     <display-name>Star Sports 3 HD</display-name>
     <icon src="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png"/>
   </channel>
-  <programme start="20251028133000 +0600" stop="20251028140000 +0600" channel="starsports3.in">
-    <title lang="bn">Follow The Blues</title>
-  </programme>
-  <programme start="20251028140000 +0600" stop="20251028141500 +0600" channel="starsports3.in">
+  <programme start="20251028134500 +0600" stop="20251028141500 +0600" channel="starsports3.in">
     <title lang="bn">5th T20: India vs Australia; T20 Cricket</title>
   </programme>
   <programme start="20251028141500 +0600" stop="20251028143000 +0600" channel="starsports3.in">
@@ -2343,6 +2340,9 @@
   </programme>
   <programme start="20251029010000 +0600" stop="20251029013000 +0600" channel="starsports3.in">
     <title lang="bn">1st T20I IND v ENG; IDFC FIRST Bank IND vs ENG T20I 202...</title>
+  </programme>
+  <programme start="20251029013000 +0600" stop="20251029014500 +0600" channel="starsports3.in">
+    <title lang="bn">India vs Bangladesh: 3rd T20I; Cricket Highlights</title>
   </programme>
   <channel id="starsportsselect1.in">
     <display-name>Star Sports Select 1 HD</display-name>
@@ -3206,45 +3206,6 @@
     <display-name>SUN Bangla</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png"/>
   </channel>
-  <programme start="20251028140000 +0600" stop="20251028143000 +0600" channel="sunbangla.in">
-    <title lang="bn">Lakh Takar Lokkhi Labh</title>
-  </programme>
-  <programme start="20251028143000 +0600" stop="20251028160000 +0600" channel="sunbangla.in">
-    <title lang="bn">Lakh Takar Lokkhi Labh</title>
-  </programme>
-  <programme start="20251028160000 +0600" stop="20251028170000 +0600" channel="sunbangla.in">
-    <title lang="bn">Lakh Takar Lokkhi Labh</title>
-  </programme>
-  <programme start="20251028170000 +0600" stop="20251028180000 +0600" channel="sunbangla.in">
-    <title lang="bn">Lakh Takar Lokkhi Labh</title>
-  </programme>
-  <programme start="20251028180000 +0600" stop="20251028183000 +0600" channel="sunbangla.in">
-    <title lang="bn">Ramayan (1961)</title>
-  </programme>
-  <programme start="20251028183000 +0600" stop="20251028200300 +0600" channel="sunbangla.in">
-    <title lang="bn">Lakh Takar Lokkhi Labh</title>
-  </programme>
-  <programme start="20251028200300 +0600" stop="20251028203400 +0600" channel="sunbangla.in">
-    <title lang="bn">Vrindabana Bilasini</title>
-  </programme>
-  <programme start="20251028203400 +0600" stop="20251028210500 +0600" channel="sunbangla.in">
-    <title lang="bn">Roopoamati</title>
-  </programme>
-  <programme start="20251028210500 +0600" stop="20251028213500 +0600" channel="sunbangla.in">
-    <title lang="bn">Sholok Saree</title>
-  </programme>
-  <programme start="20251028213500 +0600" stop="20251028220400 +0600" channel="sunbangla.in">
-    <title lang="bn">Putul TTP</title>
-  </programme>
-  <programme start="20251028220400 +0600" stop="20251028230700 +0600" channel="sunbangla.in">
-    <title lang="bn">Crime Diary</title>
-  </programme>
-  <programme start="20251028230700 +0600" stop="20251029003500 +0600" channel="sunbangla.in">
-    <title lang="bn">Lakh Takar Lokkhi Labh</title>
-  </programme>
-  <programme start="20251029003500 +0600" stop="20251029010500 +0600" channel="sunbangla.in">
-    <title lang="bn">Damdar</title>
-  </programme>
   <channel id="enter10bangla.in">
     <display-name>Enter 10 Bangla</display-name>
     <icon src="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"/>
