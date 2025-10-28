@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",DESH TV (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushay TV (1d)
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushay TV (1d)
@@ -25,6 +23,10 @@ https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="India",ENT | COLORS HD (8d)
 http://195.181.169.162/COLORS_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="India",ENT | Ishara TV (0d)
+https://epiconvh.akamaized.net/live/ishaara/master.m3u8
+#EXTINF:-1 group-title="India",ENT | Nazara (0d)
+https://epiconvh.akamaized.net/live/nazara/master.m3u8
 #EXTINF:-1 group-title="India",ENT | Sony Entertainment (7d)
 http://stvlive.net:8080/sonyentten/index.m3u8
 #EXTINF:-1 group-title="India",ENT | Zee Amol TV (7d)
@@ -55,14 +57,8 @@ https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u
 http://103.175.242.10:8080/cartoonnetwork/index.m3u8
 #EXTINF:-1 group-title="Kids",2. SONY YAY! (7d)
 http://stvlive.net:8080/sonyyay/index.m3u8
-#EXTINF:-1 group-title="Kids",Cartoon Classics (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="Movies",EN | a-z Western Grit (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/P6T1SCG4XU9MM36TQSB5/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="Movies",EN | Colorized.TV (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MP47WBC6PC599RWGUECD/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="Movies",EN | Comedy Classics (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies",EN | a-z Best Classic TV (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CUXB534IAMTJM7Z4BKKS/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX (7d)
 http://103.175.242.10:8080/sonypix/index.m3u8
 #EXTINF:-1 group-title="Music",EN | HTV (8d)
@@ -121,6 +117,8 @@ https://fl31.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 group-title="Sports",FB | M-Sports HD (0d)
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
+#EXTINF:-1 group-title="Sports",GOLF | Golf News Network (0d)
+https://amg18570-amg18570c1-freelivesports-emea-5535.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg18570-golfnewsnetwork-golfnewsnet-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | ESPN (0d)
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | Hub Sports 1 (2d)
