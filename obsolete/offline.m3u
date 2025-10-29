@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",DesheBideshe (1d)
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 group-title="Bangla",Enter10 Bangla HD (0d)
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",GLOBAL TV HD (6d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",iON TV (0d)
@@ -27,6 +25,8 @@ http://195.181.169.162/COLORS_HD/index.m3u8?token=test
 http://stvlive.net:8080/sonyentten/index.m3u8
 #EXTINF:-1 group-title="India",ENT | Zee Amol TV (8d)
 http://103.175.242.10:8080/zeeanmol/index.m3u8
+#EXTINF:-1 group-title="India",ENT | Zee Cafe (0d)
+http://116.90.120.149:8000/play/a0e7/index.m3u8
 #EXTINF:-1 group-title="India",ENT | ZEE TV (8d)
 http://103.175.242.10:8080/zeetv/index.m3u8
 #EXTINF:-1 group-title="India",ENT | ZEE TV HD (9d)
@@ -37,8 +37,6 @@ http://stvlive.net:8080/andpicture/index.m3u8
 http://stvlive.net:8080/sonymax/index.m3u8
 #EXTINF:-1 group-title="India",MOV | Sony MAX 2 (8d)
 http://103.175.242.10:8080/sonymax2/index.m3u8
-#EXTINF:-1 group-title="India",MOV | Star Utsav Movies (0d)
-http://116.90.120.149:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="India",MOV | Zee Action (8d)
 http://103.175.242.10:8080/zeeaction/index.m3u8
 #EXTINF:-1 group-title="India",MOV | ZEE CINEMA HD (9d)
@@ -47,28 +45,18 @@ http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 group-title="India",NEWS | Aaj Tak HD (1d)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
-#EXTINF:-1 group-title="India",NEWS | Times Now Navbharat (0d)
-https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="International",EN | Saudia Radio (8d)
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
-#EXTINF:-1 group-title="International News",EAC News TV (0d)
-https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 group-title="Kids",0. Cartoon Network HD + (8d)
 http://103.175.242.10:8080/cartoonnetwork/index.m3u8
 #EXTINF:-1 group-title="Kids",2. POGO (0d)
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/453.m3u8
 #EXTINF:-1 group-title="Kids",2. SONY YAY! (8d)
 http://stvlive.net:8080/sonyyay/index.m3u8
-#EXTINF:-1 group-title="Kids",Cartoon Classics (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Kids",2. SONY YAY! (0d)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=908587&extension=ts&play_token=413IAp959Y
 #EXTINF:-1 group-title="Kids",NICK Hindi (0d)
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1034.m3u8
-#EXTINF:-1 group-title="Movies",EN | & FLIX (0d)
-https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
-#EXTINF:-1 group-title="Movies",EN | Colorized.TV (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MP47WBC6PC599RWGUECD/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="Movies",EN | Comedy Classics (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX (8d)
 http://103.175.242.10:8080/sonypix/index.m3u8
 #EXTINF:-1 group-title="Music",EN | HTV (9d)
@@ -133,8 +121,12 @@ https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 group-title="Religious",TV ONE Bangla (0d)
 https://ap02.iqplay.tv:8082/iqb8002/tv01/playlist.m3u8
+#EXTINF:-1 group-title="Sports",---Live(Star Sports 1 HD)--- (0d)
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 group-title="Sports",---Live(Star Sports 1 HD)--- (3d)
 http://supersonictv.live:8080/live/Bobby1/Bobby1/85564.ts
+#EXTINF:-1 group-title="Sports",---Live(Star Sports 2 Hindi)--- (0d)
+http://116.90.120.149:8000/play/a0cs/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(PTV Sports)-- (8d)
 https://tvsen5.aynaott.com/Ptvsports/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 1)-- (8d)
@@ -159,8 +151,6 @@ https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1370.m3u8
 #EXTINF:-1 group-title="Sports",FB | M-Sports HD (0d)
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
-#EXTINF:-1 group-title="Sports",MIXER | ACE TV (0d)
-https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | ESPN (1d)
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | Hub Sports 1 (3d)
@@ -169,5 +159,5 @@ https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | Hub Sports 4 (3d)
 https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Travel",Viajar TV (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Sports",Racing | Nitro Circus TV (0d)
+https://amg13231-actve-amg13231c1-sportstribal-emea-1265.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-sportstribalemea/playlist.m3u8
