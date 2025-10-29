@@ -22,9 +22,9 @@ http://stvlive.net:8080/metv/index.m3u8
 #EXTINF:-1 group-title="Bangla",Movie Bangla TV (0d)
 http://stvlive.net:8080/moviebangla/index.m3u8
 #EXTINF:-1 group-title="Bangla",NEXUS TV HD (5d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",NEXUS TV HD (5d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/mono.m3u8
+#EXTINF:-1 group-title="Bangla",NEXUS TV HD (5d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",NTV HD (0d)
 https://ap02.iqplay.tv:8082/iqb8002/nt589v/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",NTV HD (0d)
@@ -71,8 +71,6 @@ http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 group-title="India",NEWS | Aaj Tak HD (1d)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
-#EXTINF:-1 group-title="International",Are We There Yet? (0d)
-https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="International",EN | Saudia Radio (8d)
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
 #EXTINF:-1 group-title="International News",CNN International (0d)
@@ -83,6 +81,10 @@ http://103.175.242.10:8080/cartoonnetwork/index.m3u8
 http://stvlive.net:8080/sonyyay/index.m3u8
 #EXTINF:-1 group-title="Kids",Kid Screation (0d)
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 group-title="Movies",EN | Action Hollywood Movies (0d)
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Movies",EN | Comedy Classics (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX (8d)
 http://103.175.242.10:8080/sonypix/index.m3u8
 #EXTINF:-1 group-title="Music",EN | HTV (9d)
