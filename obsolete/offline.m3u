@@ -11,6 +11,8 @@ http://stvlive.net:8080/channeli/index.m3u8
 http://stvlive.net:8080/deepto/index.m3u8
 #EXTINF:-1 group-title="Bangla",DesheBideshe (1d)
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 group-title="Bangla",Enter10 Bangla HD (0d)
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",GLOBAL TV HD (6d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",iON TV (0d)
@@ -43,10 +45,10 @@ http://103.175.242.10:8080/independent/index.m3u8
 http://stvlive.net:8080/jamuna/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | JAMUNA TV (0d)
 http://103.175.242.10:8080/jamuna/index.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (0d)
-http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (1d)
 https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (0d)
+http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="India",ENT | COLORS HD (9d)
 http://195.181.169.162/COLORS_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="India",ENT | Sony Entertainment (8d)
@@ -63,14 +65,22 @@ http://stvlive.net:8080/andpicture/index.m3u8
 http://stvlive.net:8080/sonymax/index.m3u8
 #EXTINF:-1 group-title="India",MOV | Sony MAX 2 (8d)
 http://103.175.242.10:8080/sonymax2/index.m3u8
+#EXTINF:-1 group-title="India",MOV | Star Gold HD (0d)
+https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3172
 #EXTINF:-1 group-title="India",MOV | Zee Action (8d)
 http://103.175.242.10:8080/zeeaction/index.m3u8
 #EXTINF:-1 group-title="India",MOV | ZEE CINEMA HD (9d)
 http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="India",MU | 7X PANJAB MUSIC (6d)
 https://stream.e2is.in/hls/7xMusic.m3u8
+#EXTINF:-1 group-title="India",MU | Joo Music (0d)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 group-title="India",MU | YRF Music HD (0d)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="India",NEWS | Aaj Tak HD (1d)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
+#EXTINF:-1 group-title="International",Are We There Yet? (0d)
+https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="International",EN | Saudia Radio (8d)
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
 #EXTINF:-1 group-title="International News",CNN International (0d)
@@ -81,6 +91,10 @@ http://103.175.242.10:8080/cartoonnetwork/index.m3u8
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 group-title="Kids",2. SONY YAY! (8d)
 http://stvlive.net:8080/sonyyay/index.m3u8
+#EXTINF:-1 group-title="Movies",EN | a-z Best Classic TV (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CUXB534IAMTJM7Z4BKKS/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies",EN | Old West TV (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/BNG6HPRT3WX89TD7PR60/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX (8d)
 http://103.175.242.10:8080/sonypix/index.m3u8
 #EXTINF:-1 group-title="Music",EN | HTV (9d)
@@ -179,6 +193,8 @@ https://fl31.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Willow HD)-- (0d)
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
+#EXTINF:-1 group-title="Sports",CR | Star Sports 2 HD (0d)
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1370.m3u8
 #EXTINF:-1 group-title="Sports",FB | M-Sports HD (0d)
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | ESPN (1d)
