@@ -9,8 +9,6 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushay TV (Local) (2d)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="Bangla",Enter10 Bangla HD (0d)
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",GLOBAL TV HD (6d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",MAASRANGA HD (7d)
@@ -21,14 +19,16 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Zee Bangla HD (8d)
 http://stvlive.net:8080/zeebangla/index.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | EKHON TV (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (1d)
 https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla News",IN | Kolkata Tv (0d)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
+#EXTINF:-1 group-title="India",BHOJ | Filamchi Bhojpuri (0d)
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 #EXTINF:-1 group-title="India",ENT | COLORS HD (9d)
 http://195.181.169.162/COLORS_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="India",ENT | Ishara TV (0d)
+https://epiconvh.akamaized.net/live/ishaara/master.m3u8
 #EXTINF:-1 group-title="India",ENT | Nazara (0d)
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
 #EXTINF:-1 group-title="India",ENT | Sony Entertainment (8d)
@@ -47,8 +47,6 @@ http://stvlive.net:8080/sonymax/index.m3u8
 http://103.175.242.10:8080/sonymax2/index.m3u8
 #EXTINF:-1 group-title="India",MOV | Zee Action (8d)
 http://103.175.242.10:8080/zeeaction/index.m3u8
-#EXTINF:-1 group-title="India",MOV | ZEE BOLLYWOOD (0d)
-http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:-1 group-title="India",MOV | ZEE CINEMA HD (9d)
 http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="India",MU | 7X PANJAB MUSIC (6d)
@@ -57,32 +55,26 @@ https://stream.e2is.in/hls/7xMusic.m3u8
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
 #EXTINF:-1 group-title="International",EN | Saudia Radio (8d)
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
-#EXTINF:-1 group-title="International",TVRI World (0d)
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="International News",Connecting America (0d)
-https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/ts-us-e2-n1/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1 group-title="International",EN | TV BRICS English (0d)
+https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 group-title="Kids",0. Cartoon Network HD + (8d)
 http://103.175.242.10:8080/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="Kids",1. Gubbare (0d)
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 group-title="Kids",2. SONY YAY! (8d)
 http://stvlive.net:8080/sonyyay/index.m3u8
-#EXTINF:-1 group-title="Kids",Cartoon Classics (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="Kids",Cartoonito (0d)
-http://181.78.4.250:8098/play/a067/index.m3u8
-#EXTINF:-1 group-title="Kids",Discovery Kids (0d)
-http://181.78.4.250:8098/play/a08h/index.m3u8
-#EXTINF:-1 group-title="Movies",EN | a-z Western Grit (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/P6T1SCG4XU9MM36TQSB5/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies",EN | & FLIX (0d)
+https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
+#EXTINF:-1 group-title="Movies",EN | a-z Best Classic TV (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CUXB534IAMTJM7Z4BKKS/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX (8d)
 http://103.175.242.10:8080/sonypix/index.m3u8
-#EXTINF:-1 group-title="Music",AR | AFN TV (0d)
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 group-title="Music",AR | Arabica Music (0d)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | HTV (9d)
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
-#EXTINF:-1 group-title="Music",EN | Kronehit HD (0d)
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Music",OTHER | Afrobeats (0d)
-https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 group-title="Music",OTHER | HITS MEXICANOS (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Digital (3d)
 7950
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Zindagi (3d)
@@ -103,6 +95,8 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 12565
 #EXTINF:-1 group-title="Pakistan",ENT | PTV Home (3d)
 7975
+#EXTINF:-1 group-title="Pakistan",ENT | Such TV SD (0d)
+https://video.primexsports.com/suchnews/live/playlist.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Tag TV (4d)
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 group-title="Pakistan",NEWS | Aik News (2d)
