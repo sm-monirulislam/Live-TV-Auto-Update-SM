@@ -43,16 +43,14 @@ http://103.175.242.10:8080/independent/index.m3u8
 http://stvlive.net:8080/jamuna/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | JAMUNA TV (0d)
 http://103.175.242.10:8080/jamuna/index.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (0d)
-http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (1d)
 https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (0d)
+http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="India",ENT | COLORS HD (9d)
 http://195.181.169.162/COLORS_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="India",ENT | Sony Entertainment (8d)
 http://stvlive.net:8080/sonyentten/index.m3u8
-#EXTINF:-1 group-title="India",ENT | Star Utsav (0d)
-http://116.90.120.149:8000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="India",ENT | Zee Amol TV (8d)
 http://103.175.242.10:8080/zeeanmol/index.m3u8
 #EXTINF:-1 group-title="India",ENT | ZEE TV (8d)
@@ -61,14 +59,10 @@ http://103.175.242.10:8080/zeetv/index.m3u8
 http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="India",MOV | & PICTURES HD (8d)
 http://stvlive.net:8080/andpicture/index.m3u8
-#EXTINF:-1 group-title="India",MOV | Goldmines Movies 2 (0d)
-https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 group-title="India",MOV | Sony MAX (8d)
 http://stvlive.net:8080/sonymax/index.m3u8
 #EXTINF:-1 group-title="India",MOV | Sony MAX 2 (8d)
 http://103.175.242.10:8080/sonymax2/index.m3u8
-#EXTINF:-1 group-title="India",MOV | Star Utsav Movies (0d)
-http://116.90.120.149:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="India",MOV | Zee Action (8d)
 http://103.175.242.10:8080/zeeaction/index.m3u8
 #EXTINF:-1 group-title="India",MOV | ZEE CINEMA HD (9d)
@@ -81,6 +75,8 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
 #EXTINF:-1 group-title="International News",CNN International (0d)
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+#EXTINF:-1 group-title="International News",Connecting America (0d)
+https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/ts-us-e2-n1/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1 group-title="Kids",0. Cartoon Network HD + (8d)
 http://103.175.242.10:8080/cartoonnetwork/index.m3u8
 #EXTINF:-1 group-title="Kids",0. Duronto TV (0d)
@@ -101,8 +97,6 @@ https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE Rock On (0d)
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
-#EXTINF:-1 group-title="Music",OTHER | 4 Fun TV (0d)
-https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Digital (3d)
 7950
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Zindagi (3d)
@@ -146,9 +140,9 @@ http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
 #EXTINF:-1 group-title="Religious",IBN TV Africa (0d)
 http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
 #EXTINF:-1 group-title="Religious",IQRA BANGLA (0d)
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
-#EXTINF:-1 group-title="Religious",IQRA BANGLA (0d)
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
+#EXTINF:-1 group-title="Religious",IQRA BANGLA (0d)
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Iqra TV (0d)
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 #EXTINF:-1 group-title="Religious",ISLAM TV (0d)
@@ -191,8 +185,6 @@ https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 group-title="Sports",FB | M-Sports HD (0d)
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
-#EXTINF:-1 group-title="Sports",FIGHT | MMA TV (0d)
-https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | ESPN (1d)
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | Hub Sports 1 (3d)
