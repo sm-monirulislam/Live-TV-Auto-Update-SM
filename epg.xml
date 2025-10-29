@@ -648,19 +648,19 @@
     <title lang="bn">Laura Coates Live</title>
   </programme>
   <programme start="20251030100000 +0600" stop="20251030110000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">The Story Is With Elex Michaelson</title>
   </programme>
   <programme start="20251030110000 +0600" stop="20251030120000 +0600" channel="CNN.us">
-    <title lang="bn">Erin Burnett OutFront</title>
+    <title lang="bn">The Story Is With Elex Michaelson</title>
   </programme>
   <programme start="20251030120000 +0600" stop="20251030130000 +0600" channel="CNN.us">
-    <title lang="bn">The Source With Kaitlan Collins</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251030130000 +0600" stop="20251030140000 +0600" channel="CNN.us">
     <title lang="bn">CNN NewsNight With Abby Phillip</title>
   </programme>
   <programme start="20251030140000 +0600" stop="20251030150000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">American Pulse</title>
   </programme>
   <programme start="20251030150000 +0600" stop="20251030160000 +0600" channel="CNN.us">
     <title lang="bn">Early Start With Rahel Solomon</title>
@@ -1502,9 +1502,6 @@
     <display-name>Zee Bangla Cinema</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/5/59/Zee_Bangla_Cinema_%282025%29.svg"/>
   </channel>
-  <programme start="20251030023000 +0600" stop="20251030030000 +0600" channel="zeebanglacinema.in">
-    <title lang="bn">S.I.T</title>
-  </programme>
   <programme start="20251030030000 +0600" stop="20251030033000 +0600" channel="zeebanglacinema.in">
     <title lang="bn">Bedeni Jyotsnar Amar Prem</title>
   </programme>
@@ -1538,8 +1535,11 @@
   <programme start="20251030123000 +0600" stop="20251030150000 +0600" channel="zeebanglacinema.in">
     <title lang="bn">Tor Naam</title>
   </programme>
-  <programme start="20251030150000 +0600" stop="20251030153000 +0600" channel="zeebanglacinema.in">
+  <programme start="20251030150000 +0600" stop="20251030173000 +0600" channel="zeebanglacinema.in">
     <title lang="bn">Bouma</title>
+  </programme>
+  <programme start="20251030173000 +0600" stop="20251030180000 +0600" channel="zeebanglacinema.in">
+    <title lang="bn">Agnipath</title>
   </programme>
   <channel id="colorsbanglacinemahd.in">
     <display-name>COLORS BANGLA CINEMA HD</display-name>
@@ -1674,10 +1674,7 @@
     <display-name>Enter 10 Bangla</display-name>
     <icon src="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"/>
   </channel>
-  <programme start="20251030022100 +0600" stop="20251030025100 +0600" channel="enter10bangla.in">
-    <title lang="bn">Crime Alert</title>
-  </programme>
-  <programme start="20251030025100 +0600" stop="20251030033600 +0600" channel="enter10bangla.in">
+  <programme start="20251030030600 +0600" stop="20251030033600 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
   <programme start="20251030033600 +0600" stop="20251030040600 +0600" channel="enter10bangla.in">
@@ -1710,7 +1707,10 @@
   <programme start="20251030133400 +0600" stop="20251030143100 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
-  <programme start="20251030143100 +0600" stop="20251030150100 +0600" channel="enter10bangla.in">
+  <programme start="20251030143100 +0600" stop="20251030153100 +0600" channel="enter10bangla.in">
+    <title lang="bn">Crime Alert</title>
+  </programme>
+  <programme start="20251030153100 +0600" stop="20251030160100 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
   <channel id="sangeetbangla.in">
@@ -1770,11 +1770,8 @@
     <display-name>SONY SAB HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/18/SONY_SAB_SD.png"/>
   </channel>
-  <programme start="20251030023000 +0600" stop="20251030030000 +0600" channel="sonysabhd.in">
-    <title lang="bn">Taarak Mehta Ka Ooltah Chashmah(2008)</title>
-  </programme>
   <programme start="20251030030000 +0600" stop="20251030033000 +0600" channel="sonysabhd.in">
-    <title lang="bn">Taarak Mehta Ka Ooltah Chashmah (2008)</title>
+    <title lang="bn">Taarak Mehta Ka Ooltah Chashmah(2008)</title>
   </programme>
   <programme start="20251030033000 +0600" stop="20251030040000 +0600" channel="sonysabhd.in">
     <title lang="bn">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
@@ -1809,13 +1806,13 @@
   <programme start="20251030083000 +0600" stop="20251030090000 +0600" channel="sonysabhd.in">
     <title lang="bn">Taarak Mehta Ka Ooltah Chashmah (2008)</title>
   </programme>
+  <programme start="20251030090000 +0600" stop="20251030093000 +0600" channel="sonysabhd.in">
+    <title lang="bn">Itti Si Khushi</title>
+  </programme>
   <channel id="RepublicBangla.in">
     <display-name>Republic Bangla</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/9/93/R.Bangla_logo_with_tagline.jpg"/>
   </channel>
-  <programme start="20251030023000 +0600" stop="20251030030000 +0600" channel="RepublicBangla.in">
-    <title lang="bn">Kishalayer Agnibaan</title>
-  </programme>
   <programme start="20251030030000 +0600" stop="20251030033000 +0600" channel="RepublicBangla.in">
     <title lang="bn">Kishalayer Agnibaan</title>
   </programme>
@@ -1850,6 +1847,9 @@
     <title lang="bn">Bullet 50</title>
   </programme>
   <programme start="20251030083000 +0600" stop="20251030090000 +0600" channel="RepublicBangla.in">
+    <title lang="bn">R Bangla Live 100% News</title>
+  </programme>
+  <programme start="20251030090000 +0600" stop="20251030093000 +0600" channel="RepublicBangla.in">
     <title lang="bn">R Bangla Live 100% News</title>
   </programme>
   <channel id="DisneyJunior.in">
