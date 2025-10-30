@@ -3,6 +3,10 @@
 http://103.175.242.10:8080/atnbangla/index.m3u8
 #EXTINF:-1 group-title="Bangla",BANGLA VISION (1d)
 http://stvlive.net:8080/banglavision/index.m3u8
+#EXTINF:-1 group-title="Bangla",Bisso Bangla 24 TV (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla",Bisso Bangla 24 TV (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/mono.m3u8
 #EXTINF:-1 group-title="Bangla",BTV HD (1d)
 http://103.175.242.10:8080/btv/index.m3u8
 #EXTINF:-1 group-title="Bangla",CHANNEL I (1d)
@@ -21,6 +25,8 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://stvlive.net:8080/metv/index.m3u8
 #EXTINF:-1 group-title="Bangla",Movie Bangla TV (1d)
 http://stvlive.net:8080/moviebangla/index.m3u8
+#EXTINF:-1 group-title="Bangla",MU | SANGEET BANGLA (0d)
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/541.m3u8
 #EXTINF:-1 group-title="Bangla",NEXUS TV HD (6d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",NEXUS TV HD (6d)
@@ -51,6 +57,8 @@ http://stvlive.net:8080/somoy/index.m3u8
 http://stvlive.net:8080/sonyentten/index.m3u8
 #EXTINF:-1 group-title="India",ENT | Zee Amol TV (9d)
 http://103.175.242.10:8080/zeeanmol/index.m3u8
+#EXTINF:-1 group-title="India",ENT | Zee Cafe (0d)
+http://116.90.120.149:8000/play/a0e7/index.m3u8
 #EXTINF:-1 group-title="India",ENT | ZEE TV (9d)
 http://103.175.242.10:8080/zeetv/index.m3u8
 #EXTINF:-1 group-title="India",MOV | & PICTURES HD (9d)
@@ -59,14 +67,14 @@ http://stvlive.net:8080/andpicture/index.m3u8
 http://stvlive.net:8080/sonymax/index.m3u8
 #EXTINF:-1 group-title="India",MOV | Sony MAX 2 (9d)
 http://103.175.242.10:8080/sonymax2/index.m3u8
+#EXTINF:-1 group-title="India",MOV | Star Gold 2 HD (0d)
+http://116.90.120.149:8000/play/a0ea/index.m3u8
 #EXTINF:-1 group-title="India",MOV | Zee Action (9d)
 http://103.175.242.10:8080/zeeaction/index.m3u8
 #EXTINF:-1 group-title="India",MU | 7X PANJAB MUSIC (7d)
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 group-title="India",NEWS | Aaj Tak HD (2d)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
-#EXTINF:-1 group-title="India",NEWS | ABP News (0d)
-https://amg01412-xiaomiasia-abpnews-xiaomi-szg3x.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="International",EN | Saudia Radio (9d)
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
 #EXTINF:-1 group-title="International News",CNN International (1d)
@@ -75,12 +83,14 @@ https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 http://103.175.242.10:8080/cartoonnetwork/index.m3u8
 #EXTINF:-1 group-title="Kids",2. SONY YAY! (9d)
 http://stvlive.net:8080/sonyyay/index.m3u8
-#EXTINF:-1 group-title="Kids",NICK Hindi (0d)
-http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1034.m3u8
-#EXTINF:-1 group-title="Movies",EN | Colorized.TV (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MP47WBC6PC599RWGUECD/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Kids",Disney International HD (0d)
+http://116.90.120.149:8000/play/a0e9/index.m3u8
+#EXTINF:-1 group-title="Movies",EN | a-z Best Classic TV (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CUXB534IAMTJM7Z4BKKS/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX (9d)
 http://103.175.242.10:8080/sonypix/index.m3u8
+#EXTINF:-1 group-title="Music",EN | Vevo '90s & '00s (0d)
+https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 80s Flashback (1d)
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 90s Throwback (1d)
