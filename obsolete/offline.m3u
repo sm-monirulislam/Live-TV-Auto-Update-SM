@@ -51,10 +51,10 @@ http://103.175.242.10:8080/independent/index.m3u8
 http://stvlive.net:8080/jamuna/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | JAMUNA TV (1d)
 http://103.175.242.10:8080/jamuna/index.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (1d)
-http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (2d)
 https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (1d)
+http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="India",ENT | Sony Entertainment (9d)
 http://stvlive.net:8080/sonyentten/index.m3u8
 #EXTINF:-1 group-title="India",ENT | Zee Amol TV (9d)
@@ -75,22 +75,28 @@ https://stream.e2is.in/hls/7xMusic.m3u8
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
 #EXTINF:-1 group-title="International",EN | Saudia Radio (9d)
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
+#EXTINF:-1 group-title="International",TVRI World (0d)
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="International News",CNN International (1d)
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 group-title="Kids",0. Cartoon Network HD + (9d)
 http://103.175.242.10:8080/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="Kids",2. POGO (0d)
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/453.m3u8
 #EXTINF:-1 group-title="Kids",2. SONY YAY! (9d)
 http://stvlive.net:8080/sonyyay/index.m3u8
+#EXTINF:-1 group-title="Kids",Cartoon Classics (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Kids",Cartoonito (0d)
 http://181.78.4.250:8098/play/a067/index.m3u8
-#EXTINF:-1 group-title="Movies",EN | Bang Bang TV (0d)
-https://streams.sofast.tv/ptnr-yupptv/title-BANG-BANG-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
-#EXTINF:-1 group-title="Movies",EN | Comedy Classics (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies",EN | a-z Best Classic TV (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CUXB534IAMTJM7Z4BKKS/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX (9d)
 http://103.175.242.10:8080/sonypix/index.m3u8
-#EXTINF:-1 group-title="Movies",OTHER | Box Cinama (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Music",EN | MTV Hits Europe (0d)
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1 group-title="Music",EN | Oxygen Music (0d)
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 80s Flashback (1d)
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 90s Throwback (1d)
