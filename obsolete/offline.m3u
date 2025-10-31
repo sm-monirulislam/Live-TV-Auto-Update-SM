@@ -63,24 +63,24 @@ http://stvlive.net:8080/jamuna/index.m3u8
 https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (2d)
 http://stvlive.net:8080/somoy/index.m3u8
-#EXTINF:-1 group-title="India",MOV | Goldmines (0d)
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
 #EXTINF:-1 group-title="India",MU | 7X PANJAB MUSIC (8d)
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 group-title="India",NEWS | Aaj Tak HD (3d)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
-#EXTINF:-1 group-title="India",NEWS | Bharat 24 (0d)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8
+#EXTINF:-1 group-title="India",NEWS | Aap Ki Adalat (0d)
+https://amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi-n5tuk.amagi.tv/playlist/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="International News",CNN International (2d)
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+#EXTINF:-1 group-title="Kids",0. PBS Kids (0d)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Kids",2. POGO (0d)
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/453.m3u8
-#EXTINF:-1 group-title="Kids",2. SONY YAY! (0d)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=908587&extension=ts&play_token=413IAp959Y
 #EXTINF:-1 group-title="Kids",Discovery Kids (0d)
 http://181.78.4.250:8098/play/a08h/index.m3u8
 #EXTINF:-1 group-title="Movies",EN | SRK TV (0d)
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies",OTHER | Box Cinama (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 80s Flashback (2d)
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 90s Throwback (2d)
@@ -89,6 +89,8 @@ https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE Rock On (2d)
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
+#EXTINF:-1 group-title="Music",OTHER | HITS MEXICANOS (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Digital (5d)
 7950
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Zindagi (5d)
@@ -97,6 +99,8 @@ https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 8007
 #EXTINF:-1 group-title="Pakistan",ENT | Geo Ent (5d)
 7957
+#EXTINF:-1 group-title="Pakistan",ENT | Geo Kahani HD (0d)
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Geo Kahani UK (5d)
 7956
 #EXTINF:-1 group-title="Pakistan",ENT | Geo TV (5d)
@@ -130,9 +134,9 @@ http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
 #EXTINF:-1 group-title="Religious",IBN TV Africa (2d)
 http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
 #EXTINF:-1 group-title="Religious",IQRA BANGLA (2d)
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
-#EXTINF:-1 group-title="Religious",IQRA BANGLA (2d)
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
+#EXTINF:-1 group-title="Religious",IQRA BANGLA (2d)
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Iqra TV (2d)
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 #EXTINF:-1 group-title="Religious",ISLAM TV (2d)
