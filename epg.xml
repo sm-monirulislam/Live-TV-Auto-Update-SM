@@ -837,9 +837,6 @@
     <display-name>NEWS | TV9 Bharatvarsh</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/a/ad/TV9_Bharatvarsh.jpeg"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="TV9Bharatvarsh">
-    <title lang="bn">Newsmaker</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="TV9Bharatvarsh">
     <title lang="bn">Bharatvarsh ka No 1 bulletin</title>
   </programme>
@@ -924,16 +921,16 @@
   <programme start="20251102173000 +0600" stop="20251102183000 +0600" channel="TV9Bharatvarsh">
     <title lang="bn">Bharatvarsh ka No 1 bulletin</title>
   </programme>
-  <programme start="20251102183000 +0600" stop="20251102190000 +0600" channel="TV9Bharatvarsh">
+  <programme start="20251102183000 +0600" stop="20251102193000 +0600" channel="TV9Bharatvarsh">
     <title lang="bn">Spl</title>
+  </programme>
+  <programme start="20251102193000 +0600" stop="20251102200000 +0600" channel="TV9Bharatvarsh">
+    <title lang="bn">Satta Ki Kahani</title>
   </programme>
   <channel id="ZEEBUSINESS">
     <display-name>NEWS | ZEE BUSINESS</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Business_%282025%29.svg"/>
   </channel>
-  <programme start="20251101172600 +0600" stop="20251101175600 +0600" channel="ZEEBUSINESS">
-    <title lang="bn">News Live</title>
-  </programme>
   <programme start="20251101175600 +0600" stop="20251101182600 +0600" channel="ZEEBUSINESS">
     <title lang="bn">Baat Duniya Ki</title>
   </programme>
@@ -1021,13 +1018,13 @@
   <programme start="20251102072600 +0600" stop="20251102075600 +0600" channel="ZEEBUSINESS">
     <title lang="bn">Money Guru</title>
   </programme>
+  <programme start="20251102075600 +0600" stop="20251102082600 +0600" channel="ZEEBUSINESS">
+    <title lang="bn">Zeegnition</title>
+  </programme>
   <channel id="ZEENews">
     <display-name>NEWS | ZEE News</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="ZEENews">
-    <title lang="bn">Taal Thok Ke</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="ZEENews">
     <title lang="bn">Taal Thok Ke</title>
   </programme>
@@ -1113,6 +1110,9 @@
     <title lang="bn">Morning Zee</title>
   </programme>
   <programme start="20251102080000 +0600" stop="20251102083000 +0600" channel="ZEENews">
+    <title lang="bn">Morning Zee</title>
+  </programme>
+  <programme start="20251102083000 +0600" stop="20251102090000 +0600" channel="ZEENews">
     <title lang="bn">Morning Zee</title>
   </programme>
   <channel id="DangalTV.in">
@@ -1377,9 +1377,6 @@
     <display-name>DD News</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/d/d6/DD_News_new_logo_2024.jpg"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="DDNews.in">
-    <title lang="bn">Samachar</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="DDNews.in">
     <title lang="bn">Game On</title>
   </programme>
@@ -1467,13 +1464,13 @@
   <programme start="20251102153000 +0600" stop="20251102160000 +0600" channel="DDNews.in">
     <title lang="bn">Samachar</title>
   </programme>
+  <programme start="20251102160000 +0600" stop="20251102163000 +0600" channel="DDNews.in">
+    <title lang="bn">Rangtarang</title>
+  </programme>
   <channel id="CNBCAwaaz">
     <display-name>CNBC Awaaz</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/18/CNBC_Awaaz_2025.svg"/>
   </channel>
-  <programme start="20251101172700 +0600" stop="20251101175700 +0600" channel="CNBCAwaaz">
-    <title lang="bn">Colgate Oral Health Movement</title>
-  </programme>
   <programme start="20251101175700 +0600" stop="20251101182700 +0600" channel="CNBCAwaaz">
     <title lang="bn">Commodity Outlook 2025</title>
   </programme>
@@ -1561,13 +1558,13 @@
   <programme start="20251102054000 +0600" stop="20251102060000 +0600" channel="CNBCAwaaz">
     <title lang="bn">Tech Guru</title>
   </programme>
+  <programme start="20251102060000 +0600" stop="20251102062000 +0600" channel="CNBCAwaaz">
+    <title lang="bn">Tax Guru</title>
+  </programme>
   <channel id="BharatSamacharTV.in">
     <display-name>Bharat Samachar TV</display-name>
     <icon src="https://bharatsamachartv.com/images/logo.png"/>
   </channel>
-  <programme start="20251101172500 +0600" stop="20251101180000 +0600" channel="BharatSamacharTV.in">
-    <title lang="bn">5 Pm Badi Khabar</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="BharatSamacharTV.in">
     <title lang="bn">Camera Sab Dekhta Hai</title>
   </programme>
@@ -1655,13 +1652,13 @@
   <programme start="20251102072500 +0600" stop="20251102075500 +0600" channel="BharatSamacharTV.in">
     <title lang="bn">Commercial</title>
   </programme>
+  <programme start="20251102075500 +0600" stop="20251102081500 +0600" channel="BharatSamacharTV.in">
+    <title lang="bn">100 Samachar</title>
+  </programme>
   <channel id="Abp.in">
     <display-name>ABP News</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/e/eb/ABP_News.svg"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="Abp.in">
-    <title lang="bn">The Weekend Debate</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="Abp.in">
     <title lang="bn">The Weekend Debate</title>
   </programme>
@@ -1748,6 +1745,9 @@
   </programme>
   <programme start="20251102080000 +0600" stop="20251102083000 +0600" channel="Abp.in">
     <title lang="bn">News At 7</title>
+  </programme>
+  <programme start="20251102083000 +0600" stop="20251102085200 +0600" channel="Abp.in">
+    <title lang="bn">8 Minute 80 Khabar</title>
   </programme>
   <channel id="AajTak.in">
     <display-name>Aaj Tak HD</display-name>
@@ -2129,10 +2129,7 @@
     <display-name>ENT | Epic TV</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/4/41/Epic_TV_%282021%29.jpg"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="EpicTV.in">
-    <title lang="bn">Exceptional Engineering</title>
-  </programme>
-  <programme start="20251101180000 +0600" stop="20251101185500 +0600" channel="EpicTV.in">
+  <programme start="20251101182500 +0600" stop="20251101185500 +0600" channel="EpicTV.in">
     <title lang="bn">Mega Manufacturing</title>
   </programme>
   <programme start="20251101185500 +0600" stop="20251101192500 +0600" channel="EpicTV.in">
@@ -2165,16 +2162,16 @@
   <programme start="20251101222500 +0600" stop="20251101225500 +0600" channel="EpicTV.in">
     <title lang="bn">Mid Wicket Tales</title>
   </programme>
-  <programme start="20251101225500 +0600" stop="20251101230000 +0600" channel="EpicTV.in">
+  <programme start="20251101225500 +0600" stop="20251101232000 +0600" channel="EpicTV.in">
     <title lang="bn">Plastic Fantastic</title>
+  </programme>
+  <programme start="20251101232000 +0600" stop="20251101235000 +0600" channel="EpicTV.in">
+    <title lang="bn">The Great Escape (1963)</title>
   </programme>
   <channel id="E24.in">
     <display-name>E24</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/4/48/E24_new.jpg"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="E24.in">
-    <title lang="bn">Karare Hits</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="E24.in">
     <title lang="bn">Karare Hits</title>
   </programme>
@@ -2262,13 +2259,13 @@
   <programme start="20251102070000 +0600" stop="20251102073000 +0600" channel="E24.in">
     <title lang="bn">Karare Hits</title>
   </programme>
+  <programme start="20251102073000 +0600" stop="20251102080000 +0600" channel="E24.in">
+    <title lang="bn">Karare Hits</title>
+  </programme>
   <channel id="DDNational.in@HD">
     <display-name>DD National HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="DDNational.in@HD">
-    <title lang="bn">Jazba</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="DDNational.in@HD">
     <title lang="bn">Khet Khet Mein</title>
   </programme>
@@ -2353,16 +2350,16 @@
   <programme start="20251102130000 +0600" stop="20251102133000 +0600" channel="DDNational.in@HD">
     <title lang="bn">Kookoo TV</title>
   </programme>
-  <programme start="20251102133000 +0600" stop="20251102140000 +0600" channel="DDNational.in@HD">
+  <programme start="20251102133000 +0600" stop="20251102163000 +0600" channel="DDNational.in@HD">
     <title lang="bn">Dushman Duniya ka</title>
+  </programme>
+  <programme start="20251102163000 +0600" stop="20251102170000 +0600" channel="DDNational.in@HD">
+    <title lang="bn">DD National</title>
   </programme>
   <channel id="AndTV.in">
     <display-name>&amp;TV HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/4/4c/%26TV_HD_%282025%29.svg"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="AndTV.in">
-    <title lang="bn">Happu Ki Ultan Paltan</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="AndTV.in">
     <title lang="bn">Happu Ki Ultan Paltan</title>
   </programme>
@@ -2450,13 +2447,13 @@
   <programme start="20251102123000 +0600" stop="20251102130000 +0600" channel="AndTV.in">
     <title lang="bn">Bhabi ji Ghar Par Hai!</title>
   </programme>
+  <programme start="20251102130000 +0600" stop="20251102133000 +0600" channel="AndTV.in">
+    <title lang="bn">Bhabi ji Ghar Par Hai!</title>
+  </programme>
   <channel id="starjalsha.in">
     <display-name>Star Jalsha</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"/>
   </channel>
-  <programme start="20251101163000 +0600" stop="20251101180000 +0600" channel="starjalsha.in">
-    <title lang="bn">Gatchhawra</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="starjalsha.in">
     <title lang="bn">Bholebaba Paar Karega</title>
   </programme>
@@ -2544,13 +2541,13 @@
   <programme start="20251102103000 +0600" stop="20251102110000 +0600" channel="starjalsha.in">
     <title lang="bn">Rangamati Tirandaj</title>
   </programme>
+  <programme start="20251102110000 +0600" stop="20251102113000 +0600" channel="starjalsha.in">
+    <title lang="bn">O Mor Dorodiya</title>
+  </programme>
   <channel id="colorsBangla.in">
     <display-name>Colors Bangla HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg"/>
   </channel>
-  <programme start="20251101140000 +0600" stop="20251101180000 +0600" channel="colorsBangla.in">
-    <title lang="bn">Shiv Shakti</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="colorsBangla.in">
     <title lang="bn">Tumpa Autowali</title>
   </programme>
@@ -2638,13 +2635,13 @@
   <programme start="20251102190000 +0600" stop="20251102193000 +0600" channel="colorsBangla.in">
     <title lang="bn">Ram-Krishnaa</title>
   </programme>
+  <programme start="20251102193000 +0600" stop="20251102200000 +0600" channel="colorsBangla.in">
+    <title lang="bn">Tumii Je Amar Maa</title>
+  </programme>
   <channel id="zeebangla.in">
     <display-name>Zee Bangla TV</display-name>
     <icon src="http://openboxv8s.com/india/zee_bangla.jpg"/>
   </channel>
-  <programme start="20251101170000 +0600" stop="20251101180000 +0600" channel="zeebangla.in">
-    <title lang="bn">Didi No 1</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="zeebangla.in">
     <title lang="bn">Kusum</title>
   </programme>
@@ -2732,6 +2729,9 @@
   <programme start="20251102103000 +0600" stop="20251102110000 +0600" channel="zeebangla.in">
     <title lang="bn">Chirodini Tumi Je Amar</title>
   </programme>
+  <programme start="20251102110000 +0600" stop="20251102113000 +0600" channel="zeebangla.in">
+    <title lang="bn">Phulki</title>
+  </programme>
   <channel id="indiatoday.in">
     <display-name>India Today</display-name>
     <icon src="https://images.seeklogo.com/logo-png/44/1/india-today-logo-png_seeklogo-440312.png"/>
@@ -2794,9 +2794,6 @@
     <display-name>NDTV English</display-name>
     <icon src="https://logotyp.us/file/ndtv.svg"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="ndtvenglish">
-    <title lang="bn">News</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="ndtvenglish">
     <title lang="bn">News</title>
   </programme>
@@ -2884,13 +2881,13 @@
   <programme start="20251102080000 +0600" stop="20251102083000 +0600" channel="ndtvenglish">
     <title lang="bn">India Ascends</title>
   </programme>
+  <programme start="20251102083000 +0600" stop="20251102090000 +0600" channel="ndtvenglish">
+    <title lang="bn">The Breakfast Show</title>
+  </programme>
   <channel id="ndtvindia">
     <display-name>NDTV India</display-name>
     <icon src="https://logotyp.us/file/ndtv.svg"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="ndtvindia">
-    <title lang="bn">Dekh Raha Hai India</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="ndtvindia">
     <title lang="bn">Dekh Raha Hai India</title>
   </programme>
@@ -2978,17 +2975,14 @@
   <programme start="20251102080000 +0600" stop="20251102083000 +0600" channel="ndtvindia">
     <title lang="bn">Good Morning India</title>
   </programme>
+  <programme start="20251102083000 +0600" stop="20251102090000 +0600" channel="ndtvindia">
+    <title lang="bn">Good Morning India</title>
+  </programme>
   <channel id="starsports1hd.in">
     <display-name>Star Sports 1 HD</display-name>
     <icon src="hhttp://openboxv8s.com/india/star_sports_in_1_hindi.png"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="starsports1hd.in">
-    <title lang="bn">Follow The Blues</title>
-  </programme>
-  <programme start="20251101180000 +0600" stop="20251101181500 +0600" channel="starsports1hd.in">
-    <title lang="bn">2nd T20: Australia v India; T20 Cricket</title>
-  </programme>
-  <programme start="20251101181500 +0600" stop="20251101183000 +0600" channel="starsports1hd.in">
+  <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="starsports1hd.in">
     <title lang="bn">ICC Women's World Cup; Cricket Countdown</title>
   </programme>
   <programme start="20251101183000 +0600" stop="20251101190000 +0600" channel="starsports1hd.in">
@@ -3072,17 +3066,17 @@
   <programme start="20251102053000 +0600" stop="20251102060000 +0600" channel="starsports1hd.in">
     <title lang="bn">4th T20I, South Africa vs India; T20 Cricket</title>
   </programme>
+  <programme start="20251102060000 +0600" stop="20251102061500 +0600" channel="starsports1hd.in">
+    <title lang="bn">3rd T20I, South Africa vs India; T20 Cricket</title>
+  </programme>
+  <programme start="20251102061500 +0600" stop="20251102063000 +0600" channel="starsports1hd.in">
+    <title lang="bn">Australia vs. India T20I Series 2016 Highlights</title>
+  </programme>
   <channel id="starsports1hindi.in">
     <display-name>Star Sports 1 Hindi</display-name>
     <icon src="https://static.epg.best/cn/StarSports1.cn.png"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="starsports1hindi.in">
-    <title lang="bn">Follow The Blues</title>
-  </programme>
-  <programme start="20251101180000 +0600" stop="20251101181500 +0600" channel="starsports1hindi.in">
-    <title lang="bn">2nd T20: Australia v India; T20 Cricket</title>
-  </programme>
-  <programme start="20251101181500 +0600" stop="20251101183000 +0600" channel="starsports1hindi.in">
+  <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="starsports1hindi.in">
     <title lang="bn">ICC Women's World Cup; Cricket Countdown</title>
   </programme>
   <programme start="20251101183000 +0600" stop="20251101190000 +0600" channel="starsports1hindi.in">
@@ -3166,17 +3160,17 @@
   <programme start="20251102053000 +0600" stop="20251102060000 +0600" channel="starsports1hindi.in">
     <title lang="bn">4th T20I, South Africa vs India; T20 Cricket</title>
   </programme>
+  <programme start="20251102060000 +0600" stop="20251102061500 +0600" channel="starsports1hindi.in">
+    <title lang="bn">3rd T20I, South Africa vs India; T20 Cricket</title>
+  </programme>
+  <programme start="20251102061500 +0600" stop="20251102063000 +0600" channel="starsports1hindi.in">
+    <title lang="bn">Australia vs. India T20I Series 2016 Highlights</title>
+  </programme>
   <channel id="starsports.tamil">
     <display-name>Star Sports Tamil 1</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="starsports.tamil">
-    <title lang="bn">ICC Womens World Cup; Game Plan</title>
-  </programme>
-  <programme start="20251101180000 +0600" stop="20251101181500 +0600" channel="starsports.tamil">
-    <title lang="bn">Semi-Final: India v Australia; ICC Women's Cricket Worl...</title>
-  </programme>
-  <programme start="20251101181500 +0600" stop="20251101183000 +0600" channel="starsports.tamil">
+  <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="starsports.tamil">
     <title lang="bn">Australia vs. India; Cricket Countdown</title>
   </programme>
   <programme start="20251101183000 +0600" stop="20251101190000 +0600" channel="starsports.tamil">
@@ -3260,17 +3254,17 @@
   <programme start="20251102053000 +0600" stop="20251102060000 +0600" channel="starsports.tamil">
     <title lang="bn">ICC T20 World Cup 2024 Australia vs India, 51st Match;...</title>
   </programme>
+  <programme start="20251102060000 +0600" stop="20251102063000 +0600" channel="starsports.tamil">
+    <title lang="bn">ICC Men's t20 world cup: India vs Afghanistan; T20 Cric...</title>
+  </programme>
+  <programme start="20251102063000 +0600" stop="20251102070000 +0600" channel="starsports.tamil">
+    <title lang="bn">ICC T20 World Cup 2024 India vs South Africa Final; T20...</title>
+  </programme>
   <channel id="starsports2hd.in">
     <display-name>Star Sports 2 4K</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/c/c3/SS2_Crop.jpg"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="starsports2hd.in">
-    <title lang="bn">ICC T20 World Cup 2024 Australia vs India, 51st Match;...</title>
-  </programme>
-  <programme start="20251101180000 +0600" stop="20251101181500 +0600" channel="starsports2hd.in">
-    <title lang="bn">ICC T20 World Cup 2024 India vs South Africa Final; T20...</title>
-  </programme>
-  <programme start="20251101181500 +0600" stop="20251101183000 +0600" channel="starsports2hd.in">
+  <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="starsports2hd.in">
     <title lang="bn">ICC WT20 Highlights</title>
   </programme>
   <programme start="20251101183000 +0600" stop="20251101190000 +0600" channel="starsports2hd.in">
@@ -3354,17 +3348,17 @@
   <programme start="20251102060000 +0600" stop="20251102063000 +0600" channel="starsports2hd.in">
     <title lang="bn">ICC CWC 2023: India vs South Africa, 37th Match; One-Da...</title>
   </programme>
+  <programme start="20251102063000 +0600" stop="20251102070000 +0600" channel="starsports2hd.in">
+    <title lang="bn">ICC T20 World Cup 2024 Australia vs India, 51st Match;...</title>
+  </programme>
+  <programme start="20251102070000 +0600" stop="20251102073000 +0600" channel="starsports2hd.in">
+    <title lang="bn">ICC CWC 2023 India vs England, 29th Match; One-Day Inte...</title>
+  </programme>
   <channel id="starsports3.in">
     <display-name>Star Sports 3 HD</display-name>
     <icon src="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="starsports3.in">
-    <title lang="bn">Pro Kabaddi Highlights</title>
-  </programme>
-  <programme start="20251101180000 +0600" stop="20251101181500 +0600" channel="starsports3.in">
-    <title lang="bn">ICC T20 World Cup 2024 Australia vs India, 51st Match;...</title>
-  </programme>
-  <programme start="20251101181500 +0600" stop="20251101183000 +0600" channel="starsports3.in">
+  <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="starsports3.in">
     <title lang="bn">Semi-Final: England v South Africa; ICC Women's Cricket...</title>
   </programme>
   <programme start="20251101183000 +0600" stop="20251101184500 +0600" channel="starsports3.in">
@@ -3448,13 +3442,16 @@
   <programme start="20251102083000 +0600" stop="20251102084500 +0600" channel="starsports3.in">
     <title lang="bn">Semi-Final: England v South Africa; ICC Women's Cricket...</title>
   </programme>
+  <programme start="20251102084500 +0600" stop="20251102090000 +0600" channel="starsports3.in">
+    <title lang="bn">Australia vs. India T20I Series 2016 Highlights</title>
+  </programme>
+  <programme start="20251102090000 +0600" stop="20251102093000 +0600" channel="starsports3.in">
+    <title lang="bn">ICC Womens World Cup; Game Plan</title>
+  </programme>
   <channel id="starsportsselect1.in">
     <display-name>Star Sports Select 1 HD</display-name>
     <icon src="https://static.epg.best/in/StarSportsSelect1.in.png"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="starsportsselect1.in">
-    <title lang="bn">Manchester United v Brighton &amp; Hove Albio; Premier Leag...</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="starsportsselect1.in">
     <title lang="bn">Aston Villa vs. Liverpool; Premier League Highlights</title>
   </programme>
@@ -3542,17 +3539,14 @@
   <programme start="20251102163000 +0600" stop="20251102170000 +0600" channel="starsportsselect1.in">
     <title lang="bn">Nottingham Forest v Manchester United; Premier League:...</title>
   </programme>
+  <programme start="20251102170000 +0600" stop="20251102173000 +0600" channel="starsportsselect1.in">
+    <title lang="bn">Tottenham Hotspur v Chelsea; Premier League: Match High...</title>
+  </programme>
   <channel id="starsportsselect2.in">
     <display-name>Star Sports Select 2 HD</display-name>
     <icon src="http://openboxv8s.com/india/star_sports2_in.jpg"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="starsportsselect2.in">
-    <title lang="bn">NFL Football</title>
-  </programme>
-  <programme start="20251101180000 +0600" stop="20251101181500 +0600" channel="starsportsselect2.in">
-    <title lang="bn">NFL Football</title>
-  </programme>
-  <programme start="20251101181500 +0600" stop="20251101183000 +0600" channel="starsportsselect2.in">
+  <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="starsportsselect2.in">
     <title lang="bn">Tottenham Hotspur v Chelsea; Premier League: Match High...</title>
   </programme>
   <programme start="20251101183000 +0600" stop="20251101190000 +0600" channel="starsportsselect2.in">
@@ -3636,13 +3630,16 @@
   <programme start="20251102190000 +0600" stop="20251102191500 +0600" channel="starsportsselect2.in">
     <title lang="bn">NFL Football</title>
   </programme>
+  <programme start="20251102191500 +0600" stop="20251103000000 +0600" channel="starsportsselect2.in">
+    <title lang="bn">Live - BWF World Tour Badminton</title>
+  </programme>
+  <programme start="20251103000000 +0600" stop="20251103003000 +0600" channel="starsportsselect2.in">
+    <title lang="bn">Live - Indianapolis Colts at Pittsburgh Steelers; NFL F...</title>
+  </programme>
   <channel id="sonyten1.in">
     <display-name>Sony Ten 1 HD</display-name>
     <icon src="https://static.epg.best/in/SonyTEN1.in.png"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="sonyten1.in">
-    <title lang="bn">1st ODI: New Zealand v England; One-Day International C...</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="sonyten1.in">
     <title lang="bn">2nd ODI: New Zealand v England; One-Day International C...</title>
   </programme>
@@ -3694,8 +3691,11 @@
   <programme start="20251102050100 +0600" stop="20251102060000 +0600" channel="sonyten1.in">
     <title lang="bn">3rd ODI: New Zealand v England; One-Day International C...</title>
   </programme>
-  <programme start="20251102060000 +0600" stop="20251102080000 +0600" channel="sonyten1.in">
+  <programme start="20251102060000 +0600" stop="20251102063000 +0600" channel="sonyten1.in">
     <title lang="bn">Live - Saturday Night's Main Event</title>
+  </programme>
+  <programme start="20251102063000 +0600" stop="20251102080000 +0600" channel="sonyten1.in">
+    <title lang="bn">1st T20: New Zealand vs Australia; T20 Cricket</title>
   </programme>
   <programme start="20251102080000 +0600" stop="20251102083000 +0600" channel="sonyten1.in">
     <title lang="bn">3rd ODI: New Zealand v England; One-Day International C...</title>
@@ -3828,9 +3828,6 @@
     <display-name>Sony Ten 3 HD</display-name>
     <icon src="https://static.epg.best/in/SonyTEN3.in.png"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="sonyten3.in">
-    <title lang="bn">Real Madrid vs Juventus; UEFA Champions League Highligh...</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101200000 +0600" channel="sonyten3.in">
     <title lang="bn">2nd Test: England vs India; Test Cricket</title>
   </programme>
@@ -3876,8 +3873,11 @@
   <programme start="20251102040100 +0600" stop="20251102043000 +0600" channel="sonyten3.in">
     <title lang="bn">2nd T20 :England v India; Women's T20 Cricket</title>
   </programme>
-  <programme start="20251102043000 +0600" stop="20251102053000 +0600" channel="sonyten3.in">
+  <programme start="20251102043000 +0600" stop="20251102050000 +0600" channel="sonyten3.in">
     <title lang="bn">Bharat Tum Chale Chalo - Kahani 2021-22 Ki</title>
+  </programme>
+  <programme start="20251102050000 +0600" stop="20251102053000 +0600" channel="sonyten3.in">
+    <title lang="bn">England vs India 2025 5th Test; Best of the Tests</title>
   </programme>
   <programme start="20251102053000 +0600" stop="20251102060000 +0600" channel="sonyten3.in">
     <title lang="bn">Real Madrid vs Juventus; UEFA Champions League Highligh...</title>
@@ -3922,9 +3922,6 @@
     <display-name>NEWS | Republic TV</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/f/fe/Republic-logo2.svg"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="RepublicTV.in">
-    <title lang="bn">Live And Breaking</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="RepublicTV.in">
     <title lang="bn">Get Me Right</title>
   </programme>
@@ -3960,6 +3957,9 @@
   </programme>
   <programme start="20251102090000 +0600" stop="20251102093000 +0600" channel="RepublicTV.in">
     <title lang="bn">6 Stories At 6</title>
+  </programme>
+  <programme start="20251102093000 +0600" stop="20251102100000 +0600" channel="RepublicTV.in">
+    <title lang="bn">Live And Breaking</title>
   </programme>
   <channel id="TimesNowNavbharat">
     <display-name>NEWS | Times Now Navbhara</display-name>
@@ -4051,9 +4051,6 @@
     <display-name>ENT | Ishara TV</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/7/75/Ishara_tv.png"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="IsharaTV.in">
-    <title lang="bn">Afsar Bitiya</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="IsharaTV.in">
     <title lang="bn">Afsar Bitiya</title>
   </programme>
@@ -4087,7 +4084,10 @@
   <programme start="20251102023000 +0600" stop="20251102033000 +0600" channel="IsharaTV.in">
     <title lang="bn">Shrimad Bhagwat Katha Acharyaji</title>
   </programme>
-  <programme start="20251102033000 +0600" stop="20251102040000 +0600" channel="IsharaTV.in">
+  <programme start="20251102033000 +0600" stop="20251102053000 +0600" channel="IsharaTV.in">
+    <title lang="bn">Shrimad Bhagwat Katha Acharyaji</title>
+  </programme>
+  <programme start="20251102053000 +0600" stop="20251102060000 +0600" channel="IsharaTV.in">
     <title lang="bn">Shrimad Bhagwat Katha Acharyaji</title>
   </programme>
   <channel id="DANGAL2">
@@ -4216,9 +4216,6 @@
     <display-name>AKASH 8</display-name>
     <icon src="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="akashaat.in">
-    <title lang="bn">Shankhachur</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="akashaat.in">
     <title lang="bn">Radhuni</title>
   </programme>
@@ -4255,15 +4252,15 @@
   <programme start="20251102043000 +0600" stop="20251102050000 +0600" channel="akashaat.in">
     <title lang="bn">Radhuni</title>
   </programme>
+  <programme start="20251102050000 +0600" stop="20251102053000 +0600" channel="akashaat.in">
+    <title lang="bn">Adi Shakti Adyapeeth</title>
+  </programme>
   <channel id="sunbangla.in">
     <display-name>SUN Bangla</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png"/>
   </channel>
-  <programme start="20251101172900 +0600" stop="20251101175900 +0600" channel="sunbangla.in">
-    <title lang="bn">Lakh Takar Lokkhi Labh</title>
-  </programme>
-  <programme start="20251101175900 +0600" stop="20251101183000 +0600" channel="sunbangla.in">
-    <title lang="bn">Ramayan (1961)</title>
+  <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="sunbangla.in">
+    <title lang="bn">Ramayan(1961)</title>
   </programme>
   <programme start="20251101183000 +0600" stop="20251101201500 +0600" channel="sunbangla.in">
     <title lang="bn">Lakh Takar Lokkhi Labh</title>
@@ -4297,6 +4294,9 @@
   </programme>
   <programme start="20251102080000 +0600" stop="20251102083000 +0600" channel="sunbangla.in">
     <title lang="bn">Ramayan (1961)</title>
+  </programme>
+  <programme start="20251102083000 +0600" stop="20251102090000 +0600" channel="sunbangla.in">
+    <title lang="bn">Hoi Hullor</title>
   </programme>
   <channel id="enter10bangla.in">
     <display-name>Enter 10 Bangla</display-name>
@@ -4392,11 +4392,8 @@
     <display-name>SONY SAB HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/18/SONY_SAB_SD.png"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="sonysabhd.in">
-    <title lang="bn">Itti Si Khushi</title>
-  </programme>
   <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="sonysabhd.in">
-    <title lang="bn">Pushpa Impossible (2022)</title>
+    <title lang="bn">Pushpa Impossible(2022)</title>
   </programme>
   <programme start="20251101183000 +0600" stop="20251101190000 +0600" channel="sonysabhd.in">
     <title lang="bn">Taarak Mehta Ka Ooltah Chashmah (2008)</title>
@@ -4431,14 +4428,14 @@
   <programme start="20251101233000 +0600" stop="20251102000000 +0600" channel="sonysabhd.in">
     <title lang="bn">Taarak Mehta Ka Ooltah Chashmah (2008)</title>
   </programme>
+  <programme start="20251102000000 +0600" stop="20251102003000 +0600" channel="sonysabhd.in">
+    <title lang="bn">Pushpa Impossible (2022)</title>
+  </programme>
   <channel id="RepublicBangla.in">
     <display-name>Republic Bangla</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/9/93/R.Bangla_logo_with_tagline.jpg"/>
   </channel>
-  <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="RepublicBangla.in">
-    <title lang="bn">Hochhe Taa ki</title>
-  </programme>
-  <programme start="20251101180000 +0600" stop="20251101193000 +0600" channel="RepublicBangla.in">
+  <programme start="20251101190000 +0600" stop="20251101193000 +0600" channel="RepublicBangla.in">
     <title lang="bn">Hochhe Taa ki</title>
   </programme>
   <programme start="20251101193000 +0600" stop="20251101200000 +0600" channel="RepublicBangla.in">
@@ -4474,13 +4471,13 @@
   <programme start="20251102013000 +0600" stop="20251102020000 +0600" channel="RepublicBangla.in">
     <title lang="bn">Shojashoji Swarnali</title>
   </programme>
+  <programme start="20251102020000 +0600" stop="20251102023000 +0600" channel="RepublicBangla.in">
+    <title lang="bn">Shojashoji Swarnali</title>
+  </programme>
   <channel id="DisneyJunior.in">
     <display-name>Disney Junior</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"/>
   </channel>
-  <programme start="20251101120000 +0600" stop="20251101123000 +0600" channel="DisneyJunior.in">
-    <title lang="bn">Bluey</title>
-  </programme>
   <programme start="20251101123000 +0600" stop="20251101200000 +0600" channel="DisneyJunior.in">
     <title lang="bn">Bluey</title>
   </programme>
@@ -4515,6 +4512,9 @@
     <title lang="bn">Pupstruction</title>
   </programme>
   <programme start="20251102113000 +0600" stop="20251102120000 +0600" channel="DisneyJunior.in">
+    <title lang="bn">Bluey</title>
+  </programme>
+  <programme start="20251102120000 +0600" stop="20251102123000 +0600" channel="DisneyJunior.in">
     <title lang="bn">Bluey</title>
   </programme>
   <channel id="DDBharati.in">
@@ -5776,920 +5776,68 @@
     <display-name>CGTN</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/>
   </channel>
-  <programme start="20251101000000 +0600" stop="20251101003000 +0600" channel="CGTN.cn">
-    <title lang="bn">我們香港變幻時[粵]</title>
+  <programme start="20251101000000 +0600" stop="20251101023000 +0600" channel="CGTN.cn">
+    <title lang="bn">动漫世界-2025-305</title>
   </programme>
-  <programme start="20251101003000 +0600" stop="20251101010000 +0600" channel="CGTN.cn">
-    <title lang="bn">周六聊Teen谷[粵]</title>
+  <programme start="20251101023000 +0600" stop="20251101043000 +0600" channel="CGTN.cn">
+    <title lang="bn">熊出没-狂野大陆</title>
   </programme>
-  <programme start="20251101010000 +0600" stop="20251101011500 +0600" channel="CGTN.cn">
-    <title lang="bn">午間新聞[粵]</title>
+  <programme start="20251101043000 +0600" stop="20251101063500 +0600" channel="CGTN.cn">
+    <title lang="bn">动画大放映（周末下午版）-2025-241</title>
   </programme>
-  <programme start="20251101011500 +0600" stop="20251101012000 +0600" channel="CGTN.cn">
-    <title lang="bn">警聲百二秒 III[粵]</title>
+  <programme start="20251101063500 +0600" stop="20251101065500 +0600" channel="CGTN.cn">
+    <title lang="bn">虫虫世界历险记-29</title>
   </programme>
-  <programme start="20251101012000 +0600" stop="20251101013500 +0600" channel="CGTN.cn">
-    <title lang="bn">勁歌金榜[粵]</title>
+  <programme start="20251101065500 +0600" stop="20251101095000 +0600" channel="CGTN.cn">
+    <title lang="bn">动画大放映（周末黄金版）-2025-135</title>
   </programme>
-  <programme start="20251101013500 +0600" stop="20251101022000 +0600" channel="CGTN.cn">
-    <title lang="bn">三餸一湯[粵]</title>
+  <programme start="20251101095000 +0600" stop="20251101103800 +0600" channel="CGTN.cn">
+    <title lang="bn">战天狼-21/39</title>
   </programme>
-  <programme start="20251101022000 +0600" stop="20251101025500 +0600" channel="CGTN.cn">
-    <title lang="bn">英雄召集：超級電競大派對[直播][粵]</title>
+  <programme start="20251101103800 +0600" stop="20251101112800 +0600" channel="CGTN.cn">
+    <title lang="bn">战天狼-22/39</title>
   </programme>
-  <programme start="20251101025500 +0600" stop="20251101063000 +0600" channel="CGTN.cn">
-    <title lang="bn">2025英雄聯盟全球總決賽半決賽[直播][粵/普]</title>
+  <programme start="20251101112800 +0600" stop="20251101125200 +0600" channel="CGTN.cn">
+    <title lang="bn">电影-虎穴追踪</title>
   </programme>
-  <programme start="20251101063000 +0600" stop="20251101065500 +0600" channel="CGTN.cn">
-    <title lang="bn">六點半新聞報道[粵]</title>
+  <programme start="20251101125200 +0600" stop="20251101180000 +0600" channel="CGTN.cn">
+    <title lang="bn">再见</title>
   </programme>
-  <programme start="20251101065500 +0600" stop="20251101070000 +0600" channel="CGTN.cn">
-    <title lang="bn">天氣報告[粵]</title>
+  <programme start="20251101180000 +0600" stop="20251101194500 +0600" channel="CGTN.cn">
+    <title lang="bn">动画大放映（周末早间版）-2025-89</title>
   </programme>
-  <programme start="20251101070000 +0600" stop="20251101073000 +0600" channel="CGTN.cn">
-    <title lang="bn">新聞透視[粵]</title>
+  <programme start="20251101194500 +0600" stop="20251101204500 +0600" channel="CGTN.cn">
+    <title lang="bn">英雄出少年-2025-43</title>
   </programme>
-  <programme start="20251101073000 +0600" stop="20251101073500 +0600" channel="CGTN.cn">
-    <title lang="bn">好嘢港多啲[粵]</title>
+  <programme start="20251101204500 +0600" stop="20251101210500 +0600" channel="CGTN.cn">
+    <title lang="bn">动画大放映（周末上午版）2025-333</title>
   </programme>
-  <programme start="20251101073500 +0600" stop="20251101080000 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望[粵]</title>
+  <programme start="20251101210500 +0600" stop="20251102000000 +0600" channel="CGTN.cn">
+    <title lang="bn">动画大放映（周末黄金版）-2025-135</title>
   </programme>
-  <programme start="20251101080000 +0600" stop="20251101083000 +0600" channel="CGTN.cn">
-    <title lang="bn">空運世一[粵]</title>
+  <programme start="20251102000000 +0600" stop="20251102013000 +0600" channel="CGTN.cn">
+    <title lang="bn">动漫世界-2025-306</title>
   </programme>
-  <programme start="20251101083000 +0600" stop="20251101111500 +0600" channel="CGTN.cn">
-    <title lang="bn">拆彈專家[粵][PG]</title>
+  <programme start="20251102013000 +0600" stop="20251102033000 +0600" channel="CGTN.cn">
+    <title lang="bn">熊出没-重返地球</title>
   </programme>
-  <programme start="20251101111500 +0600" stop="20251101113000 +0600" channel="CGTN.cn">
-    <title lang="bn">晚間新聞[粵] 及 天氣報告[粵]</title>
+  <programme start="20251102033000 +0600" stop="20251102053500 +0600" channel="CGTN.cn">
+    <title lang="bn">动画大放映（周末下午版）-2025-244</title>
   </programme>
-  <programme start="20251101113000 +0600" stop="20251101120000 +0600" channel="CGTN.cn">
-    <title lang="bn">財經透視[粵]</title>
+  <programme start="20251102053500 +0600" stop="20251102055500 +0600" channel="CGTN.cn">
+    <title lang="bn">虫虫世界历险记-30</title>
   </programme>
-  <programme start="20251101120000 +0600" stop="20251101130000 +0600" channel="CGTN.cn">
-    <title lang="bn">新鮮人#7[粵][PG]</title>
+  <programme start="20251102055500 +0600" stop="20251102085000 +0600" channel="CGTN.cn">
+    <title lang="bn">动画大放映（周末黄金版）-2025-136</title>
   </programme>
-  <programme start="20251101130000 +0600" stop="20251101130500 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
+  <programme start="20251102085000 +0600" stop="20251102093800 +0600" channel="CGTN.cn">
+    <title lang="bn">战天狼-23/39</title>
   </programme>
-  <programme start="20251101130500 +0600" stop="20251101133000 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望[粵]</title>
+  <programme start="20251102093800 +0600" stop="20251102102800 +0600" channel="CGTN.cn">
+    <title lang="bn">战天狼-24/39</title>
   </programme>
-  <programme start="20251101133000 +0600" stop="20251101133500 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251101133500 +0600" stop="20251101140500 +0600" channel="CGTN.cn">
-    <title lang="bn">我們香港變幻時[粵]</title>
-  </programme>
-  <programme start="20251101140500 +0600" stop="20251101143500 +0600" channel="CGTN.cn">
-    <title lang="bn">周六聊Teen谷[粵]</title>
-  </programme>
-  <programme start="20251101143500 +0600" stop="20251101150500 +0600" channel="CGTN.cn">
-    <title lang="bn">黃金盛宴[粵]</title>
-  </programme>
-  <programme start="20251101150500 +0600" stop="20251101153000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港本色[粵]</title>
-  </programme>
-  <programme start="20251101153000 +0600" stop="20251101160000 +0600" channel="CGTN.cn">
-    <title lang="bn">手匠傳承[粵/韓]</title>
-  </programme>
-  <programme start="20251101160000 +0600" stop="20251101170000 +0600" channel="CGTN.cn">
-    <title lang="bn">沿著運河看中國[粵/英][PG]</title>
-  </programme>
-  <programme start="20251101170000 +0600" stop="20251101180000 +0600" channel="CGTN.cn">
-    <title lang="bn">一路前行II[粵/普]</title>
-  </programme>
-  <programme start="20251101180000 +0600" stop="20251101190000 +0600" channel="CGTN.cn">
-    <title lang="bn">區區開伙[粵][PG]</title>
-  </programme>
-  <programme start="20251101190000 +0600" stop="20251101193000 +0600" channel="CGTN.cn">
-    <title lang="bn">關你家事[粵]</title>
-  </programme>
-  <programme start="20251101193000 +0600" stop="20251101200000 +0600" channel="CGTN.cn">
-    <title lang="bn">關你家事[粵]</title>
-  </programme>
-  <programme start="20251101200000 +0600" stop="20251101210000 +0600" channel="CGTN.cn">
-    <title lang="bn">京都畫報[粵/日]</title>
-  </programme>
-  <programme start="20251101210000 +0600" stop="20251101213000 +0600" channel="CGTN.cn">
-    <title lang="bn">星夢頻道[粵/日]</title>
-  </programme>
-  <programme start="20251101213000 +0600" stop="20251101220000 +0600" channel="CGTN.cn">
-    <title lang="bn">星夢頻道[粵/日]</title>
-  </programme>
-  <programme start="20251101220000 +0600" stop="20251101223000 +0600" channel="CGTN.cn">
-    <title lang="bn">愛犬訊號[粵/日]</title>
-  </programme>
-  <programme start="20251101223000 +0600" stop="20251101230000 +0600" channel="CGTN.cn">
-    <title lang="bn">愛犬訊號[粵/日]</title>
-  </programme>
-  <programme start="20251101230000 +0600" stop="20251101233000 +0600" channel="CGTN.cn">
-    <title lang="bn">講清講楚[粵]</title>
-  </programme>
-  <programme start="20251101233000 +0600" stop="20251101235500 +0600" channel="CGTN.cn">
-    <title lang="bn">12個夏天[粵]</title>
-  </programme>
-  <programme start="20251101235500 +0600" stop="20251102000000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251102000000 +0600" stop="20251102003000 +0600" channel="CGTN.cn">
-    <title lang="bn">食好D 食平D[粵]</title>
-  </programme>
-  <programme start="20251102003000 +0600" stop="20251102010000 +0600" channel="CGTN.cn">
-    <title lang="bn">食好D 食平D[粵]</title>
-  </programme>
-  <programme start="20251102010000 +0600" stop="20251102011500 +0600" channel="CGTN.cn">
-    <title lang="bn">午間新聞[粵]</title>
-  </programme>
-  <programme start="20251102011500 +0600" stop="20251102012000 +0600" channel="CGTN.cn">
-    <title lang="bn">寵物大聯萌[粵]</title>
-  </programme>
-  <programme start="20251102012000 +0600" stop="20251102014500 +0600" channel="CGTN.cn">
-    <title lang="bn">英雄召集：超級電競大派對[直播][粵]</title>
-  </programme>
-  <programme start="20251102014500 +0600" stop="20251102015500 +0600" channel="CGTN.cn">
-    <title lang="bn">寵物大聯萌[粵]</title>
-  </programme>
-  <programme start="20251102015500 +0600" stop="20251102052500 +0600" channel="CGTN.cn">
-    <title lang="bn">2025英雄聯盟全球總決賽半決賽[直播][粵/普]</title>
-  </programme>
-  <programme start="20251102052500 +0600" stop="20251102053000 +0600" channel="CGTN.cn">
-    <title lang="bn">好嘢港多啲[粵]</title>
-  </programme>
-  <programme start="20251102053000 +0600" stop="20251102055500 +0600" channel="CGTN.cn">
-    <title lang="bn">六點半新聞報道[粵]</title>
-  </programme>
-  <programme start="20251102055500 +0600" stop="20251102060000 +0600" channel="CGTN.cn">
-    <title lang="bn">天氣報告[粵]</title>
-  </programme>
-  <programme start="20251102060000 +0600" stop="20251102063000 +0600" channel="CGTN.cn">
-    <title lang="bn">星期日檔案[粵]</title>
-  </programme>
-  <programme start="20251102063000 +0600" stop="20251102063500 +0600" channel="CGTN.cn">
-    <title lang="bn">警聲百二秒 III[粵]</title>
-  </programme>
-  <programme start="20251102063500 +0600" stop="20251102070000 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20251102070000 +0600" stop="20251102091500 +0600" channel="CGTN.cn">
-    <title lang="bn">聲秀決賽 終極聲戰[粵]</title>
-  </programme>
-  <programme start="20251102091500 +0600" stop="20251102093000 +0600" channel="CGTN.cn">
-    <title lang="bn">聲秀 王者登場[粵]</title>
-  </programme>
-  <programme start="20251102093000 +0600" stop="20251102100000 +0600" channel="CGTN.cn">
-    <title lang="bn">美食新聞周報[粵]</title>
-  </programme>
-  <programme start="20251102100000 +0600" stop="20251102101500 +0600" channel="CGTN.cn">
-    <title lang="bn">娛樂頭條[粵]</title>
-  </programme>
-  <programme start="20251102101500 +0600" stop="20251102103000 +0600" channel="CGTN.cn">
-    <title lang="bn">晚間新聞[粵]</title>
-  </programme>
-  <programme start="20251102103000 +0600" stop="20251102103500 +0600" channel="CGTN.cn">
-    <title lang="bn">天氣報告[粵]</title>
-  </programme>
-  <programme start="20251102103500 +0600" stop="20251102113000 +0600" channel="CGTN.cn">
-    <title lang="bn">新鮮人#8[粵][PG]</title>
-  </programme>
-  <programme start="20251102113000 +0600" stop="20251102113500 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251102113500 +0600" stop="20251102120000 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20251102120000 +0600" stop="20251102121000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251102121000 +0600" stop="20251102131000 +0600" channel="CGTN.cn">
-    <title lang="bn">大師級大觀園[粵/英]</title>
-  </programme>
-  <programme start="20251102131000 +0600" stop="20251102134000 +0600" channel="CGTN.cn">
-    <title lang="bn">科學一眼看清[粵/英]</title>
-  </programme>
-  <programme start="20251102134000 +0600" stop="20251102141000 +0600" channel="CGTN.cn">
-    <title lang="bn">西葡潮什麼[粵]</title>
-  </programme>
-  <programme start="20251102141000 +0600" stop="20251102144000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港本色[粵]</title>
-  </programme>
-  <programme start="20251102144000 +0600" stop="20251102150500 +0600" channel="CGTN.cn">
-    <title lang="bn">12個夏天[粵]</title>
-  </programme>
-  <programme start="20251102150500 +0600" stop="20251102153000 +0600" channel="CGTN.cn">
-    <title lang="bn">食好D 食平D[粵]</title>
-  </programme>
-  <programme start="20251102153000 +0600" stop="20251102160000 +0600" channel="CGTN.cn">
-    <title lang="bn">食好D 食平D[粵]</title>
-  </programme>
-  <programme start="20251102160000 +0600" stop="20251102170000 +0600" channel="CGTN.cn">
-    <title lang="bn">京都畫報[粵/日]</title>
-  </programme>
-  <programme start="20251102170000 +0600" stop="20251102184000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251102184000 +0600" stop="20251102191000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251102191000 +0600" stop="20251102194000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251102194000 +0600" stop="20251102200000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵]</title>
-  </programme>
-  <programme start="20251102200000 +0600" stop="20251102210000 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵]</title>
-  </programme>
-  <programme start="20251102210000 +0600" stop="20251102210500 +0600" channel="CGTN.cn">
-    <title lang="bn">勁歌推介[粵]</title>
-  </programme>
-  <programme start="20251102210500 +0600" stop="20251102213500 +0600" channel="CGTN.cn">
-    <title lang="bn">茶煲世家#37[粵]</title>
-  </programme>
-  <programme start="20251102213500 +0600" stop="20251102223500 +0600" channel="CGTN.cn">
-    <title lang="bn">驪歌行#27[粵/普]</title>
-  </programme>
-  <programme start="20251102223500 +0600" stop="20251102224000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251102224000 +0600" stop="20251102231500 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵] 及 潮流生活誌[粵]</title>
-  </programme>
-  <programme start="20251102231500 +0600" stop="20251102235000 +0600" channel="CGTN.cn">
-    <title lang="bn">阿爺廚房[粵]</title>
-  </programme>
-  <programme start="20251102235000 +0600" stop="20251102235500 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251102235500 +0600" stop="20251103000000 +0600" channel="CGTN.cn">
-    <title lang="bn">英雄召集：點解電競係電競[粵]</title>
-  </programme>
-  <programme start="20251103000000 +0600" stop="20251103002000 +0600" channel="CGTN.cn">
-    <title lang="bn">午間新聞[粵]</title>
-  </programme>
-  <programme start="20251103002000 +0600" stop="20251103011000 +0600" channel="CGTN.cn">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20251103011000 +0600" stop="20251103014000 +0600" channel="CGTN.cn">
-    <title lang="bn">生活100錯[粵]</title>
-  </programme>
-  <programme start="20251103014000 +0600" stop="20251103015000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251103015000 +0600" stop="20251103025000 +0600" channel="CGTN.cn">
-    <title lang="bn">王老虎搶親#6[粵]</title>
-  </programme>
-  <programme start="20251103025000 +0600" stop="20251103032000 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵]</title>
-  </programme>
-  <programme start="20251103032000 +0600" stop="20251103035000 +0600" channel="CGTN.cn">
-    <title lang="bn">忍者亂太郎[粵/日]</title>
-  </programme>
-  <programme start="20251103035000 +0600" stop="20251103042000 +0600" channel="CGTN.cn">
-    <title lang="bn">Hands Up[粵] 及 成語動畫廊[粵]</title>
-  </programme>
-  <programme start="20251103042000 +0600" stop="20251103045000 +0600" channel="CGTN.cn">
-    <title lang="bn">多啦A夢[粵]</title>
-  </programme>
-  <programme start="20251103045000 +0600" stop="20251103050000 +0600" channel="CGTN.cn">
-    <title lang="bn">財經新聞[粵]</title>
-  </programme>
-  <programme start="20251103050000 +0600" stop="20251103052500 +0600" channel="CGTN.cn">
-    <title lang="bn">今日有樓睇[粵] 及 潮流生活誌[粵]</title>
-  </programme>
-  <programme start="20251103052500 +0600" stop="20251103053000 +0600" channel="CGTN.cn">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251103053000 +0600" stop="20251103061500 +0600" channel="CGTN.cn">
-    <title lang="bn">六點半新聞報道[粵]</title>
-  </programme>
-  <programme start="20251103061500 +0600" stop="20251103062500 +0600" channel="CGTN.cn">
-    <title lang="bn">世界觀[粵] 及 天氣報告[粵]</title>
-  </programme>
-  <programme start="20251103062500 +0600" stop="20251103063000 +0600" channel="CGTN.cn">
-    <title lang="bn">有理說得清[粵]</title>
-  </programme>
-  <programme start="20251103063000 +0600" stop="20251103070000 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20251103070000 +0600" stop="20251103070300 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望 - 獨家直播三分鐘 [粵]</title>
-  </programme>
-  <programme start="20251103070300 +0600" stop="20251103083000 +0600" channel="CGTN.cn">
-    <title lang="bn">愛．回家之開心速遞#2676[粵]</title>
-  </programme>
-  <programme start="20251103083000 +0600" stop="20251103093000 +0600" channel="CGTN.cn">
-    <title lang="bn">金式森林#16[粵] 及 英雄召集：點解電競係電競[粵]</title>
-  </programme>
-  <programme start="20251103093000 +0600" stop="20251103100000 +0600" channel="CGTN.cn">
-    <title lang="bn">攻你上大學[粵]</title>
-  </programme>
-  <programme start="20251103100000 +0600" stop="20251103101500 +0600" channel="CGTN.cn">
-    <title lang="bn">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251103101500 +0600" stop="20251103104500 +0600" channel="CGTN.cn">
-    <title lang="bn">晚間新聞[粵]</title>
-  </programme>
-  <programme start="20251103104500 +0600" stop="20251103105000 +0600" channel="CGTN.cn">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251103105000 +0600" stop="20251103105500 +0600" channel="CGTN.cn">
-    <title lang="bn">天氣報告[粵] 及 潮流生活誌[粵]</title>
-  </programme>
-  <programme start="20251103105500 +0600" stop="20251103122500 +0600" channel="CGTN.cn">
-    <title lang="bn">無業樓民#21[粵]</title>
-  </programme>
-  <programme start="20251103122500 +0600" stop="20251103123000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251103123000 +0600" stop="20251103133000 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20251103133000 +0600" stop="20251103141500 +0600" channel="CGTN.cn">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20251103141500 +0600" stop="20251103151000 +0600" channel="CGTN.cn">
-    <title lang="bn">王老虎搶親#6[粵]</title>
-  </programme>
-  <programme start="20251103151000 +0600" stop="20251103160000 +0600" channel="CGTN.cn">
-    <title lang="bn">驪歌行#27[粵/普]</title>
-  </programme>
-  <programme start="20251103160000 +0600" stop="20251103170000 +0600" channel="CGTN.cn">
-    <title lang="bn">是日播映完畢</title>
-  </programme>
-  <programme start="20251103170000 +0600" stop="20251103184000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251103184000 +0600" stop="20251103184500 +0600" channel="CGTN.cn">
-    <title lang="bn">環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251103184500 +0600" stop="20251103191000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251103191000 +0600" stop="20251103194000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251103194000 +0600" stop="20251103200000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵]</title>
-  </programme>
-  <programme start="20251103200000 +0600" stop="20251103210000 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵]</title>
-  </programme>
-  <programme start="20251103210000 +0600" stop="20251103211000 +0600" channel="CGTN.cn">
-    <title lang="bn">早市戰報[粵]</title>
-  </programme>
-  <programme start="20251103211000 +0600" stop="20251103212000 +0600" channel="CGTN.cn">
-    <title lang="bn">通悉牛熊[粵]</title>
-  </programme>
-  <programme start="20251103212000 +0600" stop="20251103224000 +0600" channel="CGTN.cn">
-    <title lang="bn">早市戰報[粵]</title>
-  </programme>
-  <programme start="20251103224000 +0600" stop="20251103231500 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵]</title>
-  </programme>
-  <programme start="20251103231500 +0600" stop="20251103235000 +0600" channel="CGTN.cn">
-    <title lang="bn">阿爺廚房[粵]</title>
-  </programme>
-  <programme start="20251103235000 +0600" stop="20251103235500 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251103235500 +0600" stop="20251104000000 +0600" channel="CGTN.cn">
-    <title lang="bn">英雄召集：點解電競係電競[粵]</title>
-  </programme>
-  <programme start="20251104000000 +0600" stop="20251104002000 +0600" channel="CGTN.cn">
-    <title lang="bn">午間新聞[粵]</title>
-  </programme>
-  <programme start="20251104002000 +0600" stop="20251104011000 +0600" channel="CGTN.cn">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20251104011000 +0600" stop="20251104014000 +0600" channel="CGTN.cn">
-    <title lang="bn">生活100錯[粵]</title>
-  </programme>
-  <programme start="20251104014000 +0600" stop="20251104015000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251104015000 +0600" stop="20251104025000 +0600" channel="CGTN.cn">
-    <title lang="bn">王老虎搶親#7[粵]</title>
-  </programme>
-  <programme start="20251104025000 +0600" stop="20251104032000 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵]</title>
-  </programme>
-  <programme start="20251104032000 +0600" stop="20251104035000 +0600" channel="CGTN.cn">
-    <title lang="bn">忍者亂太郎[粵/日]</title>
-  </programme>
-  <programme start="20251104035000 +0600" stop="20251104042000 +0600" channel="CGTN.cn">
-    <title lang="bn">Hands Up[粵] 及 成語動畫廊[粵]</title>
-  </programme>
-  <programme start="20251104042000 +0600" stop="20251104045000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔神創造傳[粵/日]</title>
-  </programme>
-  <programme start="20251104045000 +0600" stop="20251104050000 +0600" channel="CGTN.cn">
-    <title lang="bn">財經新聞[粵]</title>
-  </programme>
-  <programme start="20251104050000 +0600" stop="20251104052500 +0600" channel="CGTN.cn">
-    <title lang="bn">最強生命線[粵]</title>
-  </programme>
-  <programme start="20251104052500 +0600" stop="20251104053000 +0600" channel="CGTN.cn">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251104053000 +0600" stop="20251104061500 +0600" channel="CGTN.cn">
-    <title lang="bn">六點半新聞報道[粵]</title>
-  </programme>
-  <programme start="20251104061500 +0600" stop="20251104062500 +0600" channel="CGTN.cn">
-    <title lang="bn">世界觀[粵] 及 天氣報告[粵]</title>
-  </programme>
-  <programme start="20251104062500 +0600" stop="20251104063000 +0600" channel="CGTN.cn">
-    <title lang="bn">有理說得清[粵]</title>
-  </programme>
-  <programme start="20251104063000 +0600" stop="20251104073000 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20251104073000 +0600" stop="20251104083000 +0600" channel="CGTN.cn">
-    <title lang="bn">愛．回家之開心速遞#2677[粵]</title>
-  </programme>
-  <programme start="20251104083000 +0600" stop="20251104093000 +0600" channel="CGTN.cn">
-    <title lang="bn">金式森林#17[粵] 及 英雄召集：點解電競係電競[粵]</title>
-  </programme>
-  <programme start="20251104093000 +0600" stop="20251104100000 +0600" channel="CGTN.cn">
-    <title lang="bn">攻你上大學[粵]</title>
-  </programme>
-  <programme start="20251104100000 +0600" stop="20251104101500 +0600" channel="CGTN.cn">
-    <title lang="bn">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251104101500 +0600" stop="20251104104500 +0600" channel="CGTN.cn">
-    <title lang="bn">晚間新聞[粵]</title>
-  </programme>
-  <programme start="20251104104500 +0600" stop="20251104105000 +0600" channel="CGTN.cn">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251104105000 +0600" stop="20251104105500 +0600" channel="CGTN.cn">
-    <title lang="bn">天氣報告[粵]</title>
-  </programme>
-  <programme start="20251104105500 +0600" stop="20251104115500 +0600" channel="CGTN.cn">
-    <title lang="bn">談判專家#1[粵][PG]</title>
-  </programme>
-  <programme start="20251104115500 +0600" stop="20251104120000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251104120000 +0600" stop="20251104130000 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20251104130000 +0600" stop="20251104130500 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251104130500 +0600" stop="20251104135000 +0600" channel="CGTN.cn">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20251104135000 +0600" stop="20251104144500 +0600" channel="CGTN.cn">
-    <title lang="bn">王老虎搶親#7[粵]</title>
-  </programme>
-  <programme start="20251104144500 +0600" stop="20251104151000 +0600" channel="CGTN.cn">
-    <title lang="bn">茶煲世家#37[粵]</title>
-  </programme>
-  <programme start="20251104151000 +0600" stop="20251104160500 +0600" channel="CGTN.cn">
-    <title lang="bn">閨密教煮[粵]</title>
-  </programme>
-  <programme start="20251104160500 +0600" stop="20251104170000 +0600" channel="CGTN.cn">
-    <title lang="bn">街坊廚神舌戰新台韓[粵]</title>
-  </programme>
-  <programme start="20251104170000 +0600" stop="20251104184000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251104184000 +0600" stop="20251104184500 +0600" channel="CGTN.cn">
-    <title lang="bn">環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251104184500 +0600" stop="20251104191000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251104191000 +0600" stop="20251104194000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251104194000 +0600" stop="20251104200000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵]</title>
-  </programme>
-  <programme start="20251104200000 +0600" stop="20251104210000 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵]</title>
-  </programme>
-  <programme start="20251104210000 +0600" stop="20251104210500 +0600" channel="CGTN.cn">
-    <title lang="bn">勁歌推介[粵]</title>
-  </programme>
-  <programme start="20251104210500 +0600" stop="20251104213500 +0600" channel="CGTN.cn">
-    <title lang="bn">茶煲世家#38[粵]</title>
-  </programme>
-  <programme start="20251104213500 +0600" stop="20251104223500 +0600" channel="CGTN.cn">
-    <title lang="bn">驪歌行#28[粵/普]</title>
-  </programme>
-  <programme start="20251104223500 +0600" stop="20251104224000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251104224000 +0600" stop="20251104231500 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵] 及 潮流生活誌[粵]</title>
-  </programme>
-  <programme start="20251104231500 +0600" stop="20251104235000 +0600" channel="CGTN.cn">
-    <title lang="bn">阿爺廚房[粵]</title>
-  </programme>
-  <programme start="20251104235000 +0600" stop="20251104235500 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251104235500 +0600" stop="20251105000000 +0600" channel="CGTN.cn">
-    <title lang="bn">英雄召集：點解電競係電競[粵]</title>
-  </programme>
-  <programme start="20251105000000 +0600" stop="20251105002000 +0600" channel="CGTN.cn">
-    <title lang="bn">午間新聞[粵]</title>
-  </programme>
-  <programme start="20251105002000 +0600" stop="20251105011000 +0600" channel="CGTN.cn">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20251105011000 +0600" stop="20251105014000 +0600" channel="CGTN.cn">
-    <title lang="bn">生活100錯[粵]</title>
-  </programme>
-  <programme start="20251105014000 +0600" stop="20251105015000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251105015000 +0600" stop="20251105025000 +0600" channel="CGTN.cn">
-    <title lang="bn">王老虎搶親#8[粵]</title>
-  </programme>
-  <programme start="20251105025000 +0600" stop="20251105032000 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵]</title>
-  </programme>
-  <programme start="20251105032000 +0600" stop="20251105035000 +0600" channel="CGTN.cn">
-    <title lang="bn">忍者亂太郎[粵/日]</title>
-  </programme>
-  <programme start="20251105035000 +0600" stop="20251105042000 +0600" channel="CGTN.cn">
-    <title lang="bn">Hands Up[粵] 及 成語動畫廊[粵]</title>
-  </programme>
-  <programme start="20251105042000 +0600" stop="20251105045000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔神創造傳[粵/日]</title>
-  </programme>
-  <programme start="20251105045000 +0600" stop="20251105050000 +0600" channel="CGTN.cn">
-    <title lang="bn">財經新聞[粵]</title>
-  </programme>
-  <programme start="20251105050000 +0600" stop="20251105052500 +0600" channel="CGTN.cn">
-    <title lang="bn">今日有樓睇[粵] 及 潮流生活誌[粵]</title>
-  </programme>
-  <programme start="20251105052500 +0600" stop="20251105053000 +0600" channel="CGTN.cn">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251105053000 +0600" stop="20251105061500 +0600" channel="CGTN.cn">
-    <title lang="bn">六點半新聞報道[粵]</title>
-  </programme>
-  <programme start="20251105061500 +0600" stop="20251105062500 +0600" channel="CGTN.cn">
-    <title lang="bn">世界觀[粵] 及 天氣報告[粵]</title>
-  </programme>
-  <programme start="20251105062500 +0600" stop="20251105063000 +0600" channel="CGTN.cn">
-    <title lang="bn">有理說得清[粵]</title>
-  </programme>
-  <programme start="20251105063000 +0600" stop="20251105073000 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20251105073000 +0600" stop="20251105083000 +0600" channel="CGTN.cn">
-    <title lang="bn">愛．回家之開心速遞#2678[粵]</title>
-  </programme>
-  <programme start="20251105083000 +0600" stop="20251105093000 +0600" channel="CGTN.cn">
-    <title lang="bn">金式森林#18[粵][PG] 及 英雄召集：點解電競係電競[粵]</title>
-  </programme>
-  <programme start="20251105093000 +0600" stop="20251105100000 +0600" channel="CGTN.cn">
-    <title lang="bn">攻你上大學[粵]</title>
-  </programme>
-  <programme start="20251105100000 +0600" stop="20251105101500 +0600" channel="CGTN.cn">
-    <title lang="bn">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251105101500 +0600" stop="20251105104500 +0600" channel="CGTN.cn">
-    <title lang="bn">晚間新聞[粵]</title>
-  </programme>
-  <programme start="20251105104500 +0600" stop="20251105105000 +0600" channel="CGTN.cn">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251105105000 +0600" stop="20251105105500 +0600" channel="CGTN.cn">
-    <title lang="bn">天氣報告[粵] 及 潮流生活誌[粵]</title>
-  </programme>
-  <programme start="20251105105500 +0600" stop="20251105115500 +0600" channel="CGTN.cn">
-    <title lang="bn">談判專家#2[粵][PG]</title>
-  </programme>
-  <programme start="20251105115500 +0600" stop="20251105120000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251105120000 +0600" stop="20251105130000 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20251105130000 +0600" stop="20251105130500 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251105130500 +0600" stop="20251105135000 +0600" channel="CGTN.cn">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20251105135000 +0600" stop="20251105144500 +0600" channel="CGTN.cn">
-    <title lang="bn">王老虎搶親#8[粵]</title>
-  </programme>
-  <programme start="20251105144500 +0600" stop="20251105151000 +0600" channel="CGTN.cn">
-    <title lang="bn">茶煲世家#38[粵]</title>
-  </programme>
-  <programme start="20251105151000 +0600" stop="20251105160500 +0600" channel="CGTN.cn">
-    <title lang="bn">驪歌行#28[粵/普]</title>
-  </programme>
-  <programme start="20251105160500 +0600" stop="20251105170000 +0600" channel="CGTN.cn">
-    <title lang="bn">娛樂大家[粵]</title>
-  </programme>
-  <programme start="20251105170000 +0600" stop="20251105184000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251105184000 +0600" stop="20251105184500 +0600" channel="CGTN.cn">
-    <title lang="bn">環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251105184500 +0600" stop="20251105191000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251105191000 +0600" stop="20251105194000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251105194000 +0600" stop="20251105200000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵]</title>
-  </programme>
-  <programme start="20251105200000 +0600" stop="20251105210000 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵]</title>
-  </programme>
-  <programme start="20251105210000 +0600" stop="20251105210500 +0600" channel="CGTN.cn">
-    <title lang="bn">勁歌推介[粵]</title>
-  </programme>
-  <programme start="20251105210500 +0600" stop="20251105213500 +0600" channel="CGTN.cn">
-    <title lang="bn">茶煲世家#39[粵]</title>
-  </programme>
-  <programme start="20251105213500 +0600" stop="20251105223500 +0600" channel="CGTN.cn">
-    <title lang="bn">驪歌行#29[粵/普][PG]</title>
-  </programme>
-  <programme start="20251105223500 +0600" stop="20251105224000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251105224000 +0600" stop="20251105231500 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵]</title>
-  </programme>
-  <programme start="20251105231500 +0600" stop="20251105235000 +0600" channel="CGTN.cn">
-    <title lang="bn">阿爺廚房[粵]</title>
-  </programme>
-  <programme start="20251105235000 +0600" stop="20251105235500 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251105235500 +0600" stop="20251106000000 +0600" channel="CGTN.cn">
-    <title lang="bn">英雄召集：點解電競係電競[粵]</title>
-  </programme>
-  <programme start="20251106000000 +0600" stop="20251106002000 +0600" channel="CGTN.cn">
-    <title lang="bn">午間新聞[粵]</title>
-  </programme>
-  <programme start="20251106002000 +0600" stop="20251106011000 +0600" channel="CGTN.cn">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20251106011000 +0600" stop="20251106014000 +0600" channel="CGTN.cn">
-    <title lang="bn">生活100錯[粵]</title>
-  </programme>
-  <programme start="20251106014000 +0600" stop="20251106015000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251106015000 +0600" stop="20251106025000 +0600" channel="CGTN.cn">
-    <title lang="bn">王老虎搶親#9[粵]</title>
-  </programme>
-  <programme start="20251106025000 +0600" stop="20251106032000 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵]</title>
-  </programme>
-  <programme start="20251106032000 +0600" stop="20251106035000 +0600" channel="CGTN.cn">
-    <title lang="bn">忍者亂太郎[粵/日]</title>
-  </programme>
-  <programme start="20251106035000 +0600" stop="20251106042000 +0600" channel="CGTN.cn">
-    <title lang="bn">Hands Up[粵] 及 成語動畫廊[粵]</title>
-  </programme>
-  <programme start="20251106042000 +0600" stop="20251106045000 +0600" channel="CGTN.cn">
-    <title lang="bn">灼熱卡巴迪[粵/日]</title>
-  </programme>
-  <programme start="20251106045000 +0600" stop="20251106050000 +0600" channel="CGTN.cn">
-    <title lang="bn">財經新聞[粵]</title>
-  </programme>
-  <programme start="20251106050000 +0600" stop="20251106052500 +0600" channel="CGTN.cn">
-    <title lang="bn">新聞掏寶[粵]</title>
-  </programme>
-  <programme start="20251106052500 +0600" stop="20251106053000 +0600" channel="CGTN.cn">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251106053000 +0600" stop="20251106061500 +0600" channel="CGTN.cn">
-    <title lang="bn">六點半新聞報道[粵]</title>
-  </programme>
-  <programme start="20251106061500 +0600" stop="20251106062500 +0600" channel="CGTN.cn">
-    <title lang="bn">世界觀[粵] 及 天氣報告[粵]</title>
-  </programme>
-  <programme start="20251106062500 +0600" stop="20251106063000 +0600" channel="CGTN.cn">
-    <title lang="bn">有理說得清[粵]</title>
-  </programme>
-  <programme start="20251106063000 +0600" stop="20251106070000 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20251106070000 +0600" stop="20251106070300 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望 - 獨家直播三分鐘 [粵]</title>
-  </programme>
-  <programme start="20251106070300 +0600" stop="20251106083000 +0600" channel="CGTN.cn">
-    <title lang="bn">愛．回家之開心速遞#2679[粵]</title>
-  </programme>
-  <programme start="20251106083000 +0600" stop="20251106093000 +0600" channel="CGTN.cn">
-    <title lang="bn">金式森林#19[粵][PG] 及 英雄召集：點解電競係電競[粵]</title>
-  </programme>
-  <programme start="20251106093000 +0600" stop="20251106100000 +0600" channel="CGTN.cn">
-    <title lang="bn">攻你上大學[粵]</title>
-  </programme>
-  <programme start="20251106100000 +0600" stop="20251106101500 +0600" channel="CGTN.cn">
-    <title lang="bn">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251106101500 +0600" stop="20251106104500 +0600" channel="CGTN.cn">
-    <title lang="bn">晚間新聞[粵]</title>
-  </programme>
-  <programme start="20251106104500 +0600" stop="20251106105000 +0600" channel="CGTN.cn">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251106105000 +0600" stop="20251106105500 +0600" channel="CGTN.cn">
-    <title lang="bn">天氣報告[粵]</title>
-  </programme>
-  <programme start="20251106105500 +0600" stop="20251106115500 +0600" channel="CGTN.cn">
-    <title lang="bn">談判專家#3[粵]</title>
-  </programme>
-  <programme start="20251106115500 +0600" stop="20251106120000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251106120000 +0600" stop="20251106130000 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20251106130000 +0600" stop="20251106130500 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251106130500 +0600" stop="20251106135000 +0600" channel="CGTN.cn">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20251106135000 +0600" stop="20251106144500 +0600" channel="CGTN.cn">
-    <title lang="bn">王老虎搶親#9[粵]</title>
-  </programme>
-  <programme start="20251106144500 +0600" stop="20251106151000 +0600" channel="CGTN.cn">
-    <title lang="bn">茶煲世家#39[粵]</title>
-  </programme>
-  <programme start="20251106151000 +0600" stop="20251106160500 +0600" channel="CGTN.cn">
-    <title lang="bn">驪歌行#29[粵/普][PG]</title>
-  </programme>
-  <programme start="20251106160500 +0600" stop="20251106163000 +0600" channel="CGTN.cn">
-    <title lang="bn">關你家事[粵]</title>
-  </programme>
-  <programme start="20251106163000 +0600" stop="20251106170000 +0600" channel="CGTN.cn">
-    <title lang="bn">關你家事[粵]</title>
-  </programme>
-  <programme start="20251106170000 +0600" stop="20251106184000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251106184000 +0600" stop="20251106184500 +0600" channel="CGTN.cn">
-    <title lang="bn">環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251106184500 +0600" stop="20251106191000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251106191000 +0600" stop="20251106194000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20251106194000 +0600" stop="20251106200000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵]</title>
-  </programme>
-  <programme start="20251106200000 +0600" stop="20251106210000 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵]</title>
-  </programme>
-  <programme start="20251106210000 +0600" stop="20251106210500 +0600" channel="CGTN.cn">
-    <title lang="bn">勁歌推介[粵]</title>
-  </programme>
-  <programme start="20251106210500 +0600" stop="20251106213500 +0600" channel="CGTN.cn">
-    <title lang="bn">茶煲世家#40[粵]</title>
-  </programme>
-  <programme start="20251106213500 +0600" stop="20251106223500 +0600" channel="CGTN.cn">
-    <title lang="bn">驪歌行#30[粵/普][PG]</title>
-  </programme>
-  <programme start="20251106223500 +0600" stop="20251106224000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251106224000 +0600" stop="20251106231500 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵] 及 潮流生活誌[粵]</title>
-  </programme>
-  <programme start="20251106231500 +0600" stop="20251106235000 +0600" channel="CGTN.cn">
-    <title lang="bn">阿爺廚房[粵]</title>
-  </programme>
-  <programme start="20251106235000 +0600" stop="20251106235500 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251106235500 +0600" stop="20251107000000 +0600" channel="CGTN.cn">
-    <title lang="bn">英雄召集：點解電競係電競[粵]</title>
-  </programme>
-  <programme start="20251107000000 +0600" stop="20251107002000 +0600" channel="CGTN.cn">
-    <title lang="bn">午間新聞[粵]</title>
-  </programme>
-  <programme start="20251107002000 +0600" stop="20251107011000 +0600" channel="CGTN.cn">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20251107011000 +0600" stop="20251107014000 +0600" channel="CGTN.cn">
-    <title lang="bn">生活100錯[粵]</title>
-  </programme>
-  <programme start="20251107014000 +0600" stop="20251107015000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251107015000 +0600" stop="20251107025000 +0600" channel="CGTN.cn">
-    <title lang="bn">王老虎搶親#10[粵]</title>
-  </programme>
-  <programme start="20251107025000 +0600" stop="20251107032000 +0600" channel="CGTN.cn">
-    <title lang="bn">交易現場[粵]</title>
-  </programme>
-  <programme start="20251107032000 +0600" stop="20251107035000 +0600" channel="CGTN.cn">
-    <title lang="bn">忍者亂太郎[粵/日]</title>
-  </programme>
-  <programme start="20251107035000 +0600" stop="20251107042000 +0600" channel="CGTN.cn">
-    <title lang="bn">Hands Up[粵] 及 成語動畫廊[粵]</title>
-  </programme>
-  <programme start="20251107042000 +0600" stop="20251107045000 +0600" channel="CGTN.cn">
-    <title lang="bn">灼熱卡巴迪[粵/日]</title>
-  </programme>
-  <programme start="20251107045000 +0600" stop="20251107050000 +0600" channel="CGTN.cn">
-    <title lang="bn">財經新聞[粵]</title>
-  </programme>
-  <programme start="20251107050000 +0600" stop="20251107052500 +0600" channel="CGTN.cn">
-    <title lang="bn">今日有樓睇[粵] 及 潮流生活誌[粵]</title>
-  </programme>
-  <programme start="20251107052500 +0600" stop="20251107053000 +0600" channel="CGTN.cn">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251107053000 +0600" stop="20251107061500 +0600" channel="CGTN.cn">
-    <title lang="bn">六點半新聞報道[粵]</title>
-  </programme>
-  <programme start="20251107061500 +0600" stop="20251107062500 +0600" channel="CGTN.cn">
-    <title lang="bn">世界觀[粵] 及 天氣報告[粵]</title>
-  </programme>
-  <programme start="20251107062500 +0600" stop="20251107063000 +0600" channel="CGTN.cn">
-    <title lang="bn">有理說得清[粵]</title>
-  </programme>
-  <programme start="20251107063000 +0600" stop="20251107073000 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20251107073000 +0600" stop="20251107083000 +0600" channel="CGTN.cn">
-    <title lang="bn">愛．回家之開心速遞#2680[粵]</title>
-  </programme>
-  <programme start="20251107083000 +0600" stop="20251107093000 +0600" channel="CGTN.cn">
-    <title lang="bn">金式森林#20[粵][PG] 及 英雄召集：點解電競係電競[粵]</title>
-  </programme>
-  <programme start="20251107093000 +0600" stop="20251107100000 +0600" channel="CGTN.cn">
-    <title lang="bn">攻你上大學[粵]</title>
-  </programme>
-  <programme start="20251107100000 +0600" stop="20251107101500 +0600" channel="CGTN.cn">
-    <title lang="bn">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251107101500 +0600" stop="20251107104500 +0600" channel="CGTN.cn">
-    <title lang="bn">晚間新聞[粵]</title>
-  </programme>
-  <programme start="20251107104500 +0600" stop="20251107105000 +0600" channel="CGTN.cn">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251107105000 +0600" stop="20251107105500 +0600" channel="CGTN.cn">
-    <title lang="bn">天氣報告[粵] 及 潮流生活誌[粵]</title>
-  </programme>
-  <programme start="20251107105500 +0600" stop="20251107115500 +0600" channel="CGTN.cn">
-    <title lang="bn">使徒行者2#5[粵][PG]</title>
-  </programme>
-  <programme start="20251107115500 +0600" stop="20251107120000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251107120000 +0600" stop="20251107130000 +0600" channel="CGTN.cn">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20251107130000 +0600" stop="20251107130500 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251107130500 +0600" stop="20251107135000 +0600" channel="CGTN.cn">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20251107135000 +0600" stop="20251107144500 +0600" channel="CGTN.cn">
-    <title lang="bn">王老虎搶親#10[粵]</title>
-  </programme>
-  <programme start="20251107144500 +0600" stop="20251107151000 +0600" channel="CGTN.cn">
-    <title lang="bn">茶煲世家#40[粵]</title>
-  </programme>
-  <programme start="20251107151000 +0600" stop="20251107160500 +0600" channel="CGTN.cn">
-    <title lang="bn">驪歌行#30[粵/普][PG]</title>
-  </programme>
-  <programme start="20251107160500 +0600" stop="20251107170000 +0600" channel="CGTN.cn">
-    <title lang="bn">區區開伙[粵]</title>
-  </programme>
-  <programme start="20251107170000 +0600" stop="20251107184500 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵] 及 環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20251107184500 +0600" stop="20251107200000 +0600" channel="CGTN.cn">
-    <title lang="bn">香港早晨[粵]</title>
-  </programme>
-  <programme start="20251107200000 +0600" stop="20251107223000 +0600" channel="CGTN.cn">
-    <title lang="bn">第十五屆全國運動會 上午直擊[直播][粵]</title>
-  </programme>
-  <programme start="20251107223000 +0600" stop="20251107225500 +0600" channel="CGTN.cn">
-    <title lang="bn">西葡潮什麼[粵]</title>
-  </programme>
-  <programme start="20251107225500 +0600" stop="20251107230000 +0600" channel="CGTN.cn">
-    <title lang="bn">宣傳易[粵]</title>
-  </programme>
-  <programme start="20251107230000 +0600" stop="20251107233000 +0600" channel="CGTN.cn">
-    <title lang="bn">我們香港變幻時[粵]</title>
+  <programme start="20251102102800 +0600" stop="20251102105800 +0600" channel="CGTN.cn">
+    <title lang="bn">电影-游园惊梦</title>
   </programme>
   <channel id="cna.sg">
     <display-name>Channel News Asia</display-name>
