@@ -304,16 +304,16 @@
     <title lang="bn">My View With Lara Trump</title>
   </programme>
   <programme start="20251102120100 +0600" stop="20251102130000 +0600" channel="FoxNews.us">
-    <title lang="bn">Life, Liberty &amp;amp; Levin</title>
-  </programme>
-  <programme start="20251102130000 +0600" stop="20251102140000 +0600" channel="FoxNews.us">
-    <title lang="bn">My View With Lara Trump</title>
-  </programme>
-  <programme start="20251102140000 +0600" stop="20251102150000 +0600" channel="FoxNews.us">
     <title lang="bn">FOX News Saturday Night With Jimmy Failla</title>
   </programme>
-  <programme start="20251102150000 +0600" stop="20251102160000 +0600" channel="FoxNews.us">
+  <programme start="20251102130000 +0600" stop="20251102140000 +0600" channel="FoxNews.us">
     <title lang="bn">Life, Liberty &amp;amp; Levin</title>
+  </programme>
+  <programme start="20251102140000 +0600" stop="20251102150000 +0600" channel="FoxNews.us">
+    <title lang="bn">My View With Lara Trump</title>
+  </programme>
+  <programme start="20251102150000 +0600" stop="20251102160000 +0600" channel="FoxNews.us">
+    <title lang="bn">FOX News Saturday Night With Jimmy Failla</title>
   </programme>
   <channel id="EuronewsEnglish.fr">
     <display-name>Euronews English</display-name>
@@ -795,7 +795,7 @@
     <title lang="bn">CNN Newsroom With Fredricka Whitfield</title>
   </programme>
   <programme start="20251102020000 +0600" stop="20251102030000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom</title>
+    <title lang="bn">Smerconish</title>
   </programme>
   <programme start="20251102030000 +0600" stop="20251102040000 +0600" channel="CNN.us">
     <title lang="bn">CNN Newsroom</title>
@@ -813,7 +813,7 @@
     <title lang="bn">Have I Got News For You</title>
   </programme>
   <programme start="20251102080000 +0600" stop="20251102090000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Special Program</title>
+    <title lang="bn">The Heist: The Louvre&amp;#x27;s Stolen Crown Jewels</title>
   </programme>
   <programme start="20251102090000 +0600" stop="20251102100000 +0600" channel="CNN.us">
     <title lang="bn">Real Time With Bill Maher</title>
@@ -822,16 +822,16 @@
     <title lang="bn">Have I Got News For You</title>
   </programme>
   <programme start="20251102110000 +0600" stop="20251102120000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Special Program</title>
+    <title lang="bn">The Heist: The Louvre&amp;#x27;s Stolen Crown Jewels</title>
   </programme>
   <programme start="20251102120000 +0600" stop="20251102120100 +0600" channel="CNN.us">
-    <title lang="bn">CNN Special Program</title>
+    <title lang="bn">The Source: Weekend</title>
   </programme>
   <programme start="20251102120100 +0600" stop="20251102130000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Special Program</title>
+    <title lang="bn">The Lead: Weekend</title>
   </programme>
   <programme start="20251102130000 +0600" stop="20251102140000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Special Program</title>
+    <title lang="bn">CNN Newsroom Live</title>
   </programme>
   <programme start="20251102140000 +0600" stop="20251102150000 +0600" channel="CNN.us">
     <title lang="bn">CNN Newsroom Live</title>
