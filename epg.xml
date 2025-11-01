@@ -159,7 +159,7 @@
     <title lang="bn">ATN Live Gurubani</title>
   </programme>
   <programme start="20251101163000 +0600" stop="20251101170000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Barsatein: Mausam Pyaar Ka</title>
+    <title lang="bn">Vighnaharta Ganesh</title>
   </programme>
   <programme start="20251101170000 +0600" stop="20251101173000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Vighnaharta Ganesh</title>
@@ -167,14 +167,14 @@
   <programme start="20251101173000 +0600" stop="20251101180000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Vighnaharta Ganesh</title>
   </programme>
-  <programme start="20251101180000 +0600" stop="20251101183000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20251101180000 +0600" stop="20251101182900 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Awakening Of Brahmakumari&amp;#x27;s</title>
   </programme>
-  <programme start="20251101183000 +0600" stop="20251101190000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Katha Ankahee</title>
+  <programme start="20251101182900 +0600" stop="20251101185900 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Chalo Bulawa Aaya Hai</title>
   </programme>
-  <programme start="20251101190000 +0600" stop="20251101193000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Katha Ankahee</title>
+  <programme start="20251101185900 +0600" stop="20251101193000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Chalo Bulawa Aaya Hai</title>
   </programme>
   <programme start="20251101193000 +0600" stop="20251101200000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Asian Magazine</title>
@@ -182,32 +182,35 @@
   <programme start="20251101200000 +0600" stop="20251101203000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Asian Magazine</title>
   </programme>
-  <programme start="20251101203000 +0600" stop="20251101220000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20251101203000 +0600" stop="20251101213000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">C.I.D.</title>
+  </programme>
+  <programme start="20251101213000 +0600" stop="20251101230000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Indian Idol</title>
   </programme>
-  <programme start="20251101220000 +0600" stop="20251101233000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">India&amp;#x27;s Got Talent</title>
+  <programme start="20251101230000 +0600" stop="20251101233000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">The Kapil Sharma Show</title>
   </programme>
   <programme start="20251101233000 +0600" stop="20251102003000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Asian Variety Show</title>
   </programme>
-  <programme start="20251102003000 +0600" stop="20251102033000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Movie</title>
+  <programme start="20251102003000 +0600" stop="20251102010000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">The Kapil Sharma Show</title>
   </programme>
-  <programme start="20251102033000 +0600" stop="20251102040000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Katha Ankahee</title>
+  <programme start="20251102010000 +0600" stop="20251102023000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Indian Idol</title>
+  </programme>
+  <programme start="20251102023000 +0600" stop="20251102040000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">India&amp;#x27;s Got Talent</title>
   </programme>
   <programme start="20251102040000 +0600" stop="20251102043000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Asian Magazine</title>
   </programme>
   <programme start="20251102043000 +0600" stop="20251102050000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Sharda Ji Astrologer</title>
+    <title lang="bn">Asian Magazine</title>
   </programme>
-  <programme start="20251102050000 +0600" stop="20251102053000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Kavya: Ek Jazbaa, Ek Junoon</title>
-  </programme>
-  <programme start="20251102053000 +0600" stop="20251102060000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Kavya: Ek Jazbaa, Ek Junoon</title>
+  <programme start="20251102050000 +0600" stop="20251102060000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">C.I.D.</title>
   </programme>
   <programme start="20251102060000 +0600" stop="20251102073000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Indian Idol</title>
@@ -215,26 +218,17 @@
   <programme start="20251102073000 +0600" stop="20251102090000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">India&amp;#x27;s Got Talent</title>
   </programme>
-  <programme start="20251102090000 +0600" stop="20251102103000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20251102090000 +0600" stop="20251102100000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">C.I.D.</title>
+  </programme>
+  <programme start="20251102100000 +0600" stop="20251102113000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Indian Idol</title>
   </programme>
-  <programme start="20251102103000 +0600" stop="20251102130000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20251102113000 +0600" stop="20251102153000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">India&amp;#x27;s Got Talent</title>
   </programme>
-  <programme start="20251102130000 +0600" stop="20251102133000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Kaun Banega Crorepati</title>
-  </programme>
-  <programme start="20251102133000 +0600" stop="20251102140000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Asian Magazine</title>
-  </programme>
-  <programme start="20251102140000 +0600" stop="20251102143000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Asian Magazine</title>
-  </programme>
-  <programme start="20251102143000 +0600" stop="20251102153000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Crime Patrol</title>
-  </programme>
-  <programme start="20251102153000 +0600" stop="20251102163000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">ATN Live Gurubani</title>
+  <programme start="20251102153000 +0600" stop="20251102183000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">India&amp;#x27;s Got Talent</title>
   </programme>
   <channel id="FoxNews.us">
     <display-name>Fox News</display-name>
@@ -795,7 +789,7 @@
     <title lang="bn">CNN Newsroom With Fredricka Whitfield</title>
   </programme>
   <programme start="20251102020000 +0600" stop="20251102030000 +0600" channel="CNN.us">
-    <title lang="bn">Smerconish</title>
+    <title lang="bn">CNN Newsroom</title>
   </programme>
   <programme start="20251102030000 +0600" stop="20251102040000 +0600" channel="CNN.us">
     <title lang="bn">CNN Newsroom</title>
@@ -813,7 +807,7 @@
     <title lang="bn">Have I Got News For You</title>
   </programme>
   <programme start="20251102080000 +0600" stop="20251102090000 +0600" channel="CNN.us">
-    <title lang="bn">The Heist: The Louvre&amp;#x27;s Stolen Crown Jewels</title>
+    <title lang="bn">CNN Special Program</title>
   </programme>
   <programme start="20251102090000 +0600" stop="20251102100000 +0600" channel="CNN.us">
     <title lang="bn">Real Time With Bill Maher</title>
@@ -822,16 +816,16 @@
     <title lang="bn">Have I Got News For You</title>
   </programme>
   <programme start="20251102110000 +0600" stop="20251102120000 +0600" channel="CNN.us">
-    <title lang="bn">The Heist: The Louvre&amp;#x27;s Stolen Crown Jewels</title>
+    <title lang="bn">CNN Special Program</title>
   </programme>
   <programme start="20251102120000 +0600" stop="20251102120100 +0600" channel="CNN.us">
-    <title lang="bn">The Source: Weekend</title>
+    <title lang="bn">CNN Special Program</title>
   </programme>
   <programme start="20251102120100 +0600" stop="20251102130000 +0600" channel="CNN.us">
-    <title lang="bn">The Lead: Weekend</title>
+    <title lang="bn">CNN Special Program</title>
   </programme>
   <programme start="20251102130000 +0600" stop="20251102140000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom Live</title>
+    <title lang="bn">CNN Special Program</title>
   </programme>
   <programme start="20251102140000 +0600" stop="20251102150000 +0600" channel="CNN.us">
     <title lang="bn">CNN Newsroom Live</title>
@@ -1571,10 +1565,7 @@
     <display-name>Bharat Samachar TV</display-name>
     <icon src="https://bharatsamachartv.com/images/logo.png"/>
   </channel>
-  <programme start="20251101163000 +0600" stop="20251101170000 +0600" channel="BharatSamacharTV.in">
-    <title lang="bn">Breaking News</title>
-  </programme>
-  <programme start="20251101170000 +0600" stop="20251101172500 +0600" channel="BharatSamacharTV.in">
+  <programme start="20251101165500 +0600" stop="20251101172500 +0600" channel="BharatSamacharTV.in">
     <title lang="bn">100 Samachar</title>
   </programme>
   <programme start="20251101172500 +0600" stop="20251101180000 +0600" channel="BharatSamacharTV.in">
@@ -1660,6 +1651,9 @@
   </programme>
   <programme start="20251102062500 +0600" stop="20251102065500 +0600" channel="BharatSamacharTV.in">
     <title lang="bn">TVC</title>
+  </programme>
+  <programme start="20251102065500 +0600" stop="20251102072500 +0600" channel="BharatSamacharTV.in">
+    <title lang="bn">100 Samachar</title>
   </programme>
   <channel id="Abp.in">
     <display-name>ABP News</display-name>
@@ -2988,10 +2982,7 @@
     <display-name>Star Sports 1 HD</display-name>
     <icon src="hhttp://openboxv8s.com/india/star_sports_in_1_hindi.png"/>
   </channel>
-  <programme start="20251101163000 +0600" stop="20251101170000 +0600" channel="starsports1hd.in">
-    <title lang="bn">Pro Kabaddi Highlights</title>
-  </programme>
-  <programme start="20251101170000 +0600" stop="20251101171500 +0600" channel="starsports1hd.in">
+  <programme start="20251101164500 +0600" stop="20251101171500 +0600" channel="starsports1hd.in">
     <title lang="bn">ICC T20 World Cup 2024 Australia vs India, 51st Match;...</title>
   </programme>
   <programme start="20251101171500 +0600" stop="20251101173000 +0600" channel="starsports1hd.in">
@@ -3078,14 +3069,14 @@
   <programme start="20251102031500 +0600" stop="20251102033000 +0600" channel="starsports1hd.in">
     <title lang="bn">3rd ODI: Australia v India; One-Day International Crick...</title>
   </programme>
+  <programme start="20251102033000 +0600" stop="20251102040000 +0600" channel="starsports1hd.in">
+    <title lang="bn">ICC CWC Highlights</title>
+  </programme>
   <channel id="starsports1hindi.in">
     <display-name>Star Sports 1 Hindi</display-name>
     <icon src="https://static.epg.best/cn/StarSports1.cn.png"/>
   </channel>
-  <programme start="20251101163000 +0600" stop="20251101170000 +0600" channel="starsports1hindi.in">
-    <title lang="bn">Pro Kabaddi Highlights</title>
-  </programme>
-  <programme start="20251101170000 +0600" stop="20251101171500 +0600" channel="starsports1hindi.in">
+  <programme start="20251101164500 +0600" stop="20251101171500 +0600" channel="starsports1hindi.in">
     <title lang="bn">ICC T20 World Cup 2024 Australia vs India, 51st Match;...</title>
   </programme>
   <programme start="20251101171500 +0600" stop="20251101173000 +0600" channel="starsports1hindi.in">
@@ -3172,14 +3163,14 @@
   <programme start="20251102031500 +0600" stop="20251102033000 +0600" channel="starsports1hindi.in">
     <title lang="bn">3rd ODI: Australia v India; One-Day International Crick...</title>
   </programme>
+  <programme start="20251102033000 +0600" stop="20251102040000 +0600" channel="starsports1hindi.in">
+    <title lang="bn">ICC World T20 Highlights</title>
+  </programme>
   <channel id="starsports.tamil">
     <display-name>Star Sports Tamil 1</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png"/>
   </channel>
-  <programme start="20251101163000 +0600" stop="20251101170000 +0600" channel="starsports.tamil">
-    <title lang="bn">India vs Australia, 1st T20I; Cricket Highlights</title>
-  </programme>
-  <programme start="20251101170000 +0600" stop="20251101171500 +0600" channel="starsports.tamil">
+  <programme start="20251101164500 +0600" stop="20251101171500 +0600" channel="starsports.tamil">
     <title lang="bn">5th T20: India vs Australia; T20 Cricket</title>
   </programme>
   <programme start="20251101171500 +0600" stop="20251101173000 +0600" channel="starsports.tamil">
@@ -3266,14 +3257,14 @@
   <programme start="20251102040000 +0600" stop="20251102043000 +0600" channel="starsports.tamil">
     <title lang="bn">ICC Champions Trophy 2025 New Zealand vs India, 12th Ma...</title>
   </programme>
+  <programme start="20251102043000 +0600" stop="20251102050000 +0600" channel="starsports.tamil">
+    <title lang="bn">ICC Champions Trophy Highlights</title>
+  </programme>
   <channel id="starsports2hd.in">
     <display-name>Star Sports 2 4K</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/c/c3/SS2_Crop.jpg"/>
   </channel>
-  <programme start="20251101163000 +0600" stop="20251101170000 +0600" channel="starsports2hd.in">
-    <title lang="bn">Follow The Blues</title>
-  </programme>
-  <programme start="20251101170000 +0600" stop="20251101171500 +0600" channel="starsports2hd.in">
+  <programme start="20251101164500 +0600" stop="20251101171500 +0600" channel="starsports2hd.in">
     <title lang="bn">1st T20: Australia v India; T20 Cricket</title>
   </programme>
   <programme start="20251101171500 +0600" stop="20251101174500 +0600" channel="starsports2hd.in">
@@ -3360,14 +3351,14 @@
   <programme start="20251102040000 +0600" stop="20251102043000 +0600" channel="starsports2hd.in">
     <title lang="bn">ICC CWC Highlights</title>
   </programme>
+  <programme start="20251102043000 +0600" stop="20251102050000 +0600" channel="starsports2hd.in">
+    <title lang="bn">ICC World T20 Highlights</title>
+  </programme>
   <channel id="starsports3.in">
     <display-name>Star Sports 3 HD</display-name>
     <icon src="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png"/>
   </channel>
-  <programme start="20251101163000 +0600" stop="20251101170000 +0600" channel="starsports3.in">
-    <title lang="bn">Follow The Blues</title>
-  </programme>
-  <programme start="20251101170000 +0600" stop="20251101171500 +0600" channel="starsports3.in">
+  <programme start="20251101164500 +0600" stop="20251101171500 +0600" channel="starsports3.in">
     <title lang="bn">3rd ODI: Australia v India; One-Day International Crick...</title>
   </programme>
   <programme start="20251101171500 +0600" stop="20251101173000 +0600" channel="starsports3.in">
@@ -3453,6 +3444,9 @@
   </programme>
   <programme start="20251102070000 +0600" stop="20251102073000 +0600" channel="starsports3.in">
     <title lang="bn">ICC T20 World Cup 2024 Australia vs India, 51st Match;...</title>
+  </programme>
+  <programme start="20251102073000 +0600" stop="20251102080000 +0600" channel="starsports3.in">
+    <title lang="bn">ICC Champions Trophy Highlights</title>
   </programme>
   <channel id="starsportsselect1.in">
     <display-name>Star Sports Select 1 HD</display-name>
@@ -4265,10 +4259,7 @@
     <display-name>SUN Bangla</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png"/>
   </channel>
-  <programme start="20251101162600 +0600" stop="20251101165600 +0600" channel="sunbangla.in">
-    <title lang="bn">Lakh Takar Lokkhi Labh</title>
-  </programme>
-  <programme start="20251101165600 +0600" stop="20251101175900 +0600" channel="sunbangla.in">
+  <programme start="20251101172900 +0600" stop="20251101175900 +0600" channel="sunbangla.in">
     <title lang="bn">Lakh Takar Lokkhi Labh</title>
   </programme>
   <programme start="20251101175900 +0600" stop="20251101183000 +0600" channel="sunbangla.in">
@@ -4303,6 +4294,9 @@
   </programme>
   <programme start="20251102075000 +0600" stop="20251102080000 +0600" channel="sunbangla.in">
     <title lang="bn">Roopoamati</title>
+  </programme>
+  <programme start="20251102080000 +0600" stop="20251102083000 +0600" channel="sunbangla.in">
+    <title lang="bn">Ramayan (1961)</title>
   </programme>
   <channel id="enter10bangla.in">
     <display-name>Enter 10 Bangla</display-name>
