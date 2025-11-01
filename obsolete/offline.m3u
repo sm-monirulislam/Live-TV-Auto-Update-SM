@@ -45,10 +45,10 @@ http://103.175.242.10:8080/independent/index.m3u8
 http://stvlive.net:8080/jamuna/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | JAMUNA TV (3d)
 http://103.175.242.10:8080/jamuna/index.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (3d)
-http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (4d)
 https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (3d)
+http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="India",ENT | Star Plus HD (0d)
 http://116.90.120.149:8000/play/a0b9/index.m3u8
 #EXTINF:-1 group-title="India",ENT | Star Utsav (0d)
@@ -67,8 +67,12 @@ https://stream.e2is.in/hls/7xMusic.m3u8
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
 #EXTINF:-1 group-title="India",NEWS | NDTV Hindi (1d)
 https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8
+#EXTINF:-1 group-title="International",Are We There Yet? (0d)
+https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="International News",CNN International (3d)
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+#EXTINF:-1 group-title="International News",Sky News (0d)
+https://i.mjh.nz/.r/sky-news-now.m3u8
 #EXTINF:-1 group-title="Kids",0. PBS Kids (1d)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Kids",1. Disney Channel Hindi (0d)
@@ -81,10 +85,6 @@ http://116.90.120.149:8000/play/a0cc/index.m3u8
 http://116.90.120.149:8000/play/a0e9/index.m3u8
 #EXTINF:-1 group-title="Kids",Kid Screation (0d)
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-#EXTINF:-1 group-title="Music",EN | Rockola Television (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZA0P8T1MGX/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="Music",EN | Vevo Pop (0d)
-https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-rakutenit/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 80s Flashback (3d)
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 90s Throwback (3d)
@@ -147,6 +147,8 @@ https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/i6sl9m/playlist.m3u8
 #EXTINF:-1 group-title="Religious",MADANI Channel Bangla (3d)
 https://ap02.iqplay.tv:8082/iqb8002/m@d@n1ch@nn3lb@ngl@/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Makkah TV (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Salaam TV (4d)
 https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Takbeer TV(UK) (3d)
