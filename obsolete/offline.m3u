@@ -9,8 +9,8 @@ http://103.175.242.10:8080/btv/index.m3u8
 http://stvlive.net:8080/channeli/index.m3u8
 #EXTINF:-1 group-title="Bangla",DEEPTO TV HD (4d)
 http://stvlive.net:8080/deepto/index.m3u8
-#EXTINF:-1 group-title="Bangla",DEEPTO TV HD (0d)
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 group-title="Bangla",Enter10 Bangla HD (0d)
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",iON TV (4d)
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Me TV (4d)
@@ -37,12 +37,12 @@ http://103.175.242.10:8080/independent/index.m3u8
 http://103.175.242.10:8080/jamuna/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | JAMUNA TV (4d)
 http://stvlive.net:8080/jamuna/index.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (4d)
-http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (5d)
 https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Educational",Popular Science (0d)
-https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (4d)
+http://stvlive.net:8080/somoy/index.m3u8
+#EXTINF:-1 group-title="India",ENT | Nazara (0d)
+https://epiconvh.akamaized.net/live/nazara/master.m3u8
 #EXTINF:-1 group-title="India",ENT | Star Plus HD (1d)
 http://116.90.120.149:8000/play/a0b9/index.m3u8
 #EXTINF:-1 group-title="India",ENT | Star Utsav (1d)
@@ -69,20 +69,16 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 http://116.90.120.149:8000/play/a0bx/index.m3u8
 #EXTINF:-1 group-title="Kids",1. Disney Junior India (1d)
 http://116.90.120.149:8000/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="Kids",2. POGO (0d)
-http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/453.m3u8
 #EXTINF:-1 group-title="Kids",2. Sonic (1d)
 http://116.90.120.149:8000/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="Kids",2. SONY YAY! (0d)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=908587&extension=ts&play_token=413IAp959Y
 #EXTINF:-1 group-title="Kids",Disney International HD (1d)
 http://116.90.120.149:8000/play/a0e9/index.m3u8
 #EXTINF:-1 group-title="Kids",NICK Hindi (0d)
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1034.m3u8
-#EXTINF:-1 group-title="Movies",EN | a-z Western Grit (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/P6T1SCG4XU9MM36TQSB5/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="Movies",EN | Comedy Classics (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="Movies",EN | Urban Action Channel (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/58XXIGAFT3S6VSMD82AP/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Music",EN | MTV Hits Europe (0d)
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Music",EN | XITE 80s Flashback (4d)
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 90s Throwback (4d)
@@ -91,8 +87,6 @@ https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE Rock On (4d)
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
-#EXTINF:-1 group-title="Music",OTHER | HITS MEXICANOS (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Digital (7d)
 7950
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Zindagi (7d)
@@ -138,9 +132,9 @@ http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
 #EXTINF:-1 group-title="Religious",IBN TV Africa (0d)
 http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
 #EXTINF:-1 group-title="Religious",IQRA BANGLA (4d)
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
-#EXTINF:-1 group-title="Religious",IQRA BANGLA (4d)
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
+#EXTINF:-1 group-title="Religious",IQRA BANGLA (4d)
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Iqra TV (4d)
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 #EXTINF:-1 group-title="Religious",ISLAM TV (4d)
