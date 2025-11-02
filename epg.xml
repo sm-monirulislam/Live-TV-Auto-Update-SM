@@ -161,20 +161,74 @@
     <display-name>ENT | Sony Entertainment HD</display-name>
     <icon src="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png"/>
   </channel>
-  <programme start="20251102143000 +0600" stop="20251102183000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20251102153000 +0600" stop="20251102163000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">ATN Live Gurubani</title>
+  </programme>
+  <programme start="20251102163000 +0600" stop="20251102170000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Barsatein: Mausam Pyaar Ka</title>
+  </programme>
+  <programme start="20251102170000 +0600" stop="20251102173000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Vighnaharta Ganesh</title>
+  </programme>
+  <programme start="20251102173000 +0600" stop="20251102180000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Vighnaharta Ganesh</title>
+  </programme>
+  <programme start="20251102180000 +0600" stop="20251102183000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Awakening Of Brahmakumari&amp;#x27;s</title>
+  </programme>
+  <programme start="20251102183000 +0600" stop="20251102190000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Barsatein: Mausam Pyaar Ka</title>
+  </programme>
+  <programme start="20251102190000 +0600" stop="20251102193000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">One on One with Prem Jyotish</title>
+  </programme>
+  <programme start="20251102193000 +0600" stop="20251102200000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">ATN&amp;#x27;s Tribute to 100 Years of Indian Cinema</title>
+  </programme>
+  <programme start="20251102200000 +0600" stop="20251102203000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">ATN&amp;#x27;s Tribute to 100 Years of Indian Cinema</title>
+  </programme>
+  <programme start="20251102203000 +0600" stop="20251102220000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Indian Idol</title>
+  </programme>
+  <programme start="20251102220000 +0600" stop="20251102233000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">India&amp;#x27;s Got Talent</title>
   </programme>
-  <programme start="20251102183000 +0600" stop="20251102223000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20251102233000 +0600" stop="20251103000000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Katha Ankahee</title>
+  </programme>
+  <programme start="20251103000000 +0600" stop="20251103003000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Katha Ankahee</title>
+  </programme>
+  <programme start="20251103003000 +0600" stop="20251103010000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Katha Ankahee</title>
+  </programme>
+  <programme start="20251103010000 +0600" stop="20251103023000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Indian Idol</title>
+  </programme>
+  <programme start="20251103023000 +0600" stop="20251103040000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">India&amp;#x27;s Got Talent</title>
   </programme>
-  <programme start="20251102223000 +0600" stop="20251103023000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20251103040000 +0600" stop="20251103043000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Asian Magazine</title>
+  </programme>
+  <programme start="20251103043000 +0600" stop="20251103050000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Sharda Ji Astrologer</title>
+  </programme>
+  <programme start="20251103050000 +0600" stop="20251103053000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Kavya: Ek Jazbaa, Ek Junoon</title>
+  </programme>
+  <programme start="20251103053000 +0600" stop="20251103060000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Kavya: Ek Jazbaa, Ek Junoon</title>
+  </programme>
+  <programme start="20251103060000 +0600" stop="20251103073000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Indian Idol</title>
+  </programme>
+  <programme start="20251103073000 +0600" stop="20251103090000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">India&amp;#x27;s Got Talent</title>
   </programme>
-  <programme start="20251103023000 +0600" stop="20251103063000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">India&amp;#x27;s Got Talent</title>
-  </programme>
-  <programme start="20251103063000 +0600" stop="20251103100000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">India&amp;#x27;s Got Talent</title>
+  <programme start="20251103090000 +0600" stop="20251103100000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Indian Idol</title>
   </programme>
   <programme start="20251103100000 +0600" stop="20251103120000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Indian Idol Junior</title>
@@ -856,9 +910,6 @@
     <display-name>NEWS | ZEE BUSINESS</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Business_%282025%29.svg"/>
   </channel>
-  <programme start="20251102142600 +0600" stop="20251102145600 +0600" channel="ZEEBUSINESS">
-    <title lang="bn">Aapki Khabar, Aapka Fayda</title>
-  </programme>
   <programme start="20251102145600 +0600" stop="20251102152600 +0600" channel="ZEEBUSINESS">
     <title lang="bn">Property Plus</title>
   </programme>
@@ -945,6 +996,9 @@
   </programme>
   <programme start="20251103043000 +0600" stop="20251103050000 +0600" channel="ZEEBUSINESS">
     <title lang="bn">Money Guru</title>
+  </programme>
+  <programme start="20251103050000 +0600" stop="20251103053000 +0600" channel="ZEEBUSINESS">
+    <title lang="bn">Property Plus</title>
   </programme>
   <channel id="ZEENews">
     <display-name>NEWS | ZEE News</display-name>
@@ -1514,9 +1568,6 @@
     <display-name>Bharat Samachar TV</display-name>
     <icon src="https://bharatsamachartv.com/images/logo.png"/>
   </channel>
-  <programme start="20251102142500 +0600" stop="20251102145500 +0600" channel="BharatSamacharTV.in">
-    <title lang="bn">CMS Commercial</title>
-  </programme>
   <programme start="20251102145500 +0600" stop="20251102152500 +0600" channel="BharatSamacharTV.in">
     <title lang="bn">100 Samachar</title>
   </programme>
@@ -1603,6 +1654,9 @@
   </programme>
   <programme start="20251103045500 +0600" stop="20251103052500 +0600" channel="BharatSamacharTV.in">
     <title lang="bn">Anhoni / Crime / SF</title>
+  </programme>
+  <programme start="20251103052500 +0600" stop="20251103055500 +0600" channel="BharatSamacharTV.in">
+    <title lang="bn">Full &amp; Final Bulletin</title>
   </programme>
   <channel id="Abp.in">
     <display-name>ABP News</display-name>
@@ -5652,200 +5706,293 @@
     <display-name>CGTN</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/>
   </channel>
-  <programme start="20251102001200 +0600" stop="20251102004200 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102000000 +0600" stop="20251102003000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102004200 +0600" stop="20251102011600 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102003000 +0600" stop="20251102010000 +0600" channel="CGTN.cn">
+    <title lang="bn">Talking Business</title>
   </programme>
-  <programme start="20251102011600 +0600" stop="20251102012400 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102010000 +0600" stop="20251102010100 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102012400 +0600" stop="20251102015000 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102010100 +0600" stop="20251102013000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102015000 +0600" stop="20251102015700 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102013000 +0600" stop="20251102013100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Travel Show</title>
   </programme>
-  <programme start="20251102015700 +0600" stop="20251102023200 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102013100 +0600" stop="20251102020000 +0600" channel="CGTN.cn">
+    <title lang="bn">Lethal Waters: Climate Change in Pakistan</title>
   </programme>
-  <programme start="20251102023200 +0600" stop="20251102030300 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102020000 +0600" stop="20251102023000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102030300 +0600" stop="20251102041600 +0600" channel="CGTN.cn">
-    <title lang="bn">欢乐送</title>
+  <programme start="20251102023000 +0600" stop="20251102030000 +0600" channel="CGTN.cn">
+    <title lang="bn">Panorama</title>
   </programme>
-  <programme start="20251102041600 +0600" stop="20251102042400 +0600" channel="CGTN.cn">
-    <title lang="bn">吉林体彩</title>
+  <programme start="20251102030000 +0600" stop="20251102040000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102042400 +0600" stop="20251102043000 +0600" channel="CGTN.cn">
-    <title lang="bn">天气预报</title>
+  <programme start="20251102040000 +0600" stop="20251102043000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
   <programme start="20251102043000 +0600" stop="20251102050000 +0600" channel="CGTN.cn">
-    <title lang="bn">吉林新闻联播</title>
+    <title lang="bn">The Media Show</title>
   </programme>
-  <programme start="20251102050000 +0600" stop="20251102053400 +0600" channel="CGTN.cn">
-    <title lang="bn">转播中央台新闻联播</title>
+  <programme start="20251102050000 +0600" stop="20251102053000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102053400 +0600" stop="20251102061800 +0600" channel="CGTN.cn">
-    <title lang="bn">大剧场</title>
+  <programme start="20251102053000 +0600" stop="20251102060000 +0600" channel="CGTN.cn">
+    <title lang="bn">The President&amp;#x27;s Path</title>
   </programme>
-  <programme start="20251102061800 +0600" stop="20251102070000 +0600" channel="CGTN.cn">
-    <title lang="bn">大剧场</title>
+  <programme start="20251102060000 +0600" stop="20251102063000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102070000 +0600" stop="20251102074900 +0600" channel="CGTN.cn">
-    <title lang="bn">高手在民间</title>
+  <programme start="20251102063000 +0600" stop="20251102070000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Travel Show</title>
   </programme>
-  <programme start="20251102074900 +0600" stop="20251102090000 +0600" channel="CGTN.cn">
-    <title lang="bn">欢乐送</title>
+  <programme start="20251102070000 +0600" stop="20251102073000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102090000 +0600" stop="20251102093200 +0600" channel="CGTN.cn">
-    <title lang="bn">回家</title>
+  <programme start="20251102073000 +0600" stop="20251102080000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tech Now</title>
   </programme>
-  <programme start="20251102093200 +0600" stop="20251102100000 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102080000 +0600" stop="20251102083000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102100000 +0600" stop="20251102100200 +0600" channel="CGTN.cn">
-    <title lang="bn">风吹半夏(23)</title>
+  <programme start="20251102083000 +0600" stop="20251102090000 +0600" channel="CGTN.cn">
+    <title lang="bn">Clive Myrie&amp;#x27;s Caribbean Adventure</title>
   </programme>
-  <programme start="20251102100200 +0600" stop="20251102103200 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102090000 +0600" stop="20251102093000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102103200 +0600" stop="20251102110400 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102093000 +0600" stop="20251102100000 +0600" channel="CGTN.cn">
+    <title lang="bn">Global Eye</title>
   </programme>
-  <programme start="20251102110400 +0600" stop="20251102113400 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102100000 +0600" stop="20251102103000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102113400 +0600" stop="20251102120600 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102103000 +0600" stop="20251102110000 +0600" channel="CGTN.cn">
+    <title lang="bn">Talking Business</title>
   </programme>
-  <programme start="20251102120600 +0600" stop="20251102132100 +0600" channel="CGTN.cn">
-    <title lang="bn">欢乐送</title>
+  <programme start="20251102110000 +0600" stop="20251102120000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102132100 +0600" stop="20251102135100 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102120000 +0600" stop="20251102123000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102135100 +0600" stop="20251102140000 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102123000 +0600" stop="20251102130000 +0600" channel="CGTN.cn">
+    <title lang="bn">Panorama</title>
   </programme>
-  <programme start="20251102140000 +0600" stop="20251102142100 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102130000 +0600" stop="20251102133000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102142100 +0600" stop="20251102145200 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102133000 +0600" stop="20251102140000 +0600" channel="CGTN.cn">
+    <title lang="bn">Ukrainecast</title>
   </programme>
-  <programme start="20251102145200 +0600" stop="20251102152200 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102140000 +0600" stop="20251102143000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102152200 +0600" stop="20251102155700 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102143000 +0600" stop="20251102150000 +0600" channel="CGTN.cn">
+    <title lang="bn">Clive Myrie&amp;#x27;s Caribbean Adventure</title>
   </programme>
-  <programme start="20251102155700 +0600" stop="20251102163000 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102150000 +0600" stop="20251102160000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102163000 +0600" stop="20251102170100 +0600" channel="CGTN.cn">
-    <title lang="bn">吉林新闻联播</title>
+  <programme start="20251102160000 +0600" stop="20251102163000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102170100 +0600" stop="20251102173000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻早报</title>
+  <programme start="20251102163000 +0600" stop="20251102170000 +0600" channel="CGTN.cn">
+    <title lang="bn">AI Decoded</title>
+  </programme>
+  <programme start="20251102170000 +0600" stop="20251102173000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
   <programme start="20251102173000 +0600" stop="20251102180000 +0600" channel="CGTN.cn">
-    <title lang="bn">纪录片</title>
+    <title lang="bn">Global Eye</title>
   </programme>
-  <programme start="20251102180000 +0600" stop="20251102182000 +0600" channel="CGTN.cn">
-    <title lang="bn">纪录片</title>
+  <programme start="20251102180000 +0600" stop="20251102183000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102182000 +0600" stop="20251102185100 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102183000 +0600" stop="20251102190000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Media Show</title>
   </programme>
-  <programme start="20251102185100 +0600" stop="20251102192100 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102190000 +0600" stop="20251102193000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251102192100 +0600" stop="20251102195200 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102193000 +0600" stop="20251102200000 +0600" channel="CGTN.cn">
+    <title lang="bn">Ukrainecast</title>
   </programme>
-  <programme start="20251102195200 +0600" stop="20251102202200 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102200000 +0600" stop="20251102203000 +0600" channel="CGTN.cn">
+    <title lang="bn">Newsday</title>
   </programme>
-  <programme start="20251102202200 +0600" stop="20251102205300 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102203000 +0600" stop="20251102204500 +0600" channel="CGTN.cn">
+    <title lang="bn">Business Today</title>
   </programme>
-  <programme start="20251102205300 +0600" stop="20251102212700 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102204500 +0600" stop="20251102210000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC Sport</title>
   </programme>
-  <programme start="20251102212700 +0600" stop="20251102220000 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102210000 +0600" stop="20251102213000 +0600" channel="CGTN.cn">
+    <title lang="bn">Newsday</title>
   </programme>
-  <programme start="20251102220000 +0600" stop="20251102221500 +0600" channel="CGTN.cn">
-    <title lang="bn">正午吉林</title>
+  <programme start="20251102213000 +0600" stop="20251102214500 +0600" channel="CGTN.cn">
+    <title lang="bn">Business Today</title>
   </programme>
-  <programme start="20251102221500 +0600" stop="20251102224600 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102214500 +0600" stop="20251102220000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC Sport</title>
   </programme>
-  <programme start="20251102224600 +0600" stop="20251102231600 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102220000 +0600" stop="20251102223000 +0600" channel="CGTN.cn">
+    <title lang="bn">Newsday</title>
   </programme>
-  <programme start="20251102231600 +0600" stop="20251102234600 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102223000 +0600" stop="20251102224500 +0600" channel="CGTN.cn">
+    <title lang="bn">Business Today</title>
   </programme>
-  <programme start="20251102234600 +0600" stop="20251103001900 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102224500 +0600" stop="20251102230000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC Sport</title>
   </programme>
-  <programme start="20251103001900 +0600" stop="20251103005300 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102230000 +0600" stop="20251102233000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251103005300 +0600" stop="20251103012600 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251102233000 +0600" stop="20251103000000 +0600" channel="CGTN.cn">
+    <title lang="bn">Business Today</title>
   </programme>
-  <programme start="20251103012600 +0600" stop="20251103020000 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251103000000 +0600" stop="20251103003000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251103020000 +0600" stop="20251103023200 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251103003000 +0600" stop="20251103005500 +0600" channel="CGTN.cn">
+    <title lang="bn">Business Today</title>
   </programme>
-  <programme start="20251103023200 +0600" stop="20251103030300 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251103005500 +0600" stop="20251103010000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tech Now</title>
   </programme>
-  <programme start="20251103030300 +0600" stop="20251103041600 +0600" channel="CGTN.cn">
-    <title lang="bn">欢乐送</title>
+  <programme start="20251103010000 +0600" stop="20251103013000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251103041600 +0600" stop="20251103042400 +0600" channel="CGTN.cn">
-    <title lang="bn">吉林体彩</title>
+  <programme start="20251103013000 +0600" stop="20251103015500 +0600" channel="CGTN.cn">
+    <title lang="bn">Business Today</title>
   </programme>
-  <programme start="20251103042400 +0600" stop="20251103043000 +0600" channel="CGTN.cn">
-    <title lang="bn">天气预报</title>
+  <programme start="20251103015500 +0600" stop="20251103020000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tech Now</title>
+  </programme>
+  <programme start="20251103020000 +0600" stop="20251103023000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20251103023000 +0600" stop="20251103030000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20251103030000 +0600" stop="20251103033000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20251103033000 +0600" stop="20251103035500 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20251103035500 +0600" stop="20251103040000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tech Now</title>
+  </programme>
+  <programme start="20251103040000 +0600" stop="20251103043000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
   <programme start="20251103043000 +0600" stop="20251103050000 +0600" channel="CGTN.cn">
-    <title lang="bn">吉林新闻联播</title>
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251103050000 +0600" stop="20251103053400 +0600" channel="CGTN.cn">
-    <title lang="bn">转播中央台新闻联播</title>
+  <programme start="20251103050000 +0600" stop="20251103053000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251103053400 +0600" stop="20251103061800 +0600" channel="CGTN.cn">
-    <title lang="bn">大剧场</title>
+  <programme start="20251103053000 +0600" stop="20251103054500 +0600" channel="CGTN.cn">
+    <title lang="bn">Business Today</title>
   </programme>
-  <programme start="20251103061800 +0600" stop="20251103070000 +0600" channel="CGTN.cn">
-    <title lang="bn">大剧场</title>
+  <programme start="20251103054500 +0600" stop="20251103055500 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20251103070000 +0600" stop="20251103071000 +0600" channel="CGTN.cn">
-    <title lang="bn">民声</title>
+  <programme start="20251103055500 +0600" stop="20251103060000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tech Now</title>
   </programme>
-  <programme start="20251103071000 +0600" stop="20251103074300 +0600" channel="CGTN.cn">
-    <title lang="bn">好好学习</title>
+  <programme start="20251103060000 +0600" stop="20251103063000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News Now</title>
   </programme>
-  <programme start="20251103074300 +0600" stop="20251103080000 +0600" channel="CGTN.cn">
-    <title lang="bn">今晚</title>
+  <programme start="20251103063000 +0600" stop="20251103070000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News Now</title>
   </programme>
-  <programme start="20251103080000 +0600" stop="20251103091300 +0600" channel="CGTN.cn">
-    <title lang="bn">欢乐送</title>
+  <programme start="20251103070000 +0600" stop="20251103073000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News Now</title>
   </programme>
-  <programme start="20251103091300 +0600" stop="20251103094300 +0600" channel="CGTN.cn">
-    <title lang="bn">萃影流年</title>
+  <programme start="20251103073000 +0600" stop="20251103075500 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News Now</title>
   </programme>
-  <programme start="20251103094300 +0600" stop="20251103101300 +0600" channel="CGTN.cn">
-    <title lang="bn">白天剧场</title>
+  <programme start="20251103075500 +0600" stop="20251103080000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tech Now</title>
+  </programme>
+  <programme start="20251103080000 +0600" stop="20251103083000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News Now</title>
+  </programme>
+  <programme start="20251103083000 +0600" stop="20251103084500 +0600" channel="CGTN.cn">
+    <title lang="bn">Business Today - NYSE Opening Bell</title>
+  </programme>
+  <programme start="20251103084500 +0600" stop="20251103090000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News Now</title>
+  </programme>
+  <programme start="20251103090000 +0600" stop="20251103093000 +0600" channel="CGTN.cn">
+    <title lang="bn">Verified Live</title>
+  </programme>
+  <programme start="20251103093000 +0600" stop="20251103100000 +0600" channel="CGTN.cn">
+    <title lang="bn">Verified Live</title>
+  </programme>
+  <programme start="20251103100000 +0600" stop="20251103103000 +0600" channel="CGTN.cn">
+    <title lang="bn">Verified Live</title>
+  </programme>
+  <programme start="20251103103000 +0600" stop="20251103104500 +0600" channel="CGTN.cn">
+    <title lang="bn">Business Today</title>
+  </programme>
+  <programme start="20251103104500 +0600" stop="20251103105500 +0600" channel="CGTN.cn">
+    <title lang="bn">Verified Live</title>
+  </programme>
+  <programme start="20251103105500 +0600" stop="20251103110000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tech Now</title>
+  </programme>
+  <programme start="20251103110000 +0600" stop="20251103113000 +0600" channel="CGTN.cn">
+    <title lang="bn">Verified Live</title>
+  </programme>
+  <programme start="20251103113000 +0600" stop="20251103120000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC Focus on Africa</title>
+  </programme>
+  <programme start="20251103120000 +0600" stop="20251103123000 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme start="20251103123000 +0600" stop="20251103130000 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme start="20251103133000 +0600" stop="20251103135500 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme start="20251103135500 +0600" stop="20251103140000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tech Now</title>
+  </programme>
+  <programme start="20251103140000 +0600" stop="20251103143000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Context</title>
+  </programme>
+  <programme start="20251103143000 +0600" stop="20251103150000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Context</title>
+  </programme>
+  <programme start="20251103150000 +0600" stop="20251103153000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Context USA</title>
+  </programme>
+  <programme start="20251103153000 +0600" stop="20251103155500 +0600" channel="CGTN.cn">
+    <title lang="bn">The Context USA</title>
+  </programme>
+  <programme start="20251103155500 +0600" stop="20251103160000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tech Now</title>
+  </programme>
+  <programme start="20251103160000 +0600" stop="20251103163000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News Special</title>
+  </programme>
+  <programme start="20251103163000 +0600" stop="20251103170000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News Special</title>
+  </programme>
+  <programme start="20251103170000 +0600" stop="20251103173000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News Special</title>
   </programme>
   <channel id="cna.sg">
     <display-name>Channel News Asia</display-name>
