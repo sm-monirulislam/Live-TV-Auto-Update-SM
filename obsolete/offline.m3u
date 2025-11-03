@@ -11,6 +11,8 @@ http://103.175.242.10:8080/btv/index.m3u8
 http://stvlive.net:8080/channeli/index.m3u8
 #EXTINF:-1 group-title="Bangla",DEEPTO TV HD (5d)
 http://stvlive.net:8080/deepto/index.m3u8
+#EXTINF:-1 group-title="Bangla",DEEPTO TV HD (0d)
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="Bangla",iON TV (5d)
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Me TV (5d)
@@ -27,14 +29,12 @@ http://stvlive.net:8080/atnnews/index.m3u8
 http://stvlive.net:8080/channel24/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | Ekattor TV (5d)
 http://stvlive.net:8080/ekattor/index.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | EKHON TV (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | Independent Television (5d)
 http://103.175.242.10:8080/independent/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | JAMUNA TV (5d)
-http://103.175.242.10:8080/jamuna/index.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | JAMUNA TV (5d)
 http://stvlive.net:8080/jamuna/index.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | JAMUNA TV (5d)
+http://103.175.242.10:8080/jamuna/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (5d)
 http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (6d)
@@ -69,16 +69,14 @@ http://116.90.120.149:8000/play/a0bx/index.m3u8
 http://116.90.120.149:8000/play/a0b3/index.m3u8
 #EXTINF:-1 group-title="Kids",2. Sonic (2d)
 http://116.90.120.149:8000/play/a0cc/index.m3u8
-#EXTINF:-1 group-title="Kids",2. SONY YAY! (0d)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=908587&extension=ts&play_token=413IAp959Y
 #EXTINF:-1 group-title="Kids",Discovery Kids (0d)
 http://181.78.4.250:8098/play/a08h/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney International HD (2d)
 http://116.90.120.149:8000/play/a0e9/index.m3u8
-#EXTINF:-1 group-title="Kids",Kid Screation (1d)
-http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-#EXTINF:-1 group-title="Movies",EN | a-z Best Classic TV (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CUXB534IAMTJM7Z4BKKS/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies",EN | Old West TV (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/BNG6HPRT3WX89TD7PR60/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies",EN | Urban Action Channel (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/58XXIGAFT3S6VSMD82AP/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 80s Flashback (5d)
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 90s Throwback (5d)
@@ -177,5 +175,5 @@ https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | Hub Sports 4 (8d)
 https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Sports",OTHER | Cowboy TV (0d)
-https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Racing | Nitro Circus TV (0d)
+https://amg13231-actve-amg13231c1-sportstribal-emea-1265.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-sportstribalemea/playlist.m3u8
