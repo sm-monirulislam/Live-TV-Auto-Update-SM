@@ -340,16 +340,16 @@
     <display-name>Euronews English</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/f/f9/Euronews_2022_Stacked_III.svg"/>
   </channel>
-  <programme start="20251103160000 +0600" stop="20251103161500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103160000 +0600" stop="20251103161400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103161500 +0600" stop="20251103163000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103161400 +0600" stop="20251103162900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103163000 +0600" stop="20251103164600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103162900 +0600" stop="20251103164500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103164600 +0600" stop="20251103170000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103164500 +0600" stop="20251103170000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251103170000 +0600" stop="20251103171500 +0600" channel="EuronewsEnglish.fr">
@@ -358,10 +358,10 @@
   <programme start="20251103171500 +0600" stop="20251103173000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103173000 +0600" stop="20251103174600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103173000 +0600" stop="20251103174900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103174600 +0600" stop="20251103180000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103174900 +0600" stop="20251103180000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251103180000 +0600" stop="20251103181500 +0600" channel="EuronewsEnglish.fr">
@@ -370,29 +370,35 @@
   <programme start="20251103181500 +0600" stop="20251103183000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103183000 +0600" stop="20251103185100 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103183000 +0600" stop="20251103184900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103185100 +0600" stop="20251103190000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103184900 +0600" stop="20251103190000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251103190000 +0600" stop="20251103193000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103190000 +0600" stop="20251103191800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103193000 +0600" stop="20251103194600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103191800 +0600" stop="20251103193000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251103193000 +0600" stop="20251103194900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103194600 +0600" stop="20251103200000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103194900 +0600" stop="20251103200000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251103200000 +0600" stop="20251103201500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103201500 +0600" stop="20251103203000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103201500 +0600" stop="20251103202900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103203000 +0600" stop="20251103210000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103202900 +0600" stop="20251103204600 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20251103204600 +0600" stop="20251103210000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251103210000 +0600" stop="20251103211500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
@@ -400,25 +406,28 @@
   <programme start="20251103211500 +0600" stop="20251103213000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103213000 +0600" stop="20251103214800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103213000 +0600" stop="20251103214900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103214800 +0600" stop="20251103220000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103214900 +0600" stop="20251103220000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251103220000 +0600" stop="20251103221500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103221500 +0600" stop="20251103223000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103221500 +0600" stop="20251103222900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103223000 +0600" stop="20251103230000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103222900 +0600" stop="20251103224900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103230000 +0600" stop="20251103231400 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103224900 +0600" stop="20251103230000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251103230000 +0600" stop="20251103231500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103231400 +0600" stop="20251103233100 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103231500 +0600" stop="20251103233100 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
   <programme start="20251103233100 +0600" stop="20251103234400 +0600" channel="EuronewsEnglish.fr">
@@ -430,13 +439,13 @@
   <programme start="20251104000000 +0600" stop="20251104001500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104001500 +0600" stop="20251104003000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104001500 +0600" stop="20251104002900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104003000 +0600" stop="20251104005000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104002900 +0600" stop="20251104004900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104005000 +0600" stop="20251104010000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104004900 +0600" stop="20251104010000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104010000 +0600" stop="20251104011500 +0600" channel="EuronewsEnglish.fr">
@@ -445,22 +454,22 @@
   <programme start="20251104011500 +0600" stop="20251104013000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104013000 +0600" stop="20251104014600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104013000 +0600" stop="20251104014900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104014600 +0600" stop="20251104020000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104014900 +0600" stop="20251104020000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251104020000 +0600" stop="20251104021500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104020000 +0600" stop="20251104021400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104021500 +0600" stop="20251104023000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104021400 +0600" stop="20251104022900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104023000 +0600" stop="20251104024600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104022900 +0600" stop="20251104024500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104024600 +0600" stop="20251104030000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104024500 +0600" stop="20251104030000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104030000 +0600" stop="20251104031500 +0600" channel="EuronewsEnglish.fr">
@@ -469,47 +478,59 @@
   <programme start="20251104031500 +0600" stop="20251104033000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104033000 +0600" stop="20251104040000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104033000 +0600" stop="20251104034800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20251104034800 +0600" stop="20251104040000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104040000 +0600" stop="20251104041500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104041500 +0600" stop="20251104043000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104041500 +0600" stop="20251104042900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104043000 +0600" stop="20251104050000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104042900 +0600" stop="20251104044500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20251104044500 +0600" stop="20251104050000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104050000 +0600" stop="20251104051500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104051500 +0600" stop="20251104053000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104051500 +0600" stop="20251104052900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104053000 +0600" stop="20251104060000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104052900 +0600" stop="20251104054500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104060000 +0600" stop="20251104061400 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104054500 +0600" stop="20251104060000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251104060000 +0600" stop="20251104061500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104061400 +0600" stop="20251104063000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104061500 +0600" stop="20251104062900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104063000 +0600" stop="20251104064600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104062900 +0600" stop="20251104064500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104064600 +0600" stop="20251104070000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104064500 +0600" stop="20251104070000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104070000 +0600" stop="20251104071500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104071500 +0600" stop="20251104073000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104071500 +0600" stop="20251104072900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104073000 +0600" stop="20251104080000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104072900 +0600" stop="20251104074500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20251104074500 +0600" stop="20251104080000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104080000 +0600" stop="20251104081500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
@@ -523,13 +544,16 @@
   <programme start="20251104084800 +0600" stop="20251104090000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251104090000 +0600" stop="20251104091500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104090000 +0600" stop="20251104091400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104091500 +0600" stop="20251104093000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104091400 +0600" stop="20251104093000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104093000 +0600" stop="20251104100000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104093000 +0600" stop="20251104094500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Wake up Europe</title>
+  </programme>
+  <programme start="20251104094500 +0600" stop="20251104100000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
   <programme start="20251104100000 +0600" stop="20251104101500 +0600" channel="EuronewsEnglish.fr">
@@ -538,8 +562,11 @@
   <programme start="20251104101500 +0600" stop="20251104103000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104103000 +0600" stop="20251104110000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104103000 +0600" stop="20251104104800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
+  </programme>
+  <programme start="20251104104800 +0600" stop="20251104110000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104110000 +0600" stop="20251104111500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
@@ -547,8 +574,11 @@
   <programme start="20251104111500 +0600" stop="20251104113000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104113000 +0600" stop="20251104120000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104113000 +0600" stop="20251104114800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
+  </programme>
+  <programme start="20251104114800 +0600" stop="20251104120000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104120000 +0600" stop="20251104121500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
@@ -556,10 +586,10 @@
   <programme start="20251104121500 +0600" stop="20251104123000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104123000 +0600" stop="20251104124900 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104123000 +0600" stop="20251104124800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104124900 +0600" stop="20251104130000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104124800 +0600" stop="20251104130000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104130000 +0600" stop="20251104131500 +0600" channel="EuronewsEnglish.fr">
@@ -568,13 +598,16 @@
   <programme start="20251104131500 +0600" stop="20251104133000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251104133000 +0600" stop="20251104140000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104133000 +0600" stop="20251104134800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251104140000 +0600" stop="20251104141700 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104134800 +0600" stop="20251104140000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251104140000 +0600" stop="20251104141900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251104141700 +0600" stop="20251104143000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104141900 +0600" stop="20251104143000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104143000 +0600" stop="20251104144600 +0600" channel="EuronewsEnglish.fr">
@@ -589,8 +622,11 @@
   <programme start="20251104151500 +0600" stop="20251104153000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251104153000 +0600" stop="20251104160000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104153000 +0600" stop="20251104154800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
+  </programme>
+  <programme start="20251104154800 +0600" stop="20251104160000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <channel id="CNN.us">
     <display-name>CNN</display-name>
@@ -651,19 +687,19 @@
     <title lang="bn">Laura Coates Live</title>
   </programme>
   <programme start="20251104100000 +0600" stop="20251104110000 +0600" channel="CNN.us">
-    <title lang="bn">The Story Is With Elex Michaelson</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251104110000 +0600" stop="20251104120000 +0600" channel="CNN.us">
-    <title lang="bn">The Story Is With Elex Michaelson</title>
+    <title lang="bn">Erin Burnett OutFront</title>
   </programme>
   <programme start="20251104120000 +0600" stop="20251104130000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">The Source With Kaitlan Collins</title>
   </programme>
   <programme start="20251104130000 +0600" stop="20251104140000 +0600" channel="CNN.us">
     <title lang="bn">CNN NewsNight With Abby Phillip</title>
   </programme>
   <programme start="20251104140000 +0600" stop="20251104150000 +0600" channel="CNN.us">
-    <title lang="bn">American Pulse</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251104150000 +0600" stop="20251104160000 +0600" channel="CNN.us">
     <title lang="bn">Early Start With Rahel Solomon</title>
@@ -1048,10 +1084,7 @@
     <display-name>ENT | COLORS HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg"/>
   </channel>
-  <programme start="20251103155700 +0600" stop="20251103162700 +0600" channel="COLORS.in">
-    <title lang="bn">Udaariyan</title>
-  </programme>
-  <programme start="20251103162700 +0600" stop="20251103165300 +0600" channel="COLORS.in">
+  <programme start="20251103162300 +0600" stop="20251103165300 +0600" channel="COLORS.in">
     <title lang="bn">Udaariyan</title>
   </programme>
   <programme start="20251103165300 +0600" stop="20251103172000 +0600" channel="COLORS.in">
@@ -1137,6 +1170,9 @@
   </programme>
   <programme start="20251104180000 +0600" stop="20251104183000 +0600" channel="COLORS.in">
     <title lang="bn">Udaariyan</title>
+  </programme>
+  <programme start="20251104183000 +0600" stop="20251104190000 +0600" channel="COLORS.in">
+    <title lang="bn">Noyontara</title>
   </programme>
   <channel id="IndiaTV.in">
     <display-name>India TV</display-name>
@@ -3208,10 +3244,7 @@
     <display-name>Star Sports 3 HD</display-name>
     <icon src="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png"/>
   </channel>
-  <programme start="20251103160000 +0600" stop="20251103163000 +0600" channel="starsports3.in">
-    <title lang="bn">2nd T20: Australia v India; T20 Cricket</title>
-  </programme>
-  <programme start="20251103163000 +0600" stop="20251103164500 +0600" channel="starsports3.in">
+  <programme start="20251103161500 +0600" stop="20251103164500 +0600" channel="starsports3.in">
     <title lang="bn">ICC CWC 2023 India vs New Zealand, 21st Match; One-Day...</title>
   </programme>
   <programme start="20251103164500 +0600" stop="20251103170000 +0600" channel="starsports3.in">
@@ -3297,6 +3330,9 @@
   </programme>
   <programme start="20251104030000 +0600" stop="20251104033000 +0600" channel="starsports3.in">
     <title lang="bn">ICC CWC 2023: India vs New Zealand, 1st Semi-final; One...</title>
+  </programme>
+  <programme start="20251104033000 +0600" stop="20251104040000 +0600" channel="starsports3.in">
+    <title lang="bn">ICC T20 World Cup 2024 India vs South Africa Final; T20...</title>
   </programme>
   <channel id="starsportsselect1.in">
     <display-name>Star Sports Select 1 HD</display-name>
@@ -5633,62 +5669,71 @@
     <display-name>WION</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/1d/WION_World_Is_One_News.svg"/>
   </channel>
-  <programme start="20251103010000 +0600" stop="20251103040000 +0600" channel="WION.in">
+  <programme start="20251103020000 +0600" stop="20251103050000 +0600" channel="WION.in">
     <title lang="bn">..programmes no longer available</title>
   </programme>
-  <programme start="20251103040000 +0600" stop="20251103070000 +0600" channel="WION.in">
+  <programme start="20251103050000 +0600" stop="20251103080000 +0600" channel="WION.in">
     <title lang="bn">..programmes no longer available</title>
   </programme>
-  <programme start="20251103070000 +0600" stop="20251103100000 +0600" channel="WION.in">
+  <programme start="20251103080000 +0600" stop="20251103110000 +0600" channel="WION.in">
     <title lang="bn">..programmes no longer available</title>
   </programme>
-  <programme start="20251103100000 +0600" stop="20251103130000 +0600" channel="WION.in">
+  <programme start="20251103110000 +0600" stop="20251103140000 +0600" channel="WION.in">
     <title lang="bn">..programmes no longer available</title>
   </programme>
-  <programme start="20251103130000 +0600" stop="20251103160000 +0600" channel="WION.in">
+  <programme start="20251103140000 +0600" stop="20251103165900 +0600" channel="WION.in">
     <title lang="bn">..programmes no longer available</title>
   </programme>
-  <programme start="20251103160000 +0600" stop="20251103185900 +0600" channel="WION.in">
+  <programme start="20251103165900 +0600" stop="20251103170000 +0600" channel="WION.in">
     <title lang="bn">..programmes no longer available</title>
   </programme>
-  <programme start="20251103185900 +0600" stop="20251103190000 +0600" channel="WION.in">
-    <title lang="bn">..programmes no longer available</title>
-  </programme>
-  <programme start="20251103190000 +0600" stop="20251103193000 +0600" channel="WION.in">
+  <programme start="20251103170000 +0600" stop="20251103173000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
-  <programme start="20251103193000 +0600" stop="20251103200000 +0600" channel="WION.in">
+  <programme start="20251103173000 +0600" stop="20251103180000 +0600" channel="WION.in">
     <title lang="bn">WION Pulse</title>
   </programme>
-  <programme start="20251103200000 +0600" stop="20251103203000 +0600" channel="WION.in">
+  <programme start="20251103180000 +0600" stop="20251103183000 +0600" channel="WION.in">
     <title lang="bn">Race To Power</title>
+  </programme>
+  <programme start="20251103183000 +0600" stop="20251103190000 +0600" channel="WION.in">
+    <title lang="bn">Top Stories</title>
+  </programme>
+  <programme start="20251103190000 +0600" stop="20251103193000 +0600" channel="WION.in">
+    <title lang="bn">World DNA</title>
+  </programme>
+  <programme start="20251103193000 +0600" stop="20251103200000 +0600" channel="WION.in">
+    <title lang="bn">World DNA</title>
+  </programme>
+  <programme start="20251103200000 +0600" stop="20251103203000 +0600" channel="WION.in">
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251103203000 +0600" stop="20251103210000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251103210000 +0600" stop="20251103213000 +0600" channel="WION.in">
-    <title lang="bn">World DNA</title>
+    <title lang="bn">World Business Watch</title>
   </programme>
   <programme start="20251103213000 +0600" stop="20251103220000 +0600" channel="WION.in">
-    <title lang="bn">World DNA</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251103220000 +0600" stop="20251103223000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">World At War</title>
   </programme>
   <programme start="20251103223000 +0600" stop="20251103230000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">Newspoint</title>
   </programme>
   <programme start="20251103230000 +0600" stop="20251103233000 +0600" channel="WION.in">
-    <title lang="bn">World Business Watch</title>
+    <title lang="bn">Speed News</title>
   </programme>
   <programme start="20251103233000 +0600" stop="20251104000000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251104000000 +0600" stop="20251104003000 +0600" channel="WION.in">
-    <title lang="bn">World At War</title>
+    <title lang="bn">WION Climate Tracker</title>
   </programme>
   <programme start="20251104003000 +0600" stop="20251104010000 +0600" channel="WION.in">
-    <title lang="bn">Newspoint</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251104010000 +0600" stop="20251104013000 +0600" channel="WION.in">
     <title lang="bn">Speed News</title>
@@ -5697,13 +5742,13 @@
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251104020000 +0600" stop="20251104023000 +0600" channel="WION.in">
-    <title lang="bn">WION Climate Tracker</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251104023000 +0600" stop="20251104030000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251104030000 +0600" stop="20251104033000 +0600" channel="WION.in">
-    <title lang="bn">Speed News</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251104033000 +0600" stop="20251104040000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
@@ -5718,34 +5763,34 @@
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251104053000 +0600" stop="20251104060000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
-  </programme>
-  <programme start="20251104060000 +0600" stop="20251104063000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
-  </programme>
-  <programme start="20251104063000 +0600" stop="20251104070000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
-  </programme>
-  <programme start="20251104070000 +0600" stop="20251104073000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
-  </programme>
-  <programme start="20251104073000 +0600" stop="20251104080000 +0600" channel="WION.in">
     <title lang="bn">WION Dispatch</title>
   </programme>
-  <programme start="20251104080000 +0600" stop="20251104083000 +0600" channel="WION.in">
+  <programme start="20251104060000 +0600" stop="20251104063000 +0600" channel="WION.in">
     <title lang="bn">Wion World Of Sport</title>
   </programme>
-  <programme start="20251104083000 +0600" stop="20251104090000 +0600" channel="WION.in">
+  <programme start="20251104063000 +0600" stop="20251104070000 +0600" channel="WION.in">
     <title lang="bn">WION Live Broadcast From USA</title>
   </programme>
-  <programme start="20251104090000 +0600" stop="20251104093000 +0600" channel="WION.in">
+  <programme start="20251104070000 +0600" stop="20251104073000 +0600" channel="WION.in">
     <title lang="bn">World Of Africa</title>
   </programme>
-  <programme start="20251104093000 +0600" stop="20251104100000 +0600" channel="WION.in">
+  <programme start="20251104073000 +0600" stop="20251104080000 +0600" channel="WION.in">
     <title lang="bn">Race To Power</title>
   </programme>
-  <programme start="20251104100000 +0600" stop="20251104103000 +0600" channel="WION.in">
+  <programme start="20251104080000 +0600" stop="20251104083000 +0600" channel="WION.in">
     <title lang="bn">WION Fineprint</title>
+  </programme>
+  <programme start="20251104083000 +0600" stop="20251104090000 +0600" channel="WION.in">
+    <title lang="bn">Gravitas</title>
+  </programme>
+  <programme start="20251104090000 +0600" stop="20251104093000 +0600" channel="WION.in">
+    <title lang="bn">Gravitas</title>
+  </programme>
+  <programme start="20251104093000 +0600" stop="20251104100000 +0600" channel="WION.in">
+    <title lang="bn">WION Pulse</title>
+  </programme>
+  <programme start="20251104100000 +0600" stop="20251104103000 +0600" channel="WION.in">
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251104103000 +0600" stop="20251104110000 +0600" channel="WION.in">
     <title lang="bn">Gravitas</title>
@@ -5754,200 +5799,557 @@
     <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251104113000 +0600" stop="20251104120000 +0600" channel="WION.in">
-    <title lang="bn">WION Pulse</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251104120000 +0600" stop="20251104123000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">WION Pulse</title>
   </programme>
   <programme start="20251104123000 +0600" stop="20251104130000 +0600" channel="WION.in">
-    <title lang="bn">Gravitas</title>
-  </programme>
-  <programme start="20251104130000 +0600" stop="20251104133000 +0600" channel="WION.in">
-    <title lang="bn">Gravitas</title>
-  </programme>
-  <programme start="20251104133000 +0600" stop="20251104140000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
-  </programme>
-  <programme start="20251104140000 +0600" stop="20251104143000 +0600" channel="WION.in">
-    <title lang="bn">WION Pulse</title>
-  </programme>
-  <programme start="20251104143000 +0600" stop="20251104150000 +0600" channel="WION.in">
     <title lang="bn">WION Dispatch</title>
   </programme>
-  <programme start="20251104150000 +0600" stop="20251104153000 +0600" channel="WION.in">
+  <programme start="20251104130000 +0600" stop="20251104133000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
-  <programme start="20251104153000 +0600" stop="20251104160000 +0600" channel="WION.in">
+  <programme start="20251104133000 +0600" stop="20251104140000 +0600" channel="WION.in">
     <title lang="bn">World Of Africa</title>
   </programme>
-  <programme start="20251104160000 +0600" stop="20251104163000 +0600" channel="WION.in">
+  <programme start="20251104140000 +0600" stop="20251104143000 +0600" channel="WION.in">
     <title lang="bn">Gravitas</title>
   </programme>
-  <programme start="20251104163000 +0600" stop="20251104170000 +0600" channel="WION.in">
+  <programme start="20251104143000 +0600" stop="20251104150000 +0600" channel="WION.in">
     <title lang="bn">Gravitas</title>
   </programme>
-  <programme start="20251104170000 +0600" stop="20251104173000 +0600" channel="WION.in">
+  <programme start="20251104150000 +0600" stop="20251104153000 +0600" channel="WION.in">
     <title lang="bn">WION Pulse</title>
   </programme>
-  <programme start="20251104173000 +0600" stop="20251104180000 +0600" channel="WION.in">
+  <programme start="20251104153000 +0600" stop="20251104160000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
-  <programme start="20251104180000 +0600" stop="20251104183000 +0600" channel="WION.in">
+  <programme start="20251104160000 +0600" stop="20251104163000 +0600" channel="WION.in">
     <title lang="bn">WION Fineprint</title>
   </programme>
-  <programme start="20251104183000 +0600" stop="20251104190000 +0600" channel="WION.in">
+  <programme start="20251104163000 +0600" stop="20251104170000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
   <channel id="CGTN.cn">
     <display-name>CGTN</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/>
   </channel>
-  <programme start="20251103000000 +0600" stop="20251103010000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251103002500 +0600" stop="20251103012000 +0600" channel="CGTN.cn">
+    <title lang="bn">A Bee&amp;#x27;s Diary</title>
   </programme>
-  <programme start="20251103010000 +0600" stop="20251103011600 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251103012000 +0600" stop="20251103021500 +0600" channel="CGTN.cn">
+    <title lang="bn">Baboons: Rules of the Troop</title>
   </programme>
-  <programme start="20251103011600 +0600" stop="20251103020000 +0600" channel="CGTN.cn">
-    <title lang="bn">面对面</title>
+  <programme start="20251103021500 +0600" stop="20251103031000 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep02</title>
   </programme>
-  <programme start="20251103020000 +0600" stop="20251103030000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251103031000 +0600" stop="20251103040500 +0600" channel="CGTN.cn">
+    <title lang="bn">Rewilding S1 Ep02</title>
   </programme>
-  <programme start="20251103030000 +0600" stop="20251103040000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251103040500 +0600" stop="20251103050000 +0600" channel="CGTN.cn">
+    <title lang="bn">Gladiators S1 Ep03</title>
   </programme>
-  <programme start="20251103040000 +0600" stop="20251103050000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251103050000 +0600" stop="20251103055500 +0600" channel="CGTN.cn">
+    <title lang="bn">Gladiators S1 Ep04</title>
   </programme>
-  <programme start="20251103050000 +0600" stop="20251103060000 +0600" channel="CGTN.cn">
-    <title lang="bn">共同关注</title>
+  <programme start="20251103055500 +0600" stop="20251103065000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pride Rules S1 Ep01</title>
   </programme>
-  <programme start="20251103060000 +0600" stop="20251103064000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻联播</title>
+  <programme start="20251103065000 +0600" stop="20251103074500 +0600" channel="CGTN.cn">
+    <title lang="bn">A Bee&amp;#x27;s Diary</title>
   </programme>
-  <programme start="20251103064000 +0600" stop="20251103070000 +0600" channel="CGTN.cn">
-    <title lang="bn">焦点访谈</title>
+  <programme start="20251103074500 +0600" stop="20251103084000 +0600" channel="CGTN.cn">
+    <title lang="bn">Baboons: Rules of the Troop</title>
   </programme>
-  <programme start="20251103070000 +0600" stop="20251103080000 +0600" channel="CGTN.cn">
-    <title lang="bn">东方时空</title>
+  <programme start="20251103084000 +0600" stop="20251103093500 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep02</title>
   </programme>
-  <programme start="20251103080000 +0600" stop="20251103083000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻联播</title>
+  <programme start="20251103093500 +0600" stop="20251103102500 +0600" channel="CGTN.cn">
+    <title lang="bn">Rewilding S1 Ep02</title>
   </programme>
-  <programme start="20251103083000 +0600" stop="20251103090000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻1+1</title>
+  <programme start="20251103102500 +0600" stop="20251103112000 +0600" channel="CGTN.cn">
+    <title lang="bn">Gladiators S1 Ep03</title>
   </programme>
-  <programme start="20251103090000 +0600" stop="20251103093000 +0600" channel="CGTN.cn">
-    <title lang="bn">国际时讯</title>
+  <programme start="20251103112000 +0600" stop="20251103121500 +0600" channel="CGTN.cn">
+    <title lang="bn">Gladiators S1 Ep04</title>
   </programme>
-  <programme start="20251103093000 +0600" stop="20251103100000 +0600" channel="CGTN.cn">
-    <title lang="bn">环球视线</title>
+  <programme start="20251103121500 +0600" stop="20251103131000 +0600" channel="CGTN.cn">
+    <title lang="bn">Wild Sky S1 Ep02</title>
   </programme>
-  <programme start="20251103100000 +0600" stop="20251103110000 +0600" channel="CGTN.cn">
-    <title lang="bn">24小时</title>
+  <programme start="20251103131000 +0600" stop="20251103140500 +0600" channel="CGTN.cn">
+    <title lang="bn">A Bee&amp;#x27;s Diary</title>
   </programme>
-  <programme start="20251103110000 +0600" stop="20251103120000 +0600" channel="CGTN.cn">
-    <title lang="bn">午夜新闻</title>
+  <programme start="20251103140500 +0600" stop="20251103150000 +0600" channel="CGTN.cn">
+    <title lang="bn">Baboons: Rules of the Troop</title>
   </programme>
-  <programme start="20251103120000 +0600" stop="20251103122100 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251103150000 +0600" stop="20251103152500 +0600" channel="CGTN.cn">
+    <title lang="bn">Ol Pejeta Diaries S3 Ep04</title>
   </programme>
-  <programme start="20251103122100 +0600" stop="20251103123700 +0600" channel="CGTN.cn">
-    <title lang="bn">焦点访谈</title>
+  <programme start="20251103152500 +0600" stop="20251103162000 +0600" channel="CGTN.cn">
+    <title lang="bn">A Bee&amp;#x27;s Diary</title>
   </programme>
-  <programme start="20251103123700 +0600" stop="20251103130000 +0600" channel="CGTN.cn">
-    <title lang="bn">法治在线</title>
+  <programme start="20251103162000 +0600" stop="20251103171500 +0600" channel="CGTN.cn">
+    <title lang="bn">Baboons: Rules of the Troop</title>
   </programme>
-  <programme start="20251103130000 +0600" stop="20251103133300 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251103171500 +0600" stop="20251103181000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pride Rules S1 Ep02</title>
   </programme>
-  <programme start="20251103133300 +0600" stop="20251103140000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻1+1</title>
+  <programme start="20251103181000 +0600" stop="20251103190500 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep01</title>
   </programme>
-  <programme start="20251103140000 +0600" stop="20251103144400 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251103190500 +0600" stop="20251103200000 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep02</title>
   </programme>
-  <programme start="20251103144400 +0600" stop="20251103150000 +0600" channel="CGTN.cn">
-    <title lang="bn">焦点访谈</title>
+  <programme start="20251103200000 +0600" stop="20251103205000 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep03</title>
   </programme>
-  <programme start="20251103150000 +0600" stop="20251103153300 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251103205000 +0600" stop="20251103214000 +0600" channel="CGTN.cn">
+    <title lang="bn">Rewilding S1 Ep03</title>
   </programme>
-  <programme start="20251103153300 +0600" stop="20251103160000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻1+1</title>
+  <programme start="20251103214000 +0600" stop="20251103223500 +0600" channel="CGTN.cn">
+    <title lang="bn">A Bee&amp;#x27;s Diary</title>
   </programme>
-  <programme start="20251103160000 +0600" stop="20251103161800 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251103223500 +0600" stop="20251103233000 +0600" channel="CGTN.cn">
+    <title lang="bn">Baboons: Rules of the Troop</title>
   </programme>
-  <programme start="20251103161800 +0600" stop="20251103163400 +0600" channel="CGTN.cn">
-    <title lang="bn">焦点访谈</title>
+  <programme start="20251103233000 +0600" stop="20251104002500 +0600" channel="CGTN.cn">
+    <title lang="bn">Airborne S1 Ep01</title>
   </programme>
-  <programme start="20251103163400 +0600" stop="20251103170000 +0600" channel="CGTN.cn">
-    <title lang="bn">法治在线</title>
+  <programme start="20251104002500 +0600" stop="20251104012000 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep01</title>
   </programme>
-  <programme start="20251103170000 +0600" stop="20251103200000 +0600" channel="CGTN.cn">
-    <title lang="bn">朝闻天下</title>
+  <programme start="20251104012000 +0600" stop="20251104021500 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep02</title>
   </programme>
-  <programme start="20251103200000 +0600" stop="20251103210000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251104021500 +0600" stop="20251104031000 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep03</title>
   </programme>
-  <programme start="20251103210000 +0600" stop="20251103220000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251104031000 +0600" stop="20251104040500 +0600" channel="CGTN.cn">
+    <title lang="bn">Rewilding S1 Ep03</title>
   </programme>
-  <programme start="20251103220000 +0600" stop="20251103230000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251104040500 +0600" stop="20251104050000 +0600" channel="CGTN.cn">
+    <title lang="bn">A Bee&amp;#x27;s Diary</title>
   </programme>
-  <programme start="20251103230000 +0600" stop="20251103233400 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻30分</title>
+  <programme start="20251104050000 +0600" stop="20251104055500 +0600" channel="CGTN.cn">
+    <title lang="bn">Life&amp;#x27;s Journey S1 Ep01</title>
   </programme>
-  <programme start="20251103233400 +0600" stop="20251104000000 +0600" channel="CGTN.cn">
-    <title lang="bn">法治在线</title>
+  <programme start="20251104055500 +0600" stop="20251104065000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pride Rules S1 Ep02</title>
   </programme>
-  <programme start="20251104000000 +0600" stop="20251104010000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251104065000 +0600" stop="20251104074500 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep01</title>
   </programme>
-  <programme start="20251104010000 +0600" stop="20251104020000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251104074500 +0600" stop="20251104084000 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep02</title>
   </programme>
-  <programme start="20251104020000 +0600" stop="20251104030000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251104084000 +0600" stop="20251104093500 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep03</title>
   </programme>
-  <programme start="20251104030000 +0600" stop="20251104040000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251104093500 +0600" stop="20251104102500 +0600" channel="CGTN.cn">
+    <title lang="bn">Rewilding S1 Ep03</title>
   </programme>
-  <programme start="20251104040000 +0600" stop="20251104050000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻直播间</title>
+  <programme start="20251104102500 +0600" stop="20251104112000 +0600" channel="CGTN.cn">
+    <title lang="bn">A Bee&amp;#x27;s Diary</title>
   </programme>
-  <programme start="20251104050000 +0600" stop="20251104060000 +0600" channel="CGTN.cn">
-    <title lang="bn">共同关注</title>
+  <programme start="20251104112000 +0600" stop="20251104121500 +0600" channel="CGTN.cn">
+    <title lang="bn">Baboons: Rules of the Troop</title>
   </programme>
-  <programme start="20251104060000 +0600" stop="20251104063200 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻联播</title>
+  <programme start="20251104121500 +0600" stop="20251104131000 +0600" channel="CGTN.cn">
+    <title lang="bn">Airborne S1 Ep01</title>
   </programme>
-  <programme start="20251104063200 +0600" stop="20251104064000 +0600" channel="CGTN.cn">
-    <title lang="bn">天气预报</title>
+  <programme start="20251104131000 +0600" stop="20251104140500 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep01</title>
   </programme>
-  <programme start="20251104064000 +0600" stop="20251104070000 +0600" channel="CGTN.cn">
-    <title lang="bn">焦点访谈</title>
+  <programme start="20251104140500 +0600" stop="20251104150000 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep02</title>
   </programme>
-  <programme start="20251104070000 +0600" stop="20251104080000 +0600" channel="CGTN.cn">
-    <title lang="bn">东方时空</title>
+  <programme start="20251104150000 +0600" stop="20251104152500 +0600" channel="CGTN.cn">
+    <title lang="bn">Ol Pejeta Diaries S3 Ep05</title>
   </programme>
-  <programme start="20251104080000 +0600" stop="20251104083000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻联播</title>
+  <programme start="20251104152500 +0600" stop="20251104162000 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep01</title>
   </programme>
-  <programme start="20251104083000 +0600" stop="20251104090000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻1+1</title>
+  <programme start="20251104162000 +0600" stop="20251104171500 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep02</title>
   </programme>
-  <programme start="20251104090000 +0600" stop="20251104093000 +0600" channel="CGTN.cn">
-    <title lang="bn">国际时讯</title>
+  <programme start="20251104171500 +0600" stop="20251104181000 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa&amp;#x27;s Hunters S3 Ep01</title>
   </programme>
-  <programme start="20251104093000 +0600" stop="20251104100000 +0600" channel="CGTN.cn">
-    <title lang="bn">环球视线</title>
+  <programme start="20251104181000 +0600" stop="20251104190500 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep01</title>
   </programme>
-  <programme start="20251104100000 +0600" stop="20251104103000 +0600" channel="CGTN.cn">
-    <title lang="bn">24小时</title>
+  <programme start="20251104190500 +0600" stop="20251104200000 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep02</title>
+  </programme>
+  <programme start="20251104200000 +0600" stop="20251104205000 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep04</title>
+  </programme>
+  <programme start="20251104205000 +0600" stop="20251104214000 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Empires S1 Ep01</title>
+  </programme>
+  <programme start="20251104214000 +0600" stop="20251104223500 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep01</title>
+  </programme>
+  <programme start="20251104223500 +0600" stop="20251104233000 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep02</title>
+  </programme>
+  <programme start="20251104233000 +0600" stop="20251105002500 +0600" channel="CGTN.cn">
+    <title lang="bn">Secrets of the Enchanted Forests S1 Ep01</title>
+  </programme>
+  <programme start="20251105002500 +0600" stop="20251105012000 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep01</title>
+  </programme>
+  <programme start="20251105012000 +0600" stop="20251105021500 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep02</title>
+  </programme>
+  <programme start="20251105021500 +0600" stop="20251105031000 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep04</title>
+  </programme>
+  <programme start="20251105031000 +0600" stop="20251105040500 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Empires S1 Ep01</title>
+  </programme>
+  <programme start="20251105040500 +0600" stop="20251105050000 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep01</title>
+  </programme>
+  <programme start="20251105050000 +0600" stop="20251105055500 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep02</title>
+  </programme>
+  <programme start="20251105055500 +0600" stop="20251105065000 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa&amp;#x27;s Hunters S3 Ep01</title>
+  </programme>
+  <programme start="20251105065000 +0600" stop="20251105074500 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep01</title>
+  </programme>
+  <programme start="20251105074500 +0600" stop="20251105084000 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep02</title>
+  </programme>
+  <programme start="20251105084000 +0600" stop="20251105093500 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep04</title>
+  </programme>
+  <programme start="20251105093500 +0600" stop="20251105102500 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Empires S1 Ep01</title>
+  </programme>
+  <programme start="20251105102500 +0600" stop="20251105112000 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep01</title>
+  </programme>
+  <programme start="20251105112000 +0600" stop="20251105121500 +0600" channel="CGTN.cn">
+    <title lang="bn">Shadowlands S1 Ep02</title>
+  </programme>
+  <programme start="20251105121500 +0600" stop="20251105131000 +0600" channel="CGTN.cn">
+    <title lang="bn">Secrets of the Enchanted Forests S1 Ep01</title>
+  </programme>
+  <programme start="20251105131000 +0600" stop="20251105140500 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep01</title>
+  </programme>
+  <programme start="20251105140500 +0600" stop="20251105150000 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep02</title>
+  </programme>
+  <programme start="20251105150000 +0600" stop="20251105152500 +0600" channel="CGTN.cn">
+    <title lang="bn">Wild Dogs: Running With the Pack S1 Ep01</title>
+  </programme>
+  <programme start="20251105152500 +0600" stop="20251105162000 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep01</title>
+  </programme>
+  <programme start="20251105162000 +0600" stop="20251105171500 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep02</title>
+  </programme>
+  <programme start="20251105171500 +0600" stop="20251105181000 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa&amp;#x27;s Hunters S3 Ep02</title>
+  </programme>
+  <programme start="20251105181000 +0600" stop="20251105190500 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep02</title>
+  </programme>
+  <programme start="20251105190500 +0600" stop="20251105200000 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep03</title>
+  </programme>
+  <programme start="20251105200000 +0600" stop="20251105205000 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep05</title>
+  </programme>
+  <programme start="20251105205000 +0600" stop="20251105214000 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Empires S1 Ep02</title>
+  </programme>
+  <programme start="20251105214000 +0600" stop="20251105223500 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep01</title>
+  </programme>
+  <programme start="20251105223500 +0600" stop="20251105233000 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep02</title>
+  </programme>
+  <programme start="20251105233000 +0600" stop="20251106002500 +0600" channel="CGTN.cn">
+    <title lang="bn">Secrets of the Enchanted Forests S1 Ep02</title>
+  </programme>
+  <programme start="20251106002500 +0600" stop="20251106012000 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep02</title>
+  </programme>
+  <programme start="20251106012000 +0600" stop="20251106021500 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep03</title>
+  </programme>
+  <programme start="20251106021500 +0600" stop="20251106031000 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep05</title>
+  </programme>
+  <programme start="20251106031000 +0600" stop="20251106040500 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Empires S1 Ep02</title>
+  </programme>
+  <programme start="20251106040500 +0600" stop="20251106050000 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep01</title>
+  </programme>
+  <programme start="20251106050000 +0600" stop="20251106055500 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep02</title>
+  </programme>
+  <programme start="20251106055500 +0600" stop="20251106065000 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa&amp;#x27;s Hunters S3 Ep02</title>
+  </programme>
+  <programme start="20251106065000 +0600" stop="20251106074500 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep02</title>
+  </programme>
+  <programme start="20251106074500 +0600" stop="20251106084000 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep03</title>
+  </programme>
+  <programme start="20251106084000 +0600" stop="20251106093500 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep05</title>
+  </programme>
+  <programme start="20251106093500 +0600" stop="20251106102500 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Empires S1 Ep02</title>
+  </programme>
+  <programme start="20251106102500 +0600" stop="20251106112000 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep01</title>
+  </programme>
+  <programme start="20251106112000 +0600" stop="20251106121500 +0600" channel="CGTN.cn">
+    <title lang="bn">Undiscovered Vistas S3 Ep02</title>
+  </programme>
+  <programme start="20251106121500 +0600" stop="20251106131000 +0600" channel="CGTN.cn">
+    <title lang="bn">Secrets of the Enchanted Forests S1 Ep02</title>
+  </programme>
+  <programme start="20251106131000 +0600" stop="20251106140500 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep02</title>
+  </programme>
+  <programme start="20251106140500 +0600" stop="20251106150000 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep03</title>
+  </programme>
+  <programme start="20251106150000 +0600" stop="20251106152500 +0600" channel="CGTN.cn">
+    <title lang="bn">Wild Dogs: Running With the Pack S1 Ep02</title>
+  </programme>
+  <programme start="20251106152500 +0600" stop="20251106162000 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep02</title>
+  </programme>
+  <programme start="20251106162000 +0600" stop="20251106171500 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep03</title>
+  </programme>
+  <programme start="20251106171500 +0600" stop="20251106181000 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa&amp;#x27;s Hunters S3 Ep03</title>
+  </programme>
+  <programme start="20251106181000 +0600" stop="20251106190500 +0600" channel="CGTN.cn">
+    <title lang="bn">Gladiators S1 Ep03</title>
+  </programme>
+  <programme start="20251106190500 +0600" stop="20251106200000 +0600" channel="CGTN.cn">
+    <title lang="bn">Gladiators S1 Ep04</title>
+  </programme>
+  <programme start="20251106200000 +0600" stop="20251106205000 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep06</title>
+  </programme>
+  <programme start="20251106205000 +0600" stop="20251106214000 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Empires S1 Ep03</title>
+  </programme>
+  <programme start="20251106214000 +0600" stop="20251106223500 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep02</title>
+  </programme>
+  <programme start="20251106223500 +0600" stop="20251106233000 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep03</title>
+  </programme>
+  <programme start="20251106233000 +0600" stop="20251107002500 +0600" channel="CGTN.cn">
+    <title lang="bn">Secrets of the Enchanted Forests S1 Ep03</title>
+  </programme>
+  <programme start="20251107002500 +0600" stop="20251107012000 +0600" channel="CGTN.cn">
+    <title lang="bn">Gladiators S1 Ep03</title>
+  </programme>
+  <programme start="20251107012000 +0600" stop="20251107021500 +0600" channel="CGTN.cn">
+    <title lang="bn">Gladiators S1 Ep04</title>
+  </programme>
+  <programme start="20251107021500 +0600" stop="20251107031000 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep06</title>
+  </programme>
+  <programme start="20251107031000 +0600" stop="20251107040500 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Empires S1 Ep03</title>
+  </programme>
+  <programme start="20251107040500 +0600" stop="20251107050000 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep02</title>
+  </programme>
+  <programme start="20251107050000 +0600" stop="20251107055500 +0600" channel="CGTN.cn">
+    <title lang="bn">Ningaloo: Australia&amp;#x27;s Ocean Wonder S1 Ep01</title>
+  </programme>
+  <programme start="20251107055500 +0600" stop="20251107065000 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa&amp;#x27;s Hunters S3 Ep03</title>
+  </programme>
+  <programme start="20251107065000 +0600" stop="20251107074500 +0600" channel="CGTN.cn">
+    <title lang="bn">Gladiators S1 Ep03</title>
+  </programme>
+  <programme start="20251107074500 +0600" stop="20251107084000 +0600" channel="CGTN.cn">
+    <title lang="bn">Gladiators S1 Ep04</title>
+  </programme>
+  <programme start="20251107084000 +0600" stop="20251107093500 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep06</title>
+  </programme>
+  <programme start="20251107093500 +0600" stop="20251107102500 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Empires S1 Ep03</title>
+  </programme>
+  <programme start="20251107102500 +0600" stop="20251107112000 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep02</title>
+  </programme>
+  <programme start="20251107112000 +0600" stop="20251107121500 +0600" channel="CGTN.cn">
+    <title lang="bn">Becoming Orangutan S1 Ep03</title>
+  </programme>
+  <programme start="20251107121500 +0600" stop="20251107131000 +0600" channel="CGTN.cn">
+    <title lang="bn">Secrets of the Enchanted Forests S1 Ep03</title>
+  </programme>
+  <programme start="20251107131000 +0600" stop="20251107140500 +0600" channel="CGTN.cn">
+    <title lang="bn">Gladiators S1 Ep03</title>
+  </programme>
+  <programme start="20251107140500 +0600" stop="20251107150000 +0600" channel="CGTN.cn">
+    <title lang="bn">Gladiators S1 Ep04</title>
+  </programme>
+  <programme start="20251107150000 +0600" stop="20251107152500 +0600" channel="CGTN.cn">
+    <title lang="bn">Wild Dogs: Running With the Pack S1 Ep03</title>
+  </programme>
+  <programme start="20251107152500 +0600" stop="20251107162000 +0600" channel="CGTN.cn">
+    <title lang="bn">Orangutan Jungle School S2 Ep01</title>
+  </programme>
+  <programme start="20251107162000 +0600" stop="20251107171500 +0600" channel="CGTN.cn">
+    <title lang="bn">Waterworld Africa S1 Ep05</title>
+  </programme>
+  <programme start="20251107171500 +0600" stop="20251107181000 +0600" channel="CGTN.cn">
+    <title lang="bn">Waterworld Africa S1 Ep06</title>
+  </programme>
+  <programme start="20251107181000 +0600" stop="20251107190500 +0600" channel="CGTN.cn">
+    <title lang="bn">Waterworld Africa S1 Ep07</title>
+  </programme>
+  <programme start="20251107190500 +0600" stop="20251107200000 +0600" channel="CGTN.cn">
+    <title lang="bn">Waterworld Africa S1 Ep08</title>
+  </programme>
+  <programme start="20251107200000 +0600" stop="20251107205000 +0600" channel="CGTN.cn">
+    <title lang="bn">Bugs That Rule the World S1 Ep01</title>
+  </programme>
+  <programme start="20251107205000 +0600" stop="20251107214000 +0600" channel="CGTN.cn">
+    <title lang="bn">Bugs That Rule the World S1 Ep02</title>
+  </programme>
+  <programme start="20251107214000 +0600" stop="20251107223500 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep02</title>
+  </programme>
+  <programme start="20251107223500 +0600" stop="20251107233000 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep03</title>
+  </programme>
+  <programme start="20251107233000 +0600" stop="20251108002500 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep04</title>
+  </programme>
+  <programme start="20251108002500 +0600" stop="20251108012000 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep05</title>
+  </programme>
+  <programme start="20251108012000 +0600" stop="20251108021500 +0600" channel="CGTN.cn">
+    <title lang="bn">Into the Wild India S1 Ep06</title>
+  </programme>
+  <programme start="20251108021500 +0600" stop="20251108031000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pridelands: Wilderness Reborn</title>
+  </programme>
+  <programme start="20251108031000 +0600" stop="20251108040500 +0600" channel="CGTN.cn">
+    <title lang="bn">Pride Rules S1 Ep01</title>
+  </programme>
+  <programme start="20251108040500 +0600" stop="20251108050000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pride Rules S1 Ep02</title>
+  </programme>
+  <programme start="20251108050000 +0600" stop="20251108055500 +0600" channel="CGTN.cn">
+    <title lang="bn">Pride Rules S1 Ep03</title>
+  </programme>
+  <programme start="20251108055500 +0600" stop="20251108065000 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa&amp;#x27;s Hunters S3 Ep04</title>
+  </programme>
+  <programme start="20251108065000 +0600" stop="20251108074500 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa&amp;#x27;s Hunters S3 Ep05</title>
+  </programme>
+  <programme start="20251108074500 +0600" stop="20251108084000 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa&amp;#x27;s Hunters S3 Ep06</title>
+  </programme>
+  <programme start="20251108084000 +0600" stop="20251108093500 +0600" channel="CGTN.cn">
+    <title lang="bn">Pridelands: Wilderness Reborn</title>
+  </programme>
+  <programme start="20251108093500 +0600" stop="20251108102500 +0600" channel="CGTN.cn">
+    <title lang="bn">Pride Rules S1 Ep01</title>
+  </programme>
+  <programme start="20251108102500 +0600" stop="20251108112000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pride Rules S1 Ep02</title>
+  </programme>
+  <programme start="20251108112000 +0600" stop="20251108121500 +0600" channel="CGTN.cn">
+    <title lang="bn">Pride Rules S1 Ep03</title>
+  </programme>
+  <programme start="20251108121500 +0600" stop="20251108131000 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa&amp;#x27;s Hunters S3 Ep04</title>
+  </programme>
+  <programme start="20251108131000 +0600" stop="20251108140500 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa&amp;#x27;s Hunters S3 Ep05</title>
+  </programme>
+  <programme start="20251108140500 +0600" stop="20251108150000 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa&amp;#x27;s Hunters S3 Ep06</title>
+  </programme>
+  <programme start="20251108150000 +0600" stop="20251108152500 +0600" channel="CGTN.cn">
+    <title lang="bn">Wild Dogs: Running With the Pack S1 Ep04</title>
+  </programme>
+  <programme start="20251108152500 +0600" stop="20251108162000 +0600" channel="CGTN.cn">
+    <title lang="bn">Orangutan Jungle School S2 Ep02</title>
+  </programme>
+  <programme start="20251108162000 +0600" stop="20251108171500 +0600" channel="CGTN.cn">
+    <title lang="bn">Zambia Untamed S1 Ep01</title>
+  </programme>
+  <programme start="20251108171500 +0600" stop="20251108181000 +0600" channel="CGTN.cn">
+    <title lang="bn">Zambia Untamed S1 Ep02</title>
+  </programme>
+  <programme start="20251108181000 +0600" stop="20251108190500 +0600" channel="CGTN.cn">
+    <title lang="bn">Zambia Untamed S1 Ep03</title>
+  </programme>
+  <programme start="20251108190500 +0600" stop="20251108200000 +0600" channel="CGTN.cn">
+    <title lang="bn">Zambia Untamed S1 Ep04</title>
+  </programme>
+  <programme start="20251108200000 +0600" stop="20251108205000 +0600" channel="CGTN.cn">
+    <title lang="bn">Bugs That Rule the World S1 Ep03</title>
+  </programme>
+  <programme start="20251108205000 +0600" stop="20251108214000 +0600" channel="CGTN.cn">
+    <title lang="bn">Bugs That Rule the World S1 Ep04</title>
+  </programme>
+  <programme start="20251108214000 +0600" stop="20251108223500 +0600" channel="CGTN.cn">
+    <title lang="bn">Rewilding S1 Ep02</title>
+  </programme>
+  <programme start="20251108223500 +0600" stop="20251108233000 +0600" channel="CGTN.cn">
+    <title lang="bn">Rewilding S1 Ep03</title>
+  </programme>
+  <programme start="20251108233000 +0600" stop="20251109002500 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Empires S1 Ep01</title>
+  </programme>
+  <programme start="20251109002500 +0600" stop="20251109012000 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Empires S1 Ep02</title>
+  </programme>
+  <programme start="20251109012000 +0600" stop="20251109021500 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Empires S1 Ep03</title>
+  </programme>
+  <programme start="20251109021500 +0600" stop="20251109031000 +0600" channel="CGTN.cn">
+    <title lang="bn">Wild Sky S1 Ep03</title>
+  </programme>
+  <programme start="20251109031000 +0600" stop="20251109040500 +0600" channel="CGTN.cn">
+    <title lang="bn">Wild Sky S1 Ep04</title>
+  </programme>
+  <programme start="20251109040500 +0600" stop="20251109050000 +0600" channel="CGTN.cn">
+    <title lang="bn">Airborne S1 Ep01</title>
+  </programme>
+  <programme start="20251109050000 +0600" stop="20251109055500 +0600" channel="CGTN.cn">
+    <title lang="bn">Airborne S1 Ep02</title>
+  </programme>
+  <programme start="20251109055500 +0600" stop="20251109065000 +0600" channel="CGTN.cn">
+    <title lang="bn">Secrets of the Enchanted Forests S1 Ep04</title>
+  </programme>
+  <programme start="20251109065000 +0600" stop="20251109074500 +0600" channel="CGTN.cn">
+    <title lang="bn">Secrets of the Enchanted Forests S1 Ep05</title>
+  </programme>
+  <programme start="20251109074500 +0600" stop="20251109084000 +0600" channel="CGTN.cn">
+    <title lang="bn">Secrets of the Enchanted Forests S1 Ep06</title>
+  </programme>
+  <programme start="20251109084000 +0600" stop="20251109091000 +0600" channel="CGTN.cn">
+    <title lang="bn">Wild Sky S1 Ep03</title>
   </programme>
   <channel id="cna.sg">
     <display-name>Channel News Asia</display-name>
