@@ -11,6 +11,8 @@ http://103.175.242.10:8080/btv/index.m3u8
 http://stvlive.net:8080/channeli/index.m3u8
 #EXTINF:-1 group-title="Bangla",DEEPTO TV HD (5d)
 http://stvlive.net:8080/deepto/index.m3u8
+#EXTINF:-1 group-title="Bangla",DEEPTO TV HD (0d)
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="Bangla",iON TV (5d)
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Me TV (5d)
@@ -53,6 +55,8 @@ http://116.90.120.149:8000/play/a0c0/index.m3u8
 http://116.90.120.149:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="India",NEWS | Aaj Tak HD (6d)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
+#EXTINF:-1 group-title="India",NEWS | Times Now Navbharat (0d)
+https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="International News",CNN International (5d)
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 group-title="Kids",0. PBS Kids (3d)
@@ -65,10 +69,14 @@ http://116.90.120.149:8000/play/a0b3/index.m3u8
 http://116.90.120.149:8000/play/a0cc/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney International HD (2d)
 http://116.90.120.149:8000/play/a0e9/index.m3u8
-#EXTINF:-1 group-title="Kids",NICK Hindi (0d)
-http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1034.m3u8
-#EXTINF:-1 group-title="Music",EN | Vevo Pop (0d)
-https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-rakutenit/playlist.m3u8
+#EXTINF:-1 group-title="Movies",EN | a-z Best Classic TV (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CUXB534IAMTJM7Z4BKKS/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies",EN | Action Hollywood Movies (0d)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Movies",EN | Colorized.TV (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MP47WBC6PC599RWGUECD/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies",EN | MovieSphere UK (0d)
+https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-n2/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 80s Flashback (5d)
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 90s Throwback (5d)
@@ -77,6 +85,8 @@ https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE Rock On (5d)
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
+#EXTINF:-1 group-title="Music",OTHER | HITS MEXICANOS (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Digital (8d)
 7950
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Zindagi (8d)
@@ -135,10 +145,10 @@ https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 group-title="Religious",TV ONE Bangla (5d)
 https://ap02.iqplay.tv:8082/iqb8002/tv01/playlist.m3u8
-#EXTINF:-1 group-title="Sports",---Live(Star Sports 1 HD)--- (8d)
-http://supersonictv.live:8080/live/Bobby1/Bobby1/85564.ts
 #EXTINF:-1 group-title="Sports",---Live(Star Sports 1 HD)--- (2d)
 http://116.90.120.149:8000/play/a0ba/index.m3u8
+#EXTINF:-1 group-title="Sports",---Live(Star Sports 1 HD)--- (8d)
+http://supersonictv.live:8080/live/Bobby1/Bobby1/85564.ts
 #EXTINF:-1 group-title="Sports",---Live(Star Sports 1 Hindi)--- (2d)
 http://116.90.120.149:8000/play/a0bv/index.m3u8
 #EXTINF:-1 group-title="Sports",---Live(Star Sports 2 Hindi)--- (2d)
@@ -155,8 +165,6 @@ http://116.204.149.16/t_sports/index.m3u8
 http://nayatv.ydns.eu:80/freecric/cricfree/12026.ts
 #EXTINF:-1 group-title="Sports",--Live(PTV Sports)-- (4d)
 http://nayatv.ydns.eu:80/freecric/cricfree/12027.ts
-#EXTINF:-1 group-title="Sports",--Live(PTV Sports)-- (0d)
-http://66.102.120.18:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 1)-- (8d)
 https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 2)-- (8d)
