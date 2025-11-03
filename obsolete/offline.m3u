@@ -5,6 +5,8 @@ http://103.175.242.10:8080/atnbangla/index.m3u8
 http://stvlive.net:8080/banglavision/index.m3u8
 #EXTINF:-1 group-title="Bangla",BTV HD (5d)
 http://103.175.242.10:8080/btv/index.m3u8
+#EXTINF:-1 group-title="Bangla",Channel A1 (0d)
+https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
 #EXTINF:-1 group-title="Bangla",CHANNEL I (5d)
 http://stvlive.net:8080/channeli/index.m3u8
 #EXTINF:-1 group-title="Bangla",DEEPTO TV HD (5d)
@@ -13,6 +15,8 @@ http://stvlive.net:8080/deepto/index.m3u8
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",iON TV (5d)
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+#EXTINF:-1 group-title="Bangla",Magic Bangla TV (0d)
+https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Me TV (5d)
 http://stvlive.net:8080/metv/index.m3u8
 #EXTINF:-1 group-title="Bangla",Movie Bangla TV (5d)
@@ -37,8 +41,6 @@ http://stvlive.net:8080/jamuna/index.m3u8
 http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (6d)
 https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Educational",Popular Science (0d)
-https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8
 #EXTINF:-1 group-title="India",ENT | Star Plus HD (2d)
 http://116.90.120.149:8000/play/a0b9/index.m3u8
 #EXTINF:-1 group-title="India",ENT | Star Utsav (2d)
@@ -65,8 +67,14 @@ http://116.90.120.149:8000/play/a0bx/index.m3u8
 http://116.90.120.149:8000/play/a0b3/index.m3u8
 #EXTINF:-1 group-title="Kids",2. Sonic (2d)
 http://116.90.120.149:8000/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="Kids",2. SONY YAY! (0d)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=908587&extension=ts&play_token=413IAp959Y
 #EXTINF:-1 group-title="Kids",Disney International HD (2d)
 http://116.90.120.149:8000/play/a0e9/index.m3u8
+#EXTINF:-1 group-title="Music",EN | Play TV (0d)
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+#EXTINF:-1 group-title="Music",EN | Vevo '90s & '00s (0d)
+https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 80s Flashback (5d)
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 90s Throwback (5d)
@@ -114,9 +122,9 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Eman Channel (5d)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 group-title="Religious",IQRA BANGLA (5d)
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
-#EXTINF:-1 group-title="Religious",IQRA BANGLA (5d)
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
+#EXTINF:-1 group-title="Religious",IQRA BANGLA (5d)
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-1 group-title="Religious",Iqra TV (5d)
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 #EXTINF:-1 group-title="Religious",ISLAM TV (5d)
@@ -163,5 +171,3 @@ https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | Hub Sports 4 (8d)
 https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Sports",MIXER | Hunt Fish TV (0d)
-https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8
