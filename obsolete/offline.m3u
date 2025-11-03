@@ -33,12 +33,10 @@ http://103.175.242.10:8080/independent/index.m3u8
 http://stvlive.net:8080/jamuna/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | JAMUNA TV (5d)
 http://103.175.242.10:8080/jamuna/index.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | NEWS24 Television (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (5d)
-http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (6d)
 https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (5d)
+http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="India",ENT | Star Plus HD (2d)
 http://116.90.120.149:8000/play/a0b9/index.m3u8
 #EXTINF:-1 group-title="India",ENT | Star Utsav (2d)
@@ -53,10 +51,6 @@ https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3172
 http://116.90.120.149:8000/play/a0c0/index.m3u8
 #EXTINF:-1 group-title="India",MOV | Star Utsav Movies (2d)
 http://116.90.120.149:8000/play/a02r/index.m3u8
-#EXTINF:-1 group-title="India",MOV | ZEE CINEMA HD (0d)
-https://smart.bengaldigital.live/ZeeCinema/index.m3u8
-#EXTINF:-1 group-title="India",MU | Saga Music Haryanvi (0d)
-https://amg01412-xiaomiasia-sagamusicharyanvi-xiaomi-0v34j.amagi.tv/playlist/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="India",NEWS | Aaj Tak HD (6d)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
 #EXTINF:-1 group-title="International News",CNN International (5d)
@@ -71,10 +65,6 @@ http://116.90.120.149:8000/play/a0b3/index.m3u8
 http://116.90.120.149:8000/play/a0cc/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney International HD (2d)
 http://116.90.120.149:8000/play/a0e9/index.m3u8
-#EXTINF:-1 group-title="Kids",NICK Hindi (0d)
-http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1034.m3u8
-#EXTINF:-1 group-title="Movies",EN | Colorized.TV (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MP47WBC6PC599RWGUECD/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Music",EN | MTV Hits Europe (0d)
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Music",EN | XITE 80s Flashback (5d)
@@ -123,12 +113,10 @@ https://ap02.iqplay.tv:8082/iqb8002/bil77tv/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Eman Channel (5d)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-#EXTINF:-1 group-title="Religious",IBN TV Africa (0d)
-http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
-#EXTINF:-1 group-title="Religious",IQRA BANGLA (5d)
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-1 group-title="Religious",IQRA BANGLA (5d)
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
+#EXTINF:-1 group-title="Religious",IQRA BANGLA (5d)
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-1 group-title="Religious",Iqra TV (5d)
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 #EXTINF:-1 group-title="Religious",ISLAM TV (5d)
@@ -169,8 +157,6 @@ https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 5) (8d)
 https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Sports",MIXER | ACE TV (0d)
-https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | Hub Sports 1 (8d)
 https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | Hub Sports 2 (8d)
