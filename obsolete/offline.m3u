@@ -37,12 +37,6 @@ http://103.175.242.10:8080/jamuna/index.m3u8
 http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (6d)
 https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | ABP Ananda (0d)
-https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Republic Bangla (0d)
-https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Republic Bangla (0d)
-https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="India",ENT | Star Plus HD (2d)
 http://116.90.120.149:8000/play/a0b9/index.m3u8
 #EXTINF:-1 group-title="India",ENT | Star Utsav (2d)
@@ -59,10 +53,6 @@ http://116.90.120.149:8000/play/a0c0/index.m3u8
 http://116.90.120.149:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="India",NEWS | Aaj Tak HD (6d)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
-#EXTINF:-1 group-title="India",NEWS | NDTV Hindi (0d)
-https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8
-#EXTINF:-1 group-title="India",NEWS | News18 India (0d)
-https://amg01448-samsungin-news18india-samsungin-ad-gx.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-news18india-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="International News",CNN International (5d)
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 group-title="Kids",0. PBS Kids (3d)
@@ -75,8 +65,10 @@ http://116.90.120.149:8000/play/a0b3/index.m3u8
 http://116.90.120.149:8000/play/a0cc/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney International HD (2d)
 http://116.90.120.149:8000/play/a0e9/index.m3u8
-#EXTINF:-1 group-title="Movies",EN | MovieSphere UK (0d)
-https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-n2/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
+#EXTINF:-1 group-title="Kids",NICK Hindi (0d)
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1034.m3u8
+#EXTINF:-1 group-title="Music",EN | Vevo Pop (0d)
+https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-rakutenit/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 80s Flashback (5d)
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | XITE 90s Throwback (5d)
@@ -143,10 +135,10 @@ https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 group-title="Religious",TV ONE Bangla (5d)
 https://ap02.iqplay.tv:8082/iqb8002/tv01/playlist.m3u8
-#EXTINF:-1 group-title="Sports",---Live(Star Sports 1 HD)--- (2d)
-http://116.90.120.149:8000/play/a0ba/index.m3u8
 #EXTINF:-1 group-title="Sports",---Live(Star Sports 1 HD)--- (8d)
 http://supersonictv.live:8080/live/Bobby1/Bobby1/85564.ts
+#EXTINF:-1 group-title="Sports",---Live(Star Sports 1 HD)--- (2d)
+http://116.90.120.149:8000/play/a0ba/index.m3u8
 #EXTINF:-1 group-title="Sports",---Live(Star Sports 1 Hindi)--- (2d)
 http://116.90.120.149:8000/play/a0bv/index.m3u8
 #EXTINF:-1 group-title="Sports",---Live(Star Sports 2 Hindi)--- (2d)
@@ -163,6 +155,8 @@ http://116.204.149.16/t_sports/index.m3u8
 http://nayatv.ydns.eu:80/freecric/cricfree/12026.ts
 #EXTINF:-1 group-title="Sports",--Live(PTV Sports)-- (4d)
 http://nayatv.ydns.eu:80/freecric/cricfree/12027.ts
+#EXTINF:-1 group-title="Sports",--Live(PTV Sports)-- (0d)
+http://66.102.120.18:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 1)-- (8d)
 https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 2)-- (8d)
