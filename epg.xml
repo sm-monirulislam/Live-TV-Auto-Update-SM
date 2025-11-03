@@ -264,9 +264,6 @@
     <display-name>Fox News</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg"/>
   </channel>
-  <programme start="20251103160000 +0600" stop="20251103170000 +0600" channel="FoxNews.us">
-    <title lang="bn">FOX and Friends</title>
-  </programme>
   <programme start="20251103170000 +0600" stop="20251103180000 +0600" channel="FoxNews.us">
     <title lang="bn">FOX and Friends</title>
   </programme>
@@ -340,16 +337,16 @@
     <display-name>Euronews English</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/f/f9/Euronews_2022_Stacked_III.svg"/>
   </channel>
-  <programme start="20251103160000 +0600" stop="20251103161500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103160000 +0600" stop="20251103161400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103161500 +0600" stop="20251103163000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103161400 +0600" stop="20251103162900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103163000 +0600" stop="20251103164600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103162900 +0600" stop="20251103164500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103164600 +0600" stop="20251103170000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103164500 +0600" stop="20251103170000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251103170000 +0600" stop="20251103171500 +0600" channel="EuronewsEnglish.fr">
@@ -358,10 +355,10 @@
   <programme start="20251103171500 +0600" stop="20251103173000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103173000 +0600" stop="20251103174600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103173000 +0600" stop="20251103174900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103174600 +0600" stop="20251103180000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103174900 +0600" stop="20251103180000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251103180000 +0600" stop="20251103181500 +0600" channel="EuronewsEnglish.fr">
@@ -370,29 +367,35 @@
   <programme start="20251103181500 +0600" stop="20251103183000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103183000 +0600" stop="20251103185100 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103183000 +0600" stop="20251103184900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103185100 +0600" stop="20251103190000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103184900 +0600" stop="20251103190000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251103190000 +0600" stop="20251103193000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103190000 +0600" stop="20251103191800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103193000 +0600" stop="20251103194600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103191800 +0600" stop="20251103193000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251103193000 +0600" stop="20251103194900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103194600 +0600" stop="20251103200000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103194900 +0600" stop="20251103200000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251103200000 +0600" stop="20251103201500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103201500 +0600" stop="20251103203000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103201500 +0600" stop="20251103202900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103203000 +0600" stop="20251103210000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103202900 +0600" stop="20251103204600 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20251103204600 +0600" stop="20251103210000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251103210000 +0600" stop="20251103211500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
@@ -400,25 +403,28 @@
   <programme start="20251103211500 +0600" stop="20251103213000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103213000 +0600" stop="20251103214800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103213000 +0600" stop="20251103214900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103214800 +0600" stop="20251103220000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103214900 +0600" stop="20251103220000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251103220000 +0600" stop="20251103221500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103221500 +0600" stop="20251103223000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103221500 +0600" stop="20251103222900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103223000 +0600" stop="20251103230000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103222900 +0600" stop="20251103224900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103230000 +0600" stop="20251103231400 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103224900 +0600" stop="20251103230000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251103230000 +0600" stop="20251103231500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103231400 +0600" stop="20251103233100 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103231500 +0600" stop="20251103233100 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
   <programme start="20251103233100 +0600" stop="20251103234400 +0600" channel="EuronewsEnglish.fr">
@@ -430,13 +436,13 @@
   <programme start="20251104000000 +0600" stop="20251104001500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104001500 +0600" stop="20251104003000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104001500 +0600" stop="20251104002900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104003000 +0600" stop="20251104005000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104002900 +0600" stop="20251104004900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104005000 +0600" stop="20251104010000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104004900 +0600" stop="20251104010000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104010000 +0600" stop="20251104011500 +0600" channel="EuronewsEnglish.fr">
@@ -445,22 +451,22 @@
   <programme start="20251104011500 +0600" stop="20251104013000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104013000 +0600" stop="20251104014600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104013000 +0600" stop="20251104014900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104014600 +0600" stop="20251104020000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104014900 +0600" stop="20251104020000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251104020000 +0600" stop="20251104021500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104020000 +0600" stop="20251104021400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104021500 +0600" stop="20251104023000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104021400 +0600" stop="20251104022900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104023000 +0600" stop="20251104024600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104022900 +0600" stop="20251104024500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104024600 +0600" stop="20251104030000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104024500 +0600" stop="20251104030000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104030000 +0600" stop="20251104031500 +0600" channel="EuronewsEnglish.fr">
@@ -469,47 +475,59 @@
   <programme start="20251104031500 +0600" stop="20251104033000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104033000 +0600" stop="20251104040000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104033000 +0600" stop="20251104034800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20251104034800 +0600" stop="20251104040000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104040000 +0600" stop="20251104041500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104041500 +0600" stop="20251104043000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104041500 +0600" stop="20251104042900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104043000 +0600" stop="20251104050000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104042900 +0600" stop="20251104044500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20251104044500 +0600" stop="20251104050000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104050000 +0600" stop="20251104051500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104051500 +0600" stop="20251104053000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104051500 +0600" stop="20251104052900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104053000 +0600" stop="20251104060000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104052900 +0600" stop="20251104054500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104060000 +0600" stop="20251104061400 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104054500 +0600" stop="20251104060000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251104060000 +0600" stop="20251104061500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104061400 +0600" stop="20251104063000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104061500 +0600" stop="20251104062900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104063000 +0600" stop="20251104064600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104062900 +0600" stop="20251104064500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104064600 +0600" stop="20251104070000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104064500 +0600" stop="20251104070000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104070000 +0600" stop="20251104071500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104071500 +0600" stop="20251104073000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104071500 +0600" stop="20251104072900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104073000 +0600" stop="20251104080000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104072900 +0600" stop="20251104074500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20251104074500 +0600" stop="20251104080000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104080000 +0600" stop="20251104081500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
@@ -523,13 +541,16 @@
   <programme start="20251104084800 +0600" stop="20251104090000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251104090000 +0600" stop="20251104091500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104090000 +0600" stop="20251104091400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104091500 +0600" stop="20251104093000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104091400 +0600" stop="20251104093000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104093000 +0600" stop="20251104100000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104093000 +0600" stop="20251104094500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Wake up Europe</title>
+  </programme>
+  <programme start="20251104094500 +0600" stop="20251104100000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
   <programme start="20251104100000 +0600" stop="20251104101500 +0600" channel="EuronewsEnglish.fr">
@@ -538,8 +559,11 @@
   <programme start="20251104101500 +0600" stop="20251104103000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104103000 +0600" stop="20251104110000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104103000 +0600" stop="20251104104800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
+  </programme>
+  <programme start="20251104104800 +0600" stop="20251104110000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104110000 +0600" stop="20251104111500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
@@ -547,8 +571,11 @@
   <programme start="20251104111500 +0600" stop="20251104113000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104113000 +0600" stop="20251104120000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104113000 +0600" stop="20251104114800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
+  </programme>
+  <programme start="20251104114800 +0600" stop="20251104120000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104120000 +0600" stop="20251104121500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
@@ -556,10 +583,10 @@
   <programme start="20251104121500 +0600" stop="20251104123000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104123000 +0600" stop="20251104124900 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104123000 +0600" stop="20251104124800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104124900 +0600" stop="20251104130000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104124800 +0600" stop="20251104130000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104130000 +0600" stop="20251104131500 +0600" channel="EuronewsEnglish.fr">
@@ -568,13 +595,16 @@
   <programme start="20251104131500 +0600" stop="20251104133000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251104133000 +0600" stop="20251104140000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104133000 +0600" stop="20251104134800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251104140000 +0600" stop="20251104141700 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104134800 +0600" stop="20251104140000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251104140000 +0600" stop="20251104141900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251104141700 +0600" stop="20251104143000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104141900 +0600" stop="20251104143000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104143000 +0600" stop="20251104144600 +0600" channel="EuronewsEnglish.fr">
@@ -589,8 +619,11 @@
   <programme start="20251104151500 +0600" stop="20251104153000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251104153000 +0600" stop="20251104160000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104153000 +0600" stop="20251104154800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
+  </programme>
+  <programme start="20251104154800 +0600" stop="20251104160000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <channel id="CNN.us">
     <display-name>CNN</display-name>
@@ -1341,10 +1374,7 @@
     <display-name>Enter 10 Bangla</display-name>
     <icon src="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"/>
   </channel>
-  <programme start="20251104031100 +0600" stop="20251104034100 +0600" channel="enter10bangla.in">
-    <title lang="bn">Crime Alert</title>
-  </programme>
-  <programme start="20251104034100 +0600" stop="20251104041700 +0600" channel="enter10bangla.in">
+  <programme start="20251104034700 +0600" stop="20251104041700 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
   <programme start="20251104041700 +0600" stop="20251104045900 +0600" channel="enter10bangla.in">
@@ -1377,7 +1407,10 @@
   <programme start="20251104151900 +0600" stop="20251104164200 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
-  <programme start="20251104164200 +0600" stop="20251104171200 +0600" channel="enter10bangla.in">
+  <programme start="20251104164200 +0600" stop="20251104173600 +0600" channel="enter10bangla.in">
+    <title lang="bn">Crime Alert</title>
+  </programme>
+  <programme start="20251104173600 +0600" stop="20251104180600 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
   <channel id="sangeetbangla.in">
@@ -3219,170 +3252,305 @@
     <display-name>CGTN</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/>
   </channel>
-  <programme start="20251103001200 +0600" stop="20251103005900 +0600" channel="CGTN.cn">
-    <title lang="bn">沉默的荣耀28/39</title>
+  <programme start="20251104003000 +0600" stop="20251104011500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Baumhaus-Profis</title>
   </programme>
-  <programme start="20251103005900 +0600" stop="20251103015200 +0600" channel="CGTN.cn">
-    <title lang="bn">沉默的荣耀29/39</title>
+  <programme start="20251104011500 +0600" stop="20251104020500 +0600" channel="CGTN.cn">
+    <title lang="bn">Pitbulls auf Bewährung</title>
   </programme>
-  <programme start="20251103015200 +0600" stop="20251103023900 +0600" channel="CGTN.cn">
-    <title lang="bn">沉默的荣耀30/39</title>
+  <programme start="20251104020500 +0600" stop="20251104025000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pitbulls auf Bewährung</title>
   </programme>
-  <programme start="20251103023900 +0600" stop="20251103041600 +0600" channel="CGTN.cn">
-    <title lang="bn">宗师列传:black_small_square:唐宋八大家-苏轼苏辙上</title>
+  <programme start="20251104025000 +0600" stop="20251104033500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Aquarium-Profis</title>
   </programme>
-  <programme start="20251103041600 +0600" stop="20251103044600 +0600" channel="CGTN.cn">
-    <title lang="bn">第一动画乐园-2025-364</title>
+  <programme start="20251104033500 +0600" stop="20251104042000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Aquarium-Profis</title>
   </programme>
-  <programme start="20251103044600 +0600" stop="20251103051900 +0600" channel="CGTN.cn">
-    <title lang="bn">第一动画乐园-2025-365</title>
+  <programme start="20251104042000 +0600" stop="20251104050500 +0600" channel="CGTN.cn">
+    <title lang="bn">Home Rescue – Wohnen in der Wildnis</title>
   </programme>
-  <programme start="20251103051900 +0600" stop="20251103054900 +0600" channel="CGTN.cn">
-    <title lang="bn">文脉春秋-2025-1</title>
+  <programme start="20251104050500 +0600" stop="20251104055000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Baumhaus-Profis</title>
   </programme>
-  <programme start="20251103054900 +0600" stop="20251103060000 +0600" channel="CGTN.cn">
-    <title lang="bn">秘境之眼-2025-304</title>
+  <programme start="20251104055000 +0600" stop="20251104063500 +0600" channel="CGTN.cn">
+    <title lang="bn">Pitbulls auf Bewährung</title>
   </programme>
-  <programme start="20251103060000 +0600" stop="20251103064000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻联播</title>
+  <programme start="20251104063500 +0600" stop="20251104072500 +0600" channel="CGTN.cn">
+    <title lang="bn">Pitbulls auf Bewährung</title>
   </programme>
-  <programme start="20251103064000 +0600" stop="20251103070100 +0600" channel="CGTN.cn">
-    <title lang="bn">焦点访谈</title>
+  <programme start="20251104072500 +0600" stop="20251104074500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Superkräfte der Tiere</title>
   </programme>
-  <programme start="20251103070100 +0600" stop="20251103070600 +0600" channel="CGTN.cn">
-    <title lang="bn">前情提要-红石榴餐厅-14/20</title>
+  <programme start="20251104074500 +0600" stop="20251104083000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Baumhaus-Profis</title>
   </programme>
-  <programme start="20251103070600 +0600" stop="20251103075700 +0600" channel="CGTN.cn">
-    <title lang="bn">红石榴餐厅14/20</title>
+  <programme start="20251104083000 +0600" stop="20251104092000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Baumhaus-Profis</title>
   </programme>
-  <programme start="20251103075700 +0600" stop="20251103080000 +0600" channel="CGTN.cn">
-    <title lang="bn">前情提要-红石榴餐厅-15/20</title>
+  <programme start="20251104092000 +0600" stop="20251104100500 +0600" channel="CGTN.cn">
+    <title lang="bn">Der Katzenflüsterer</title>
   </programme>
-  <programme start="20251103080000 +0600" stop="20251103085200 +0600" channel="CGTN.cn">
-    <title lang="bn">红石榴餐厅15/20</title>
+  <programme start="20251104100500 +0600" stop="20251104105000 +0600" channel="CGTN.cn">
+    <title lang="bn">Der Katzenflüsterer</title>
   </programme>
-  <programme start="20251103085200 +0600" stop="20251103090000 +0600" channel="CGTN.cn">
-    <title lang="bn">山水间的家-主题曲</title>
+  <programme start="20251104105000 +0600" stop="20251104113500 +0600" channel="CGTN.cn">
+    <title lang="bn">Tierpolizei Miami</title>
   </programme>
-  <programme start="20251103090000 +0600" stop="20251103093400 +0600" channel="CGTN.cn">
-    <title lang="bn">晚间新闻</title>
+  <programme start="20251104113500 +0600" stop="20251104122000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tierpolizei Miami</title>
   </programme>
-  <programme start="20251103093400 +0600" stop="20251103100700 +0600" channel="CGTN.cn">
-    <title lang="bn">国土重光-纪念台湾光复80周年-3</title>
+  <programme start="20251104122000 +0600" stop="20251104130500 +0600" channel="CGTN.cn">
+    <title lang="bn">Tierpolizei Miami</title>
   </programme>
-  <programme start="20251103100700 +0600" stop="20251103114000 +0600" channel="CGTN.cn">
-    <title lang="bn">城市风华录-7</title>
+  <programme start="20251104130500 +0600" stop="20251104135500 +0600" channel="CGTN.cn">
+    <title lang="bn">Redwood Kings – Träume aus Holz</title>
   </programme>
-  <programme start="20251103114000 +0600" stop="20251103121000 +0600" channel="CGTN.cn">
-    <title lang="bn">文脉春秋-2024-6</title>
+  <programme start="20251104135500 +0600" stop="20251104144000 +0600" channel="CGTN.cn">
+    <title lang="bn">Redwood Kings – Träume aus Holz</title>
   </programme>
-  <programme start="20251103121000 +0600" stop="20251103125400 +0600" channel="CGTN.cn">
-    <title lang="bn">生活早参考-特别节目（生活圈）2025-226</title>
+  <programme start="20251104144000 +0600" stop="20251104152500 +0600" channel="CGTN.cn">
+    <title lang="bn">Redwood Kings – Träume aus Holz</title>
   </programme>
-  <programme start="20251103125400 +0600" stop="20251103132500 +0600" channel="CGTN.cn">
-    <title lang="bn">晚间新闻</title>
+  <programme start="20251104152500 +0600" stop="20251104161000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Irwins – Crocodile Hunter Family</title>
   </programme>
-  <programme start="20251103132500 +0600" stop="20251103133700 +0600" channel="CGTN.cn">
-    <title lang="bn">2024秘境之眼-秘境西双版纳(4K)</title>
+  <programme start="20251104161000 +0600" stop="20251104165500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Irwins – Crocodile Hunter Family</title>
   </programme>
-  <programme start="20251103133700 +0600" stop="20251103134100 +0600" channel="CGTN.cn">
-    <title lang="bn">山水间的家-主题曲</title>
+  <programme start="20251104165500 +0600" stop="20251104174000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Irwins – Crocodile Hunter Family</title>
   </programme>
-  <programme start="20251103134100 +0600" stop="20251103134900 +0600" channel="CGTN.cn">
-    <title lang="bn">三餐四季（第二季）-宣传片</title>
+  <programme start="20251104174000 +0600" stop="20251104182500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Tierärzte von Houston</title>
   </programme>
-  <programme start="20251103134900 +0600" stop="20251103152000 +0600" channel="CGTN.cn">
-    <title lang="bn">简牍探中华第二季-9</title>
+  <programme start="20251104182500 +0600" stop="20251104191000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Tierärzte von Houston</title>
   </programme>
-  <programme start="20251103152000 +0600" stop="20251103152200 +0600" channel="CGTN.cn">
-    <title lang="bn">泱泱中华-历史文化街区1</title>
+  <programme start="20251104191000 +0600" stop="20251104195500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Tierärzte von Houston</title>
   </programme>
-  <programme start="20251103152200 +0600" stop="20251103155300 +0600" channel="CGTN.cn">
-    <title lang="bn">今日说法-2025-209</title>
+  <programme start="20251104195500 +0600" stop="20251104204000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Aquarium-Profis</title>
   </programme>
-  <programme start="20251103155300 +0600" stop="20251103162700 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻联播</title>
+  <programme start="20251104204000 +0600" stop="20251104213000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Aquarium-Profis</title>
   </programme>
-  <programme start="20251103162700 +0600" stop="20251103170000 +0600" channel="CGTN.cn">
-    <title lang="bn">寻古中国（第二季）-喇家寻踪2</title>
+  <programme start="20251104213000 +0600" stop="20251104221500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Aquarium-Profis</title>
   </programme>
-  <programme start="20251103170000 +0600" stop="20251103193800 +0600" channel="CGTN.cn">
-    <title lang="bn">朝闻天下</title>
+  <programme start="20251104221500 +0600" stop="20251104230000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Tierärzte von Houston</title>
   </programme>
-  <programme start="20251103193800 +0600" stop="20251103202300 +0600" channel="CGTN.cn">
-    <title lang="bn">生活早参考-特别节目（生活圈）2025-230</title>
+  <programme start="20251104230000 +0600" stop="20251104234500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Tierärzte von Houston</title>
   </programme>
-  <programme start="20251103202300 +0600" stop="20251103211400 +0600" channel="CGTN.cn">
-    <title lang="bn">我的后半生-（高清版）-16/36</title>
+  <programme start="20251104234500 +0600" stop="20251105003000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Irwins – Crocodile Hunter Family</title>
   </programme>
-  <programme start="20251103211400 +0600" stop="20251103220600 +0600" channel="CGTN.cn">
-    <title lang="bn">我的后半生-（高清版）-17/36</title>
+  <programme start="20251105003000 +0600" stop="20251105011500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Irwins – Crocodile Hunter Family</title>
   </programme>
-  <programme start="20251103220600 +0600" stop="20251103225300 +0600" channel="CGTN.cn">
-    <title lang="bn">我的后半生-（高清版）-18/36</title>
+  <programme start="20251105011500 +0600" stop="20251105020000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pitbulls auf Bewährung</title>
   </programme>
-  <programme start="20251103225300 +0600" stop="20251103230000 +0600" channel="CGTN.cn">
-    <title lang="bn">秘境之眼-2025-298</title>
+  <programme start="20251105020000 +0600" stop="20251105024500 +0600" channel="CGTN.cn">
+    <title lang="bn">Pitbulls auf Bewährung</title>
   </programme>
-  <programme start="20251103230000 +0600" stop="20251103233500 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻30分</title>
+  <programme start="20251105024500 +0600" stop="20251105033500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Tierärzte von Houston</title>
   </programme>
-  <programme start="20251103233500 +0600" stop="20251104001200 +0600" channel="CGTN.cn">
-    <title lang="bn">今日说法-2025-210</title>
+  <programme start="20251105033500 +0600" stop="20251105042000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Tierärzte von Houston</title>
   </programme>
-  <programme start="20251104001200 +0600" stop="20251104010000 +0600" channel="CGTN.cn">
-    <title lang="bn">沉默的荣耀31/39</title>
+  <programme start="20251105042000 +0600" stop="20251105050500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Irwins – Crocodile Hunter Family</title>
   </programme>
-  <programme start="20251104010000 +0600" stop="20251104015300 +0600" channel="CGTN.cn">
-    <title lang="bn">沉默的荣耀32/39</title>
+  <programme start="20251105050500 +0600" stop="20251105055000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Irwins – Crocodile Hunter Family</title>
   </programme>
-  <programme start="20251104015300 +0600" stop="20251104024200 +0600" channel="CGTN.cn">
-    <title lang="bn">沉默的荣耀33/39</title>
+  <programme start="20251105055000 +0600" stop="20251105063500 +0600" channel="CGTN.cn">
+    <title lang="bn">Pitbulls auf Bewährung</title>
   </programme>
-  <programme start="20251104024200 +0600" stop="20251104042300 +0600" channel="CGTN.cn">
-    <title lang="bn">宗师列传:black_small_square:唐宋八大家-苏轼苏辙中</title>
+  <programme start="20251105063500 +0600" stop="20251105072000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pitbulls auf Bewährung</title>
   </programme>
-  <programme start="20251104042300 +0600" stop="20251104045500 +0600" channel="CGTN.cn">
-    <title lang="bn">第一动画乐园-2025-366</title>
+  <programme start="20251105072000 +0600" stop="20251105074500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Superkräfte der Tiere</title>
   </programme>
-  <programme start="20251104045500 +0600" stop="20251104051900 +0600" channel="CGTN.cn">
-    <title lang="bn">第一动画乐园-2025-367</title>
+  <programme start="20251105074500 +0600" stop="20251105083000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Baumhaus-Profis</title>
   </programme>
-  <programme start="20251104051900 +0600" stop="20251104054900 +0600" channel="CGTN.cn">
-    <title lang="bn">文脉春秋-2025-2</title>
+  <programme start="20251105083000 +0600" stop="20251105091500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Baumhaus-Profis</title>
   </programme>
-  <programme start="20251104054900 +0600" stop="20251104060000 +0600" channel="CGTN.cn">
-    <title lang="bn">秘境之眼-2025-305</title>
+  <programme start="20251105091500 +0600" stop="20251105100000 +0600" channel="CGTN.cn">
+    <title lang="bn">Der Katzenflüsterer</title>
   </programme>
-  <programme start="20251104060000 +0600" stop="20251104064000 +0600" channel="CGTN.cn">
-    <title lang="bn">新闻联播</title>
+  <programme start="20251105100000 +0600" stop="20251105104500 +0600" channel="CGTN.cn">
+    <title lang="bn">Der Katzenflüsterer</title>
   </programme>
-  <programme start="20251104064000 +0600" stop="20251104070100 +0600" channel="CGTN.cn">
-    <title lang="bn">焦点访谈</title>
+  <programme start="20251105104500 +0600" stop="20251105113500 +0600" channel="CGTN.cn">
+    <title lang="bn">Tierpolizei Miami</title>
   </programme>
-  <programme start="20251104070100 +0600" stop="20251104070600 +0600" channel="CGTN.cn">
-    <title lang="bn">前情提要-红石榴餐厅-16/20</title>
+  <programme start="20251105113500 +0600" stop="20251105122000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tierpolizei Houston</title>
   </programme>
-  <programme start="20251104070600 +0600" stop="20251104075800 +0600" channel="CGTN.cn">
-    <title lang="bn">红石榴餐厅16/20</title>
+  <programme start="20251105122000 +0600" stop="20251105130500 +0600" channel="CGTN.cn">
+    <title lang="bn">Tierpolizei Houston</title>
   </programme>
-  <programme start="20251104075800 +0600" stop="20251104080100 +0600" channel="CGTN.cn">
-    <title lang="bn">前情提要-红石榴餐厅-17/20</title>
+  <programme start="20251105130500 +0600" stop="20251105135000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Baumhaus-Profis</title>
   </programme>
-  <programme start="20251104080100 +0600" stop="20251104085100 +0600" channel="CGTN.cn">
-    <title lang="bn">红石榴餐厅17/20</title>
+  <programme start="20251105135000 +0600" stop="20251105143500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Baumhaus-Profis</title>
   </programme>
-  <programme start="20251104085100 +0600" stop="20251104090000 +0600" channel="CGTN.cn">
-    <title lang="bn">非遗里的中国-MV</title>
+  <programme start="20251105143500 +0600" stop="20251105152000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Baumhaus-Profis</title>
   </programme>
-  <programme start="20251104090000 +0600" stop="20251104093400 +0600" channel="CGTN.cn">
-    <title lang="bn">晚间新闻</title>
+  <programme start="20251105152000 +0600" stop="20251105161000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Irwins – Crocodile Hunter Family</title>
   </programme>
-  <programme start="20251104093400 +0600" stop="20251104100700 +0600" channel="CGTN.cn">
-    <title lang="bn">国土重光-纪念台湾光复80周年-4</title>
+  <programme start="20251105161000 +0600" stop="20251105165500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Irwins – Crocodile Hunter Family</title>
   </programme>
-  <programme start="20251104100700 +0600" stop="20251104103700 +0600" channel="CGTN.cn">
-    <title lang="bn">城市风华录-10</title>
+  <programme start="20251105165500 +0600" stop="20251105174000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Irwins – Crocodile Hunter Family</title>
+  </programme>
+  <programme start="20251105174000 +0600" stop="20251105182500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Tierärzte von Houston</title>
+  </programme>
+  <programme start="20251105182500 +0600" stop="20251105191000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Tierärzte von Houston</title>
+  </programme>
+  <programme start="20251105191000 +0600" stop="20251105195500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Tierärzte von Houston</title>
+  </programme>
+  <programme start="20251105195500 +0600" stop="20251105204000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Aquarium-Profis</title>
+  </programme>
+  <programme start="20251105204000 +0600" stop="20251105213000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Aquarium-Profis</title>
+  </programme>
+  <programme start="20251105213000 +0600" stop="20251105221500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Aquarium-Profis</title>
+  </programme>
+  <programme start="20251105221500 +0600" stop="20251105230000 +0600" channel="CGTN.cn">
+    <title lang="bn">Bronx Zoo – Tierpark der Superlative</title>
+  </programme>
+  <programme start="20251105230000 +0600" stop="20251105234500 +0600" channel="CGTN.cn">
+    <title lang="bn">Bronx Zoo – Tierpark der Superlative</title>
+  </programme>
+  <programme start="20251105234500 +0600" stop="20251106003000 +0600" channel="CGTN.cn">
+    <title lang="bn">Der Katzenflüsterer</title>
+  </programme>
+  <programme start="20251106003000 +0600" stop="20251106011500 +0600" channel="CGTN.cn">
+    <title lang="bn">Der Katzenflüsterer</title>
+  </programme>
+  <programme start="20251106011500 +0600" stop="20251106020000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pitbulls auf Bewährung</title>
+  </programme>
+  <programme start="20251106020000 +0600" stop="20251106024500 +0600" channel="CGTN.cn">
+    <title lang="bn">Pitbulls auf Bewährung</title>
+  </programme>
+  <programme start="20251106024500 +0600" stop="20251106033000 +0600" channel="CGTN.cn">
+    <title lang="bn">Bronx Zoo – Tierpark der Superlative</title>
+  </programme>
+  <programme start="20251106033000 +0600" stop="20251106041500 +0600" channel="CGTN.cn">
+    <title lang="bn">Bronx Zoo – Tierpark der Superlative</title>
+  </programme>
+  <programme start="20251106041500 +0600" stop="20251106050000 +0600" channel="CGTN.cn">
+    <title lang="bn">Der Katzenflüsterer</title>
+  </programme>
+  <programme start="20251106050000 +0600" stop="20251106054500 +0600" channel="CGTN.cn">
+    <title lang="bn">Der Katzenflüsterer</title>
+  </programme>
+  <programme start="20251106054500 +0600" stop="20251106063000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pitbulls auf Bewährung</title>
+  </programme>
+  <programme start="20251106063000 +0600" stop="20251106072000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pitbulls auf Bewährung</title>
+  </programme>
+  <programme start="20251106072000 +0600" stop="20251106074000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Superkräfte der Tiere</title>
+  </programme>
+  <programme start="20251106074000 +0600" stop="20251106082500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Baumhaus-Profis</title>
+  </programme>
+  <programme start="20251106082500 +0600" stop="20251106091500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Baumhaus-Profis</title>
+  </programme>
+  <programme start="20251106091500 +0600" stop="20251106100000 +0600" channel="CGTN.cn">
+    <title lang="bn">Der Katzenflüsterer</title>
+  </programme>
+  <programme start="20251106100000 +0600" stop="20251106104500 +0600" channel="CGTN.cn">
+    <title lang="bn">Der Katzenflüsterer</title>
+  </programme>
+  <programme start="20251106104500 +0600" stop="20251106113000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tierpolizei Houston</title>
+  </programme>
+  <programme start="20251106113000 +0600" stop="20251106122000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tierpolizei Houston</title>
+  </programme>
+  <programme start="20251106122000 +0600" stop="20251106130500 +0600" channel="CGTN.cn">
+    <title lang="bn">Tierpolizei Houston</title>
+  </programme>
+  <programme start="20251106130500 +0600" stop="20251106135000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Baumhaus-Profis</title>
+  </programme>
+  <programme start="20251106135000 +0600" stop="20251106143500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Baumhaus-Profis</title>
+  </programme>
+  <programme start="20251106143500 +0600" stop="20251106152000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Baumhaus-Profis</title>
+  </programme>
+  <programme start="20251106152000 +0600" stop="20251106161000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Irwins – Crocodile Hunter Family</title>
+  </programme>
+  <programme start="20251106161000 +0600" stop="20251106165500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Irwins – Crocodile Hunter Family</title>
+  </programme>
+  <programme start="20251106165500 +0600" stop="20251106174000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Irwins – Crocodile Hunter Family</title>
+  </programme>
+  <programme start="20251106174000 +0600" stop="20251106182500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Tierärzte von Houston</title>
+  </programme>
+  <programme start="20251106182500 +0600" stop="20251106191000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Tierärzte von Houston</title>
+  </programme>
+  <programme start="20251106191000 +0600" stop="20251106195500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Tierärzte von Houston</title>
+  </programme>
+  <programme start="20251106195500 +0600" stop="20251106204000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Aquarium-Profis</title>
+  </programme>
+  <programme start="20251106204000 +0600" stop="20251106212500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Aquarium-Profis</title>
+  </programme>
+  <programme start="20251106212500 +0600" stop="20251106221500 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Aquarium-Profis</title>
+  </programme>
+  <programme start="20251106221500 +0600" stop="20251106230000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Schlangenfängerin – Gefahr Down Under</title>
+  </programme>
+  <programme start="20251106230000 +0600" stop="20251106234500 +0600" channel="CGTN.cn">
+    <title lang="bn">Weiße Haie im Kampfrausch</title>
+  </programme>
+  <programme start="20251106234500 +0600" stop="20251107003000 +0600" channel="CGTN.cn">
+    <title lang="bn">Extinct or Alive – Ausgestorben oder nicht?</title>
+  </programme>
+  <programme start="20251107003000 +0600" stop="20251107011500 +0600" channel="CGTN.cn">
+    <title lang="bn">Extinct or Alive – Ausgestorben oder nicht?</title>
+  </programme>
+  <programme start="20251107011500 +0600" stop="20251107020500 +0600" channel="CGTN.cn">
+    <title lang="bn">Pitbulls auf Bewährung</title>
+  </programme>
+  <programme start="20251107020500 +0600" stop="20251107025000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pitbulls auf Bewährung</title>
+  </programme>
+  <programme start="20251107025000 +0600" stop="20251107032000 +0600" channel="CGTN.cn">
+    <title lang="bn">Die Schlangenfängerin – Gefahr Down Under</title>
   </programme>
   <channel id="cna.sg">
     <display-name>Channel News Asia</display-name>
