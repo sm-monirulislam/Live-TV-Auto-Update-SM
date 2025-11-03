@@ -143,11 +143,11 @@
     <display-name>ENT | Sony Entertainment HD</display-name>
     <icon src="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png"/>
   </channel>
-  <programme start="20251103153000 +0600" stop="20251103163000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20251103153000 +0600" stop="20251103162900 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">ATN Live Gurubani</title>
   </programme>
-  <programme start="20251103163000 +0600" stop="20251103170000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Vighnaharta Ganesh</title>
+  <programme start="20251103162900 +0600" stop="20251103170000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Barsatein: Mausam Pyaar Ka</title>
   </programme>
   <programme start="20251103170000 +0600" stop="20251103173000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Vighnaharta Ganesh</title>
@@ -158,40 +158,49 @@
   <programme start="20251103180000 +0600" stop="20251103183000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Awakening Of Brahmakumari&amp;#x27;s</title>
   </programme>
-  <programme start="20251103183000 +0600" stop="20251103193000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Crime Patrol</title>
+  <programme start="20251103183000 +0600" stop="20251103190000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Barsatein: Mausam Pyaar Ka</title>
+  </programme>
+  <programme start="20251103190000 +0600" stop="20251103193000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Punyashlok Ahilyabai</title>
   </programme>
   <programme start="20251103193000 +0600" stop="20251103200000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Asian Magazine</title>
   </programme>
-  <programme start="20251103200000 +0600" stop="20251103202900 +0600" channel="SonyEntertainmentHD">
+  <programme start="20251103200000 +0600" stop="20251103203000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">ATN&amp;#x27;s Tribute to 100 Years of Indian Cinema</title>
   </programme>
-  <programme start="20251103202900 +0600" stop="20251103205900 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Mere Sai - Shraddha Aur Saburi</title>
+  <programme start="20251103203000 +0600" stop="20251103210000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Katha Ankahee</title>
   </programme>
-  <programme start="20251103205900 +0600" stop="20251103212900 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Yeh Un Dinon Ki Baat Hai</title>
-  </programme>
-  <programme start="20251103212900 +0600" stop="20251103215900 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Patiala Babes</title>
-  </programme>
-  <programme start="20251103215900 +0600" stop="20251103232900 +0600" channel="SonyEntertainmentHD">
+  <programme start="20251103210000 +0600" stop="20251103223000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Kaun Banega Crorepati</title>
   </programme>
-  <programme start="20251103232900 +0600" stop="20251103235900 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Chalo Bulawa Aaya Hai</title>
+  <programme start="20251103223000 +0600" stop="20251103230000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Barsatein: Mausam Pyaar Ka</title>
   </programme>
-  <programme start="20251103235900 +0600" stop="20251104003000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Yeh Un Dinon Ki Baat Hai</title>
+  <programme start="20251103230000 +0600" stop="20251103233000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Kavya: Ek Jazbaa, Ek Junoon</title>
   </programme>
-  <programme start="20251104003000 +0600" stop="20251104015900 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">The Kapil Sharma Show</title>
+  <programme start="20251103233000 +0600" stop="20251104000000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Punyashlok Ahilyabai</title>
   </programme>
-  <programme start="20251104015900 +0600" stop="20251104022900 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Chalo Bulawa Aaya Hai</title>
+  <programme start="20251104000000 +0600" stop="20251104003000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Katha Ankahee</title>
   </programme>
-  <programme start="20251104022900 +0600" stop="20251104040000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20251104003000 +0600" stop="20251104010000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Barsatein: Mausam Pyaar Ka</title>
+  </programme>
+  <programme start="20251104010000 +0600" stop="20251104013000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Yashomati Maiyya Ke Nandlala</title>
+  </programme>
+  <programme start="20251104013000 +0600" stop="20251104020000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Yashomati Maiyya Ke Nandlala</title>
+  </programme>
+  <programme start="20251104020000 +0600" stop="20251104023000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Kavya: Ek Jazbaa, Ek Junoon</title>
+  </programme>
+  <programme start="20251104023000 +0600" stop="20251104040000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Kaun Banega Crorepati</title>
   </programme>
   <programme start="20251104040000 +0600" stop="20251104043000 +0600" channel="SonyEntertainmentHD">
@@ -201,43 +210,43 @@
     <title lang="bn">Asian Magazine</title>
   </programme>
   <programme start="20251104050000 +0600" stop="20251104053000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Mere Sai - Shraddha Aur Saburi</title>
+    <title lang="bn">Barsatein: Mausam Pyaar Ka</title>
   </programme>
   <programme start="20251104053000 +0600" stop="20251104060000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Yeh Un Dinon Ki Baat Hai</title>
+    <title lang="bn">Punyashlok Ahilya Bai</title>
   </programme>
   <programme start="20251104060000 +0600" stop="20251104063000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Patiala Babes</title>
+    <title lang="bn">Kavya: Ek Jazbaa, Ek Junoon</title>
   </programme>
   <programme start="20251104063000 +0600" stop="20251104070000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Chalo Bulawa Aaya Hai</title>
+    <title lang="bn">Katha Ankahee</title>
   </programme>
   <programme start="20251104070000 +0600" stop="20251104083000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Kaun Banega Crorepati</title>
   </programme>
   <programme start="20251104083000 +0600" stop="20251104090000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Yeh Un Dinon Ki Baat Hai</title>
+    <title lang="bn">Punyashlok Ahilya Bai</title>
   </programme>
   <programme start="20251104090000 +0600" stop="20251104093000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Patiala Babes</title>
+    <title lang="bn">Kavya: Ek Jazbaa, Ek Junoon</title>
   </programme>
   <programme start="20251104093000 +0600" stop="20251104100000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Chalo Bulawa Aaya Hai</title>
+    <title lang="bn">Barsatein: Mausam Pyaar Ka</title>
   </programme>
   <programme start="20251104100000 +0600" stop="20251104113000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Kaun Banega Crorepati</title>
   </programme>
   <programme start="20251104113000 +0600" stop="20251104120000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Mere Sai - Shraddha Aur Saburi</title>
+    <title lang="bn">Katha Ankahee</title>
   </programme>
   <programme start="20251104120000 +0600" stop="20251104123000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Yeh Un Dinon Ki Baat Hai</title>
+    <title lang="bn">Kavya: Ek Jazbaa, Ek Junoon</title>
   </programme>
   <programme start="20251104123000 +0600" stop="20251104130000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Patiala Babes</title>
+    <title lang="bn">Yashomati Maiyya Ke Nandlala</title>
   </programme>
   <programme start="20251104130000 +0600" stop="20251104133000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Chalo Bulawa Aaya Hai</title>
+    <title lang="bn">Yashomati Maiyya Ke Nandlala</title>
   </programme>
   <programme start="20251104133000 +0600" stop="20251104140000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Asian Magazine</title>
@@ -678,19 +687,19 @@
     <title lang="bn">Laura Coates Live</title>
   </programme>
   <programme start="20251104100000 +0600" stop="20251104110000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">The Story Is With Elex Michaelson</title>
   </programme>
   <programme start="20251104110000 +0600" stop="20251104120000 +0600" channel="CNN.us">
-    <title lang="bn">Erin Burnett OutFront</title>
+    <title lang="bn">The Story Is With Elex Michaelson</title>
   </programme>
   <programme start="20251104120000 +0600" stop="20251104130000 +0600" channel="CNN.us">
-    <title lang="bn">The Source With Kaitlan Collins</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251104130000 +0600" stop="20251104140000 +0600" channel="CNN.us">
     <title lang="bn">CNN NewsNight With Abby Phillip</title>
   </programme>
   <programme start="20251104140000 +0600" stop="20251104150000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">American Pulse</title>
   </programme>
   <programme start="20251104150000 +0600" stop="20251104160000 +0600" channel="CNN.us">
     <title lang="bn">Early Start With Rahel Solomon</title>
@@ -997,38 +1006,38 @@
   <programme start="20251104060000 +0600" stop="20251104063000 +0600" channel="RepublicTV.in">
     <title lang="bn">R News</title>
   </programme>
-  <programme start="20251104063000 +0600" stop="20251104070000 +0600" channel="RepublicTV.in">
-    <title lang="bn">Live This Morning</title>
-  </programme>
-  <programme start="20251104070000 +0600" stop="20251104073000 +0600" channel="RepublicTV.in">
-    <title lang="bn">Live This Morning</title>
-  </programme>
-  <programme start="20251104073000 +0600" stop="20251104080000 +0600" channel="RepublicTV.in">
-    <title lang="bn">Live This Morning</title>
-  </programme>
-  <programme start="20251104080000 +0600" stop="20251104083000 +0600" channel="RepublicTV.in">
-    <title lang="bn">Live This Morning</title>
-  </programme>
-  <programme start="20251104083000 +0600" stop="20251104090000 +0600" channel="RepublicTV.in">
-    <title lang="bn">Live This Morning</title>
-  </programme>
-  <programme start="20251104090000 +0600" stop="20251104093000 +0600" channel="RepublicTV.in">
+  <programme start="20251104063000 +0600" stop="20251104093000 +0600" channel="RepublicTV.in">
     <title lang="bn">Live This Morning</title>
   </programme>
   <programme start="20251104093000 +0600" stop="20251104100000 +0600" channel="RepublicTV.in">
     <title lang="bn">Live And Breaking</title>
   </programme>
-  <programme start="20251104100000 +0600" stop="20251104103000 +0600" channel="RepublicTV.in">
+  <programme start="20251104100000 +0600" stop="20251104183000 +0600" channel="RepublicTV.in">
     <title lang="bn">Live And Breaking</title>
   </programme>
-  <programme start="20251104103000 +0600" stop="20251104113000 +0600" channel="RepublicTV.in">
-    <title lang="bn">Live And Breaking</title>
+  <programme start="20251104183000 +0600" stop="20251104193000 +0600" channel="RepublicTV.in">
+    <title lang="bn">6 Stories At 6</title>
   </programme>
-  <programme start="20251104113000 +0600" stop="20251104120000 +0600" channel="RepublicTV.in">
-    <title lang="bn">Live And Breaking</title>
+  <programme start="20251104193000 +0600" stop="20251104200000 +0600" channel="RepublicTV.in">
+    <title lang="bn">This Is Exclusive</title>
   </programme>
-  <programme start="20251104120000 +0600" stop="20251104123000 +0600" channel="RepublicTV.in">
-    <title lang="bn">Live And Breaking</title>
+  <programme start="20251104200000 +0600" stop="20251104203000 +0600" channel="RepublicTV.in">
+    <title lang="bn">Trending</title>
+  </programme>
+  <programme start="20251104203000 +0600" stop="20251104210000 +0600" channel="RepublicTV.in">
+    <title lang="bn">The Debate With Arnab Goswami @ 8</title>
+  </programme>
+  <programme start="20251104210000 +0600" stop="20251104213000 +0600" channel="RepublicTV.in">
+    <title lang="bn">The Debate With Arnab Goswami @ 8</title>
+  </programme>
+  <programme start="20251104213000 +0600" stop="20251104220000 +0600" channel="RepublicTV.in">
+    <title lang="bn">The Debate With Arnab Goswami @ 9</title>
+  </programme>
+  <programme start="20251104220000 +0600" stop="20251104223000 +0600" channel="RepublicTV.in">
+    <title lang="bn">The Debate With Arnab Goswami @ 9</title>
+  </programme>
+  <programme start="20251104223000 +0600" stop="20251104230000 +0600" channel="RepublicTV.in">
+    <title lang="bn">The Debate Late Tonight</title>
   </programme>
   <channel id="TimesNowNavbharat">
     <display-name>NEWS | Times Now Navbhara</display-name>
@@ -1167,11 +1176,35 @@
     <display-name>Bhojpuri Cinema</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png"/>
   </channel>
-  <programme start="20251104020500 +0600" stop="20251104023500 +0600" channel="BhojpuriCinema.in">
+  <programme start="20251103235400 +0600" stop="20251104023500 +0600" channel="BhojpuriCinema.in">
+    <title lang="bn">Ek Saazish Jaal</title>
+  </programme>
+  <programme start="20251104023500 +0600" stop="20251104060000 +0600" channel="BhojpuriCinema.in">
     <title lang="bn">Lalaki Chunariya Odh Ke</title>
   </programme>
-  <programme start="20251104023500 +0600" stop="20251104030500 +0600" channel="BhojpuriCinema.in">
+  <programme start="20251104060000 +0600" stop="20251104063000 +0600" channel="BhojpuriCinema.in">
     <title lang="bn">Lalaki Chunariya Odh Ke</title>
+  </programme>
+  <programme start="20251104063000 +0600" stop="20251104083000 +0600" channel="BhojpuriCinema.in">
+    <title lang="bn">Lalaki Chunariya Odh Ke</title>
+  </programme>
+  <programme start="20251104083000 +0600" stop="20251104094800 +0600" channel="BhojpuriCinema.in">
+    <title lang="bn">Bhojpuriya Jhankaar</title>
+  </programme>
+  <programme start="20251104094800 +0600" stop="20251104121500 +0600" channel="BhojpuriCinema.in">
+    <title lang="bn">Muniya</title>
+  </programme>
+  <programme start="20251104121500 +0600" stop="20251104151500 +0600" channel="BhojpuriCinema.in">
+    <title lang="bn">Kala Sindoor</title>
+  </programme>
+  <programme start="20251104151500 +0600" stop="20251104174900 +0600" channel="BhojpuriCinema.in">
+    <title lang="bn">Suhag Ke Batwara</title>
+  </programme>
+  <programme start="20251104174900 +0600" stop="20251104210000 +0600" channel="BhojpuriCinema.in">
+    <title lang="bn">Saas Bahu Ki Mahabharat</title>
+  </programme>
+  <programme start="20251104210000 +0600" stop="20251104213000 +0600" channel="BhojpuriCinema.in">
+    <title lang="bn">Jaisi Saas Waisi Bahu</title>
   </programme>
   <channel id="B4UMovies.in">
     <display-name>B4U Movies</display-name>
@@ -1326,10 +1359,7 @@
     <display-name>Enter 10 Bangla</display-name>
     <icon src="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"/>
   </channel>
-  <programme start="20251104051400 +0600" stop="20251104054400 +0600" channel="enter10bangla.in">
-    <title lang="bn">Crime Alert</title>
-  </programme>
-  <programme start="20251104054400 +0600" stop="20251104063100 +0600" channel="enter10bangla.in">
+  <programme start="20251104060100 +0600" stop="20251104063100 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
   <programme start="20251104063100 +0600" stop="20251104093000 +0600" channel="enter10bangla.in">
@@ -1364,6 +1394,9 @@
   </programme>
   <programme start="20251104200000 +0600" stop="20251104203000 +0600" channel="enter10bangla.in">
     <title lang="bn">Bindiya Sarkar</title>
+  </programme>
+  <programme start="20251104203000 +0600" stop="20251104210000 +0600" channel="enter10bangla.in">
+    <title lang="bn">Shubh Shagun</title>
   </programme>
   <channel id="sangeetbangla.in">
     <display-name>SANGEET BANGLA</display-name>
