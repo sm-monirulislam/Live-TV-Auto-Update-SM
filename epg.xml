@@ -264,9 +264,6 @@
     <display-name>Fox News</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg"/>
   </channel>
-  <programme start="20251103160000 +0600" stop="20251103170000 +0600" channel="FoxNews.us">
-    <title lang="bn">FOX and Friends</title>
-  </programme>
   <programme start="20251103170000 +0600" stop="20251103180000 +0600" channel="FoxNews.us">
     <title lang="bn">FOX and Friends</title>
   </programme>
@@ -340,16 +337,16 @@
     <display-name>Euronews English</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/f/f9/Euronews_2022_Stacked_III.svg"/>
   </channel>
-  <programme start="20251103160000 +0600" stop="20251103161500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103160000 +0600" stop="20251103161400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103161500 +0600" stop="20251103163000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103161400 +0600" stop="20251103162900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103163000 +0600" stop="20251103164600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103162900 +0600" stop="20251103164500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103164600 +0600" stop="20251103170000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103164500 +0600" stop="20251103170000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251103170000 +0600" stop="20251103171500 +0600" channel="EuronewsEnglish.fr">
@@ -358,10 +355,10 @@
   <programme start="20251103171500 +0600" stop="20251103173000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103173000 +0600" stop="20251103174600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103173000 +0600" stop="20251103174900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103174600 +0600" stop="20251103180000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103174900 +0600" stop="20251103180000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251103180000 +0600" stop="20251103181500 +0600" channel="EuronewsEnglish.fr">
@@ -370,29 +367,35 @@
   <programme start="20251103181500 +0600" stop="20251103183000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103183000 +0600" stop="20251103185100 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103183000 +0600" stop="20251103184900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251103185100 +0600" stop="20251103190000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103184900 +0600" stop="20251103190000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251103190000 +0600" stop="20251103193000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103190000 +0600" stop="20251103191800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103193000 +0600" stop="20251103194600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103191800 +0600" stop="20251103193000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251103193000 +0600" stop="20251103194900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103194600 +0600" stop="20251103200000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103194900 +0600" stop="20251103200000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251103200000 +0600" stop="20251103201500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103201500 +0600" stop="20251103203000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103201500 +0600" stop="20251103202900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103203000 +0600" stop="20251103210000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103202900 +0600" stop="20251103204600 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20251103204600 +0600" stop="20251103210000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251103210000 +0600" stop="20251103211500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
@@ -400,25 +403,28 @@
   <programme start="20251103211500 +0600" stop="20251103213000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103213000 +0600" stop="20251103214800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103213000 +0600" stop="20251103214900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103214800 +0600" stop="20251103220000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103214900 +0600" stop="20251103220000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251103220000 +0600" stop="20251103221500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103221500 +0600" stop="20251103223000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103221500 +0600" stop="20251103222900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103223000 +0600" stop="20251103230000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103222900 +0600" stop="20251103224900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103230000 +0600" stop="20251103231400 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103224900 +0600" stop="20251103230000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251103230000 +0600" stop="20251103231500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251103231400 +0600" stop="20251103233100 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251103231500 +0600" stop="20251103233100 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
   <programme start="20251103233100 +0600" stop="20251103234400 +0600" channel="EuronewsEnglish.fr">
@@ -430,13 +436,13 @@
   <programme start="20251104000000 +0600" stop="20251104001500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104001500 +0600" stop="20251104003000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104001500 +0600" stop="20251104002900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104003000 +0600" stop="20251104005000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104002900 +0600" stop="20251104004900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104005000 +0600" stop="20251104010000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104004900 +0600" stop="20251104010000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104010000 +0600" stop="20251104011500 +0600" channel="EuronewsEnglish.fr">
@@ -445,22 +451,22 @@
   <programme start="20251104011500 +0600" stop="20251104013000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104013000 +0600" stop="20251104014600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104013000 +0600" stop="20251104014900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104014600 +0600" stop="20251104020000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104014900 +0600" stop="20251104020000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251104020000 +0600" stop="20251104021500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104020000 +0600" stop="20251104021400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104021500 +0600" stop="20251104023000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104021400 +0600" stop="20251104022900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104023000 +0600" stop="20251104024600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104022900 +0600" stop="20251104024500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104024600 +0600" stop="20251104030000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104024500 +0600" stop="20251104030000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104030000 +0600" stop="20251104031500 +0600" channel="EuronewsEnglish.fr">
@@ -469,47 +475,59 @@
   <programme start="20251104031500 +0600" stop="20251104033000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104033000 +0600" stop="20251104040000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104033000 +0600" stop="20251104034800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20251104034800 +0600" stop="20251104040000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104040000 +0600" stop="20251104041500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104041500 +0600" stop="20251104043000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104041500 +0600" stop="20251104042900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104043000 +0600" stop="20251104050000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104042900 +0600" stop="20251104044500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20251104044500 +0600" stop="20251104050000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104050000 +0600" stop="20251104051500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104051500 +0600" stop="20251104053000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104051500 +0600" stop="20251104052900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104053000 +0600" stop="20251104060000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104052900 +0600" stop="20251104054500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104060000 +0600" stop="20251104061400 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104054500 +0600" stop="20251104060000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251104060000 +0600" stop="20251104061500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104061400 +0600" stop="20251104063000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104061500 +0600" stop="20251104062900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104063000 +0600" stop="20251104064600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104062900 +0600" stop="20251104064500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104064600 +0600" stop="20251104070000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104064500 +0600" stop="20251104070000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104070000 +0600" stop="20251104071500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104071500 +0600" stop="20251104073000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104071500 +0600" stop="20251104072900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20251104073000 +0600" stop="20251104080000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104072900 +0600" stop="20251104074500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20251104074500 +0600" stop="20251104080000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104080000 +0600" stop="20251104081500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
@@ -523,13 +541,16 @@
   <programme start="20251104084800 +0600" stop="20251104090000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251104090000 +0600" stop="20251104091500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104090000 +0600" stop="20251104091400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104091500 +0600" stop="20251104093000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104091400 +0600" stop="20251104093000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104093000 +0600" stop="20251104100000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104093000 +0600" stop="20251104094500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Wake up Europe</title>
+  </programme>
+  <programme start="20251104094500 +0600" stop="20251104100000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
   <programme start="20251104100000 +0600" stop="20251104101500 +0600" channel="EuronewsEnglish.fr">
@@ -538,8 +559,11 @@
   <programme start="20251104101500 +0600" stop="20251104103000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104103000 +0600" stop="20251104110000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104103000 +0600" stop="20251104104800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
+  </programme>
+  <programme start="20251104104800 +0600" stop="20251104110000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104110000 +0600" stop="20251104111500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
@@ -547,8 +571,11 @@
   <programme start="20251104111500 +0600" stop="20251104113000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104113000 +0600" stop="20251104120000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104113000 +0600" stop="20251104114800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
+  </programme>
+  <programme start="20251104114800 +0600" stop="20251104120000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251104120000 +0600" stop="20251104121500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
@@ -556,10 +583,10 @@
   <programme start="20251104121500 +0600" stop="20251104123000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104123000 +0600" stop="20251104124900 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104123000 +0600" stop="20251104124800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20251104124900 +0600" stop="20251104130000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104124800 +0600" stop="20251104130000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104130000 +0600" stop="20251104131500 +0600" channel="EuronewsEnglish.fr">
@@ -568,13 +595,16 @@
   <programme start="20251104131500 +0600" stop="20251104133000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251104133000 +0600" stop="20251104140000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104133000 +0600" stop="20251104134800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251104140000 +0600" stop="20251104141700 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104134800 +0600" stop="20251104140000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251104140000 +0600" stop="20251104141900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251104141700 +0600" stop="20251104143000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104141900 +0600" stop="20251104143000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251104143000 +0600" stop="20251104144600 +0600" channel="EuronewsEnglish.fr">
@@ -589,8 +619,11 @@
   <programme start="20251104151500 +0600" stop="20251104153000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20251104153000 +0600" stop="20251104160000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20251104153000 +0600" stop="20251104154800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
+  </programme>
+  <programme start="20251104154800 +0600" stop="20251104160000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <channel id="CNN.us">
     <display-name>CNN</display-name>
@@ -651,19 +684,19 @@
     <title lang="bn">Laura Coates Live</title>
   </programme>
   <programme start="20251104100000 +0600" stop="20251104110000 +0600" channel="CNN.us">
-    <title lang="bn">The Story Is With Elex Michaelson</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251104110000 +0600" stop="20251104120000 +0600" channel="CNN.us">
-    <title lang="bn">The Story Is With Elex Michaelson</title>
+    <title lang="bn">Erin Burnett OutFront</title>
   </programme>
   <programme start="20251104120000 +0600" stop="20251104130000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">The Source With Kaitlan Collins</title>
   </programme>
   <programme start="20251104130000 +0600" stop="20251104140000 +0600" channel="CNN.us">
     <title lang="bn">CNN NewsNight With Abby Phillip</title>
   </programme>
   <programme start="20251104140000 +0600" stop="20251104150000 +0600" channel="CNN.us">
-    <title lang="bn">American Pulse</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251104150000 +0600" stop="20251104160000 +0600" channel="CNN.us">
     <title lang="bn">Early Start With Rahel Solomon</title>
@@ -672,9 +705,6 @@
     <display-name>NEWS | TV9 Bharatvarsh</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/a/ad/TV9_Bharatvarsh.jpeg"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="TV9Bharatvarsh">
-    <title lang="bn">12 PM Spl</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103143000 +0600" channel="TV9Bharatvarsh">
     <title lang="bn">Bharatvarsh ka No 1 bulletin</title>
   </programme>
@@ -759,16 +789,16 @@
   <programme start="20251104130000 +0600" stop="20251104133000 +0600" channel="TV9Bharatvarsh">
     <title lang="bn">12 PM Spl</title>
   </programme>
-  <programme start="20251104133000 +0600" stop="20251104140000 +0600" channel="TV9Bharatvarsh">
+  <programme start="20251104133000 +0600" stop="20251104143000 +0600" channel="TV9Bharatvarsh">
     <title lang="bn">Bharatvarsh ka No 1 bulletin</title>
+  </programme>
+  <programme start="20251104143000 +0600" stop="20251104150000 +0600" channel="TV9Bharatvarsh">
+    <title lang="bn">Loud &amp; Clear</title>
   </programme>
   <channel id="ZEEBUSINESS">
     <display-name>NEWS | ZEE BUSINESS</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Business_%282025%29.svg"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="ZEEBUSINESS">
-    <title lang="bn">Superfast Futures</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="ZEEBUSINESS">
     <title lang="bn">Midcap Bazaar</title>
   </programme>
@@ -856,13 +886,13 @@
   <programme start="20251104033000 +0600" stop="20251104040000 +0600" channel="ZEEBUSINESS">
     <title lang="bn">Aapki Khabar, Aapka Fayda</title>
   </programme>
+  <programme start="20251104040000 +0600" stop="20251104043000 +0600" channel="ZEEBUSINESS">
+    <title lang="bn">India 360</title>
+  </programme>
   <channel id="ZEENews">
     <display-name>NEWS | ZEE News</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="ZEENews">
-    <title lang="bn">Zee Special</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="ZEENews">
     <title lang="bn">Ek Se Badhkar Ek</title>
   </programme>
@@ -950,13 +980,13 @@
   <programme start="20251104033000 +0600" stop="20251104040000 +0600" channel="ZEENews">
     <title lang="bn">News Bulletin</title>
   </programme>
+  <programme start="20251104040000 +0600" stop="20251104043000 +0600" channel="ZEENews">
+    <title lang="bn">News Bulletin</title>
+  </programme>
   <channel id="DangalTV.in">
     <display-name>ENT | Dangal TV</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="DangalTV.in">
-    <title lang="bn">Pati Brahmachari</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="DangalTV.in">
     <title lang="bn">Kahani Pehle Pyaar Ki</title>
   </programme>
@@ -1043,6 +1073,9 @@
   </programme>
   <programme start="20251104133000 +0600" stop="20251104140000 +0600" channel="DangalTV.in">
     <title lang="bn">Gehna Zevar Ya Zanjeer</title>
+  </programme>
+  <programme start="20251104140000 +0600" stop="20251104143000 +0600" channel="DangalTV.in">
+    <title lang="bn">Safal Hogi Teri Aradhana</title>
   </programme>
   <channel id="COLORS.in">
     <display-name>ENT | COLORS HD</display-name>
@@ -1142,9 +1175,6 @@
     <display-name>India TV</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/10/India_TV_Orange.jpg"/>
   </channel>
-  <programme start="20251103122800 +0600" stop="20251103132800 +0600" channel="IndiaTV.in">
-    <title lang="bn">Special Report</title>
-  </programme>
   <programme start="20251103132800 +0600" stop="20251103135800 +0600" channel="IndiaTV.in">
     <title lang="bn">Prahar</title>
   </programme>
@@ -1232,13 +1262,13 @@
   <programme start="20251104082800 +0600" stop="20251104085800 +0600" channel="IndiaTV.in">
     <title lang="bn">Jaago India + Super 50</title>
   </programme>
+  <programme start="20251104085800 +0600" stop="20251104092500 +0600" channel="IndiaTV.in">
+    <title lang="bn">Bhavishyawani</title>
+  </programme>
   <channel id="DDNews.in">
     <display-name>DD News</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/d/d6/DD_News_new_logo_2024.jpg"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="DDNews.in">
-    <title lang="bn">Express 100</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103143000 +0600" channel="DDNews.in">
     <title lang="bn">Mid Day Prime Hindi</title>
   </programme>
@@ -1326,13 +1356,13 @@
   <programme start="20251104093000 +0600" stop="20251104100000 +0600" channel="DDNews.in">
     <title lang="bn">Express 100</title>
   </programme>
+  <programme start="20251104100000 +0600" stop="20251104103000 +0600" channel="DDNews.in">
+    <title lang="bn">Samachar</title>
+  </programme>
   <channel id="CNBCAwaaz">
     <display-name>CNBC Awaaz</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/18/CNBC_Awaaz_2025.svg"/>
   </channel>
-  <programme start="20251103125700 +0600" stop="20251103132700 +0600" channel="CNBCAwaaz">
-    <title lang="bn">Saas, Bahu Aur Sensex</title>
-  </programme>
   <programme start="20251103132700 +0600" stop="20251103135700 +0600" channel="CNBCAwaaz">
     <title lang="bn">Midcap Mantra</title>
   </programme>
@@ -1420,14 +1450,14 @@
   <programme start="20251104024000 +0600" stop="20251104030000 +0600" channel="CNBCAwaaz">
     <title lang="bn">Awaaz Adda</title>
   </programme>
+  <programme start="20251104030000 +0600" stop="20251104032000 +0600" channel="CNBCAwaaz">
+    <title lang="bn">Kal Ka Bazar</title>
+  </programme>
   <channel id="BharatSamacharTV.in">
     <display-name>Bharat Samachar TV</display-name>
     <icon src="https://bharatsamachartv.com/images/logo.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="BharatSamacharTV.in">
-    <title lang="bn">100 Samachar</title>
-  </programme>
-  <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="BharatSamacharTV.in">
+  <programme start="20251103132500 +0600" stop="20251103140000 +0600" channel="BharatSamacharTV.in">
     <title lang="bn">Breaking News</title>
   </programme>
   <programme start="20251103140000 +0600" stop="20251103143000 +0600" channel="BharatSamacharTV.in">
@@ -1514,13 +1544,13 @@
   <programme start="20251104032500 +0600" stop="20251104035500 +0600" channel="BharatSamacharTV.in">
     <title lang="bn">Full &amp; Final Bulletin</title>
   </programme>
+  <programme start="20251104035500 +0600" stop="20251104042500 +0600" channel="BharatSamacharTV.in">
+    <title lang="bn">100 Samachar</title>
+  </programme>
   <channel id="Abp.in">
     <display-name>ABP News</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/e/eb/ABP_News.svg"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="Abp.in">
-    <title lang="bn">Khabar Fatafat</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="Abp.in">
     <title lang="bn">1 Khabar 1 Minute</title>
   </programme>
@@ -1608,17 +1638,14 @@
   <programme start="20251104033000 +0600" stop="20251104040000 +0600" channel="Abp.in">
     <title lang="bn">Special Report</title>
   </programme>
+  <programme start="20251104040000 +0600" stop="20251104043000 +0600" channel="Abp.in">
+    <title lang="bn">Special Report</title>
+  </programme>
   <channel id="AajTak.in">
     <display-name>Aaj Tak HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="AajTak.in">
-    <title lang="bn">Breaking News</title>
-  </programme>
-  <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="AajTak.in">
-    <title lang="bn">Non-Stop 100</title>
-  </programme>
-  <programme start="20251103140000 +0600" stop="20251103141000 +0600" channel="AajTak.in">
+  <programme start="20251103134000 +0600" stop="20251103141000 +0600" channel="AajTak.in">
     <title lang="bn">Lunch Break</title>
   </programme>
   <programme start="20251103141000 +0600" stop="20251103143000 +0600" channel="AajTak.in">
@@ -1702,17 +1729,17 @@
   <programme start="20251104003000 +0600" stop="20251104005000 +0600" channel="AajTak.in">
     <title lang="bn">News</title>
   </programme>
+  <programme start="20251104005000 +0600" stop="20251104010000 +0600" channel="AajTak.in">
+    <title lang="bn">Non-Stop 100</title>
+  </programme>
+  <programme start="20251104010000 +0600" stop="20251104011500 +0600" channel="AajTak.in">
+    <title lang="bn">Black And White</title>
+  </programme>
   <channel id="ZEETV.tv">
     <display-name>ZEE TV HD</display-name>
     <icon src="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo-768x432.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="ZEETV.tv">
-    <title lang="bn">Jagriti - Ek Nayi Subah</title>
-  </programme>
-  <programme start="20251103133000 +0600" stop="20251103135900 +0600" channel="ZEETV.tv">
-    <title lang="bn">Ek Nazar</title>
-  </programme>
-  <programme start="20251103135900 +0600" stop="20251103140000 +0600" channel="ZEETV.tv">
+  <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="ZEETV.tv">
     <title lang="bn">Saru</title>
   </programme>
   <programme start="20251103140000 +0600" stop="20251103143000 +0600" channel="ZEETV.tv">
@@ -1796,13 +1823,16 @@
   <programme start="20251104005900 +0600" stop="20251104010000 +0600" channel="ZEETV.tv">
     <title lang="bn">Ek Nazar</title>
   </programme>
+  <programme start="20251104010000 +0600" stop="20251104011800 +0600" channel="ZEETV.tv">
+    <title lang="bn">Ek Nazar</title>
+  </programme>
+  <programme start="20251104011800 +0600" stop="20251104011900 +0600" channel="ZEETV.tv">
+    <title lang="bn">Tum Se Tum Tak</title>
+  </programme>
   <channel id="STARBHARATHD">
     <display-name>STAR BHARAT HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="STARBHARATHD">
-    <title lang="bn">Savdhaan India: F.I.R</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103143000 +0600" channel="STARBHARATHD">
     <title lang="bn">Savdhaan India: Naya Adhyay</title>
   </programme>
@@ -1890,13 +1920,13 @@
   <programme start="20251104123000 +0600" stop="20251104130000 +0600" channel="STARBHARATHD">
     <title lang="bn">Savdhaan India - India Fights Back</title>
   </programme>
+  <programme start="20251104130000 +0600" stop="20251104133000 +0600" channel="STARBHARATHD">
+    <title lang="bn">Savdhaan India: F.I.R</title>
+  </programme>
   <channel id="STARBHARAT">
     <display-name>STAR BHARAT</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/7/7b/Star_Bharat_2022.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="STARBHARAT">
-    <title lang="bn">Savdhaan India: F.I.R</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103143000 +0600" channel="STARBHARAT">
     <title lang="bn">Savdhaan India: Naya Adhyay</title>
   </programme>
@@ -1984,17 +2014,17 @@
   <programme start="20251104123000 +0600" stop="20251104130000 +0600" channel="STARBHARAT">
     <title lang="bn">Savdhaan India</title>
   </programme>
+  <programme start="20251104130000 +0600" stop="20251104133000 +0600" channel="STARBHARAT">
+    <title lang="bn">Savdhaan India - India Fights Back</title>
+  </programme>
   <channel id="EpicTV.in">
     <display-name>ENT | Epic TV</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/4/41/Epic_TV_%282021%29.jpg"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="EpicTV.in">
+  <programme start="20251103132500 +0600" stop="20251103135500 +0600" channel="EpicTV.in">
     <title lang="bn">Raja Rasoi Aur Andaaz Anokha</title>
   </programme>
-  <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="EpicTV.in">
-    <title lang="bn">Raja Rasoi Aur Andaaz Anokha</title>
-  </programme>
-  <programme start="20251103140000 +0600" stop="20251103142500 +0600" channel="EpicTV.in">
+  <programme start="20251103135500 +0600" stop="20251103142500 +0600" channel="EpicTV.in">
     <title lang="bn">Raja Rasoi Aur Andaaz Anokha</title>
   </programme>
   <programme start="20251103142500 +0600" stop="20251103145000 +0600" channel="EpicTV.in">
@@ -2027,13 +2057,13 @@
   <programme start="20251103180000 +0600" stop="20251103182500 +0600" channel="EpicTV.in">
     <title lang="bn">Tyohaar Ki Thaali</title>
   </programme>
+  <programme start="20251103182500 +0600" stop="20251103185000 +0600" channel="EpicTV.in">
+    <title lang="bn">Epic Tales Of Love</title>
+  </programme>
   <channel id="E24.in">
     <display-name>E24</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/4/48/E24_new.jpg"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="E24.in">
-    <title lang="bn">Bollywood Reporter</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="E24.in">
     <title lang="bn">U, Me aur Tv</title>
   </programme>
@@ -2121,13 +2151,13 @@
   <programme start="20251104023000 +0600" stop="20251104030000 +0600" channel="E24.in">
     <title lang="bn">Bollywood Reporter</title>
   </programme>
+  <programme start="20251104030000 +0600" stop="20251104033000 +0600" channel="E24.in">
+    <title lang="bn">Bhangra Junction</title>
+  </programme>
   <channel id="DDNational.in@HD">
     <display-name>DD National HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="DDNational.in@HD">
-    <title lang="bn">Bharat Startup Yatra</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103163000 +0600" channel="DDNational.in@HD">
     <title lang="bn">Apaharan</title>
   </programme>
@@ -2215,13 +2245,13 @@
   <programme start="20251104070000 +0600" stop="20251104073000 +0600" channel="DDNational.in@HD">
     <title lang="bn">Sringaar Aarti From Ram Lalla Live</title>
   </programme>
+  <programme start="20251104073000 +0600" stop="20251104080000 +0600" channel="DDNational.in@HD">
+    <title lang="bn">Geeta Gyan Amritam</title>
+  </programme>
   <channel id="AndTV.in">
     <display-name>&amp;TV HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/4/4c/%26TV_HD_%282025%29.svg"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="AndTV.in">
-    <title lang="bn">Bhabi ji Ghar Par Hai!</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="AndTV.in">
     <title lang="bn">Bhabi ji Ghar Par Hai!</title>
   </programme>
@@ -2309,17 +2339,14 @@
   <programme start="20251104070500 +0600" stop="20251104073000 +0600" channel="AndTV.in">
     <title lang="bn">Bhabi ji Ghar Par Hai!</title>
   </programme>
+  <programme start="20251104073000 +0600" stop="20251104075900 +0600" channel="AndTV.in">
+    <title lang="bn">Comedy Circus Ka Naya Daur</title>
+  </programme>
   <channel id="starjalsha.in">
     <display-name>Star Jalsha</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="starjalsha.in">
-    <title lang="bn">Lokkhi Jhnapi</title>
-  </programme>
-  <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="starjalsha.in">
-    <title lang="bn">Hochhe Ta Ki</title>
-  </programme>
-  <programme start="20251103140000 +0600" stop="20251103153000 +0600" channel="starjalsha.in">
+  <programme start="20251103134500 +0600" stop="20251103153000 +0600" channel="starjalsha.in">
     <title lang="bn">Tapur Tupur</title>
   </programme>
   <programme start="20251103153000 +0600" stop="20251103163000 +0600" channel="starjalsha.in">
@@ -2403,13 +2430,16 @@
   <programme start="20251104083000 +0600" stop="20251104090000 +0600" channel="starjalsha.in">
     <title lang="bn">Grihapravesh</title>
   </programme>
+  <programme start="20251104090000 +0600" stop="20251104093000 +0600" channel="starjalsha.in">
+    <title lang="bn">Compass</title>
+  </programme>
+  <programme start="20251104093000 +0600" stop="20251104100000 +0600" channel="starjalsha.in">
+    <title lang="bn">Parashuram</title>
+  </programme>
   <channel id="colorsBangla.in">
     <display-name>Colors Bangla HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="colorsBangla.in">
-    <title lang="bn">Shiv Shakti</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="colorsBangla.in">
     <title lang="bn">Shiv Shakti</title>
   </programme>
@@ -2494,7 +2524,10 @@
   <programme start="20251104100000 +0600" stop="20251104103000 +0600" channel="colorsBangla.in">
     <title lang="bn">Ram-Krishnaa</title>
   </programme>
-  <programme start="20251104103000 +0600" stop="20251104110000 +0600" channel="colorsBangla.in">
+  <programme start="20251104103000 +0600" stop="20251104113000 +0600" channel="colorsBangla.in">
+    <title lang="bn">Naagin 2</title>
+  </programme>
+  <programme start="20251104113000 +0600" stop="20251104120000 +0600" channel="colorsBangla.in">
     <title lang="bn">Naagin 2</title>
   </programme>
   <channel id="zeebangla.in">
@@ -2656,9 +2689,6 @@
     <display-name>NDTV English</display-name>
     <icon src="https://logotyp.us/file/ndtv.svg"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="ndtvenglish">
-    <title lang="bn">Breaking Ground</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="ndtvenglish">
     <title lang="bn">Breaking Ground</title>
   </programme>
@@ -2746,13 +2776,13 @@
   <programme start="20251104033000 +0600" stop="20251104040000 +0600" channel="ndtvenglish">
     <title lang="bn">Left, Right &amp; Centre</title>
   </programme>
+  <programme start="20251104040000 +0600" stop="20251104043000 +0600" channel="ndtvenglish">
+    <title lang="bn">News</title>
+  </programme>
   <channel id="ndtvindia">
     <display-name>NDTV India</display-name>
     <icon src="https://logotyp.us/file/ndtv.svg"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="ndtvindia">
-    <title lang="bn">Dopeher Damdar</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="ndtvindia">
     <title lang="bn">Dopeher Damdar</title>
   </programme>
@@ -2840,17 +2870,14 @@
   <programme start="20251104033000 +0600" stop="20251104040000 +0600" channel="ndtvindia">
     <title lang="bn">News NDTV India</title>
   </programme>
+  <programme start="20251104040000 +0600" stop="20251104043000 +0600" channel="ndtvindia">
+    <title lang="bn">News NDTV India</title>
+  </programme>
   <channel id="starsports1hd.in">
     <display-name>Star Sports 1 HD</display-name>
     <icon src="hhttp://openboxv8s.com/india/star_sports_in_1_hindi.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="starsports1hd.in">
-    <title lang="bn">ICC Women's Cricket World Cup Highlights</title>
-  </programme>
-  <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="starsports1hd.in">
-    <title lang="bn">ICC CWC Highlights</title>
-  </programme>
-  <programme start="20251103140000 +0600" stop="20251103141500 +0600" channel="starsports1hd.in">
+  <programme start="20251103134500 +0600" stop="20251103141500 +0600" channel="starsports1hd.in">
     <title lang="bn">ICC CWC 2023: India vs Pakistan, 12th Match; One-Day In...</title>
   </programme>
   <programme start="20251103141500 +0600" stop="20251103143000 +0600" channel="starsports1hd.in">
@@ -2934,13 +2961,16 @@
   <programme start="20251103221500 +0600" stop="20251103223000 +0600" channel="starsports1hd.in">
     <title lang="bn">ICC Women's Cricket World Cup Highlights</title>
   </programme>
+  <programme start="20251103223000 +0600" stop="20251103230000 +0600" channel="starsports1hd.in">
+    <title lang="bn">2nd T20: Australia v India; T20 Cricket</title>
+  </programme>
+  <programme start="20251103230000 +0600" stop="20251103233000 +0600" channel="starsports1hd.in">
+    <title lang="bn">Jaipur Pink Panthers vs. Dabang Delhi K.C., 67th Match;...</title>
+  </programme>
   <channel id="starsports1hindi.in">
     <display-name>Star Sports 1 Hindi</display-name>
     <icon src="https://static.epg.best/cn/StarSports1.cn.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="starsports1hindi.in">
-    <title lang="bn">Final: India v South Africa; ICC Women's World Cup Cric...</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="starsports1hindi.in">
     <title lang="bn">1st T20: Australia v India; T20 Cricket</title>
   </programme>
@@ -3028,17 +3058,14 @@
   <programme start="20251103233000 +0600" stop="20251104000000 +0600" channel="starsports1hindi.in">
     <title lang="bn">1st T20: Australia v India; T20 Cricket</title>
   </programme>
+  <programme start="20251104000000 +0600" stop="20251104003000 +0600" channel="starsports1hindi.in">
+    <title lang="bn">ICC Women's World Cup; Cricket Countdown</title>
+  </programme>
   <channel id="starsports.tamil">
     <display-name>Star Sports Tamil 1</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="starsports.tamil">
-    <title lang="bn">ICC Champions Trophy Highlights</title>
-  </programme>
-  <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="starsports.tamil">
-    <title lang="bn">Follow The Blues</title>
-  </programme>
-  <programme start="20251103140000 +0600" stop="20251103141500 +0600" channel="starsports.tamil">
+  <programme start="20251103134500 +0600" stop="20251103141500 +0600" channel="starsports.tamil">
     <title lang="bn">South Africa vs India, 1st T20I; T20 Cricket</title>
   </programme>
   <programme start="20251103141500 +0600" stop="20251103143000 +0600" channel="starsports.tamil">
@@ -3121,6 +3148,12 @@
   </programme>
   <programme start="20251103231500 +0600" stop="20251103233000 +0600" channel="starsports.tamil">
     <title lang="bn">Total KBD Countdown</title>
+  </programme>
+  <programme start="20251103233000 +0600" stop="20251104000000 +0600" channel="starsports.tamil">
+    <title lang="bn">Australia vs. India; Cricket Countdown</title>
+  </programme>
+  <programme start="20251104000000 +0600" stop="20251104003000 +0600" channel="starsports.tamil">
+    <title lang="bn">ICC Champions Trophy 2025 India vs New Zealand, Final;...</title>
   </programme>
   <channel id="starsports2hd.in">
     <display-name>Star Sports 2 4K</display-name>
@@ -3214,13 +3247,7 @@
     <display-name>Star Sports 3 HD</display-name>
     <icon src="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="starsports3.in">
-    <title lang="bn">ICC CWC Highlights</title>
-  </programme>
-  <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="starsports3.in">
-    <title lang="bn">Follow The Blues</title>
-  </programme>
-  <programme start="20251103140000 +0600" stop="20251103141500 +0600" channel="starsports3.in">
+  <programme start="20251103134500 +0600" stop="20251103141500 +0600" channel="starsports3.in">
     <title lang="bn">ICC World T20I 2022 - India vs Pakistan; T20 Cricket</title>
   </programme>
   <programme start="20251103141500 +0600" stop="20251103143000 +0600" channel="starsports3.in">
@@ -3304,13 +3331,16 @@
   <programme start="20251103231500 +0600" stop="20251103233000 +0600" channel="starsports3.in">
     <title lang="bn">ICC Women's World Cup; Cricket Countdown</title>
   </programme>
+  <programme start="20251103233000 +0600" stop="20251104000000 +0600" channel="starsports3.in">
+    <title lang="bn">2nd T20: Australia v India; T20 Cricket</title>
+  </programme>
+  <programme start="20251104000000 +0600" stop="20251104003000 +0600" channel="starsports3.in">
+    <title lang="bn">Champions 2025; Total KBD</title>
+  </programme>
   <channel id="starsportsselect1.in">
     <display-name>Star Sports Select 1 HD</display-name>
     <icon src="https://static.epg.best/in/StarSportsSelect1.in.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="starsportsselect1.in">
-    <title lang="bn">Final: India v South Africa; ICC Women's World Cup Cric...</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="starsportsselect1.in">
     <title lang="bn">Tottenham Hotspur v Chelsea; Premier League: Match High...</title>
   </programme>
@@ -3397,6 +3427,9 @@
   </programme>
   <programme start="20251104060000 +0600" stop="20251104063000 +0600" channel="starsportsselect1.in">
     <title lang="bn">2nd T20: Australia v India; T20 Cricket</title>
+  </programme>
+  <programme start="20251104063000 +0600" stop="20251104070000 +0600" channel="starsportsselect1.in">
+    <title lang="bn">PL: The Big Interview</title>
   </programme>
   <channel id="starsportsselect2.in">
     <display-name>Star Sports Select 2 HD</display-name>
@@ -3660,9 +3693,6 @@
     <display-name>Sony Ten 3 HD</display-name>
     <icon src="https://static.epg.best/in/SonyTEN3.in.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="sonyten3.in">
-    <title lang="bn">Chelsea vs. Benfica; UEFA Champions League Highlights</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103163000 +0600" channel="sonyten3.in">
     <title lang="bn">UFC Fight Night: Oliveira vs. Gamrot</title>
   </programme>
@@ -3747,8 +3777,11 @@
   <programme start="20251104173000 +0600" stop="20251104180000 +0600" channel="sonyten3.in">
     <title lang="bn">FC Barcelona - Paris Saint-Germain; UEFA Champions Leag...</title>
   </programme>
-  <programme start="20251104180000 +0600" stop="20251104183000 +0600" channel="sonyten3.in">
+  <programme start="20251104180000 +0600" stop="20251104200000 +0600" channel="sonyten3.in">
     <title lang="bn">2nd Test: England vs India; Test Cricket</title>
+  </programme>
+  <programme start="20251104200000 +0600" stop="20251104203000 +0600" channel="sonyten3.in">
+    <title lang="bn">2nd T20 :England v India; Women's T20 Cricket</title>
   </programme>
   <channel id="RepublicTV.in">
     <display-name>NEWS | Republic TV</display-name>
@@ -3797,10 +3830,7 @@
     <display-name>NEWS | Times Now Navbhara</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300003OW_20240131T032351SQUARE.png_20240131032352.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="TimesNowNavbharat">
-    <title lang="bn">Times Now NavBharat Live</title>
-  </programme>
-  <programme start="20251103133000 +0600" stop="20251103143000 +0600" channel="TimesNowNavbharat">
+  <programme start="20251103140000 +0600" stop="20251103143000 +0600" channel="TimesNowNavbharat">
     <title lang="bn">News War</title>
   </programme>
   <programme start="20251103143000 +0600" stop="20251103150000 +0600" channel="TimesNowNavbharat">
@@ -3833,8 +3863,11 @@
   <programme start="20251103213000 +0600" stop="20251103223000 +0600" channel="TimesNowNavbharat">
     <title lang="bn">News Ki Paathshaala</title>
   </programme>
-  <programme start="20251103223000 +0600" stop="20251103230000 +0600" channel="TimesNowNavbharat">
+  <programme start="20251103223000 +0600" stop="20251103233000 +0600" channel="TimesNowNavbharat">
     <title lang="bn">Sankalp</title>
+  </programme>
+  <programme start="20251103233000 +0600" stop="20251104000000 +0600" channel="TimesNowNavbharat">
+    <title lang="bn">Final Prime Time</title>
   </programme>
   <channel id="StarPlus.in">
     <display-name>ENT | Star Plus</display-name>
@@ -4148,10 +4181,7 @@
     <display-name>SUN Bangla</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png"/>
   </channel>
-  <programme start="20251103125400 +0600" stop="20251103132400 +0600" channel="sunbangla.in">
-    <title lang="bn">Lakh Takar Lokkhi Labh</title>
-  </programme>
-  <programme start="20251103132400 +0600" stop="20251103142700 +0600" channel="sunbangla.in">
+  <programme start="20251103135700 +0600" stop="20251103142700 +0600" channel="sunbangla.in">
     <title lang="bn">Lakh Takar Lokkhi Labh</title>
   </programme>
   <programme start="20251103142700 +0600" stop="20251103155300 +0600" channel="sunbangla.in">
@@ -4184,17 +4214,17 @@
   <programme start="20251103220200 +0600" stop="20251103230700 +0600" channel="sunbangla.in">
     <title lang="bn">Crime Diary</title>
   </programme>
-  <programme start="20251103230700 +0600" stop="20251103233700 +0600" channel="sunbangla.in">
+  <programme start="20251103230700 +0600" stop="20251104073000 +0600" channel="sunbangla.in">
     <title lang="bn">Lakh Takar Lokkhi Labh</title>
+  </programme>
+  <programme start="20251104073000 +0600" stop="20251104080000 +0600" channel="sunbangla.in">
+    <title lang="bn">Roopoamati</title>
   </programme>
   <channel id="enter10bangla.in">
     <display-name>Enter 10 Bangla</display-name>
     <icon src="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"/>
   </channel>
-  <programme start="20251103130100 +0600" stop="20251103133100 +0600" channel="enter10bangla.in">
-    <title lang="bn">Crime Alert</title>
-  </programme>
-  <programme start="20251103133100 +0600" stop="20251103143000 +0600" channel="enter10bangla.in">
+  <programme start="20251103140000 +0600" stop="20251103143000 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
   <programme start="20251103143000 +0600" stop="20251103153000 +0600" channel="enter10bangla.in">
@@ -4227,17 +4257,17 @@
   <programme start="20251104033700 +0600" stop="20251104041700 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
-  <programme start="20251104041700 +0600" stop="20251104044700 +0600" channel="enter10bangla.in">
+  <programme start="20251104041700 +0600" stop="20251104045900 +0600" channel="enter10bangla.in">
+    <title lang="bn">Crime Alert</title>
+  </programme>
+  <programme start="20251104045900 +0600" stop="20251104052900 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
   <channel id="sangeetbangla.in">
     <display-name>SANGEET BANGLA</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="sangeetbangla.in">
-    <title lang="bn">SB Lyrical</title>
-  </programme>
-  <programme start="20251103133000 +0600" stop="20251103143000 +0600" channel="sangeetbangla.in">
+  <programme start="20251103140000 +0600" stop="20251103143000 +0600" channel="sangeetbangla.in">
     <title lang="bn">Popular Choice</title>
   </programme>
   <programme start="20251103143000 +0600" stop="20251103153000 +0600" channel="sangeetbangla.in">
@@ -4270,8 +4300,11 @@
   <programme start="20251103233000 +0600" stop="20251104003000 +0600" channel="sangeetbangla.in">
     <title lang="bn">Tumi Hansbe Bole</title>
   </programme>
-  <programme start="20251104003000 +0600" stop="20251104010000 +0600" channel="sangeetbangla.in">
+  <programme start="20251104003000 +0600" stop="20251104013000 +0600" channel="sangeetbangla.in">
     <title lang="bn">Popular Choice</title>
+  </programme>
+  <programme start="20251104013000 +0600" stop="20251104020000 +0600" channel="sangeetbangla.in">
+    <title lang="bn">Amar Superstar</title>
   </programme>
   <channel id="sonymaxhd.in">
     <display-name>SONY MAX HD</display-name>
@@ -4281,11 +4314,8 @@
     <display-name>SONY SAB HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/18/SONY_SAB_SD.png"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="sonysabhd.in">
-    <title lang="bn">Badal Pe Paon Hain(2024)</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="sonysabhd.in">
-    <title lang="bn">Badal Pe Paon Hain (2024)</title>
+    <title lang="bn">Badal Pe Paon Hain(2024)</title>
   </programme>
   <programme start="20251103140000 +0600" stop="20251103143000 +0600" channel="sonysabhd.in">
     <title lang="bn">Pushpa Impossible (2022)</title>
@@ -4320,13 +4350,13 @@
   <programme start="20251103190000 +0600" stop="20251103193000 +0600" channel="sonysabhd.in">
     <title lang="bn">Taarak Mehta Ka Ooltah Chashmah (2008)</title>
   </programme>
+  <programme start="20251103193000 +0600" stop="20251103200000 +0600" channel="sonysabhd.in">
+    <title lang="bn">Taarak Mehta Ka Ooltah Chashmah (2008)</title>
+  </programme>
   <channel id="RepublicBangla.in">
     <display-name>Republic Bangla</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/9/93/R.Bangla_logo_with_tagline.jpg"/>
   </channel>
-  <programme start="20251103130000 +0600" stop="20251103133000 +0600" channel="RepublicBangla.in">
-    <title lang="bn">R Bangla Live 100% News</title>
-  </programme>
   <programme start="20251103133000 +0600" stop="20251103140000 +0600" channel="RepublicBangla.in">
     <title lang="bn">R Bangla Live 100% News</title>
   </programme>
@@ -4363,13 +4393,13 @@
   <programme start="20251103200000 +0600" stop="20251103203000 +0600" channel="RepublicBangla.in">
     <title lang="bn">Shojashoji Swarnali</title>
   </programme>
+  <programme start="20251103203000 +0600" stop="20251103210000 +0600" channel="RepublicBangla.in">
+    <title lang="bn">Jawab Chay Bangla</title>
+  </programme>
   <channel id="DisneyJunior.in">
     <display-name>Disney Junior</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"/>
   </channel>
-  <programme start="20251103073000 +0600" stop="20251103140000 +0600" channel="DisneyJunior.in">
-    <title lang="bn">Mickey Mouse Funhouse</title>
-  </programme>
   <programme start="20251103140000 +0600" stop="20251103143000 +0600" channel="DisneyJunior.in">
     <title lang="bn">Bluey</title>
   </programme>
@@ -4403,8 +4433,11 @@
   <programme start="20251104033000 +0600" stop="20251104063000 +0600" channel="DisneyJunior.in">
     <title lang="bn">Mickey Mouse Clubhouse (2009)</title>
   </programme>
-  <programme start="20251104063000 +0600" stop="20251104070000 +0600" channel="DisneyJunior.in">
+  <programme start="20251104063000 +0600" stop="20251104073000 +0600" channel="DisneyJunior.in">
     <title lang="bn">PJ Masks (2015)</title>
+  </programme>
+  <programme start="20251104073000 +0600" stop="20251104080000 +0600" channel="DisneyJunior.in">
+    <title lang="bn">Mickey Mouse Funhouse</title>
   </programme>
   <channel id="DDBharati.in">
     <display-name>DD Bharati</display-name>
