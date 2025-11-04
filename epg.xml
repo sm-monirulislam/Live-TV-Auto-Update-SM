@@ -316,25 +316,25 @@
     <title lang="bn">Hannity</title>
   </programme>
   <programme start="20251105080000 +0600" stop="20251105090000 +0600" channel="FoxNews.us">
-    <title lang="bn">Gutfeld!</title>
+    <title lang="bn">Fox News Democracy 25</title>
   </programme>
   <programme start="20251105090000 +0600" stop="20251105100000 +0600" channel="FoxNews.us">
     <title lang="bn">Fox News at Night</title>
   </programme>
   <programme start="20251105100000 +0600" stop="20251105110000 +0600" channel="FoxNews.us">
-    <title lang="bn">The Five</title>
+    <title lang="bn">Fox News at Night</title>
   </programme>
   <programme start="20251105110000 +0600" stop="20251105120000 +0600" channel="FoxNews.us">
-    <title lang="bn">Jesse Watters Primetime</title>
+    <title lang="bn">Fox News Democracy 25</title>
   </programme>
   <programme start="20251105120000 +0600" stop="20251105130000 +0600" channel="FoxNews.us">
-    <title lang="bn">Hannity</title>
+    <title lang="bn">Fox News at Night</title>
   </programme>
   <programme start="20251105130000 +0600" stop="20251105140000 +0600" channel="FoxNews.us">
-    <title lang="bn">Gutfeld!</title>
+    <title lang="bn">Fox News at Night</title>
   </programme>
   <programme start="20251105140000 +0600" stop="20251105150000 +0600" channel="FoxNews.us">
-    <title lang="bn">The Ingraham Angle</title>
+    <title lang="bn">Fox News Democracy 25</title>
   </programme>
   <programme start="20251105150000 +0600" stop="20251105160000 +0600" channel="FoxNews.us">
     <title lang="bn">FOX &amp;amp; Friends First</title>
@@ -672,7 +672,7 @@
     <title lang="bn">The Story Is Election Night 2025</title>
   </programme>
   <programme start="20251105150000 +0600" stop="20251105160000 +0600" channel="CNN.us">
-    <title lang="bn">Early Start With Rahel Solomon</title>
+    <title lang="bn">CNN This Morning</title>
   </programme>
   <channel id="TV9Bharatvarsh">
     <display-name>NEWS | TV9 Bharatvarsh</display-name>
@@ -1004,9 +1004,6 @@
     <display-name>India TV</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/10/India_TV_Orange.jpg"/>
   </channel>
-  <programme start="20251104112800 +0600" stop="20251104115800 +0600" channel="IndiaTV.in">
-    <title lang="bn">Damdar 10</title>
-  </programme>
   <programme start="20251104115800 +0600" stop="20251104122800 +0600" channel="IndiaTV.in">
     <title lang="bn">Special Report</title>
   </programme>
@@ -1094,6 +1091,9 @@
   <programme start="20251105073000 +0600" stop="20251105075800 +0600" channel="IndiaTV.in">
     <title lang="bn">Jaago India</title>
   </programme>
+  <programme start="20251105075800 +0600" stop="20251105082800 +0600" channel="IndiaTV.in">
+    <title lang="bn">Jaago India + Super 100</title>
+  </programme>
   <channel id="DDNews.in">
     <display-name>DD News</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/d/d6/DD_News_new_logo_2024.jpg"/>
@@ -1156,9 +1156,6 @@
     <display-name>CNBC Awaaz</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/18/CNBC_Awaaz_2025.svg"/>
   </channel>
-  <programme start="20251104112700 +0600" stop="20251104115700 +0600" channel="CNBCAwaaz">
-    <title lang="bn">Khiladi No.1</title>
-  </programme>
   <programme start="20251104115700 +0600" stop="20251104122700 +0600" channel="CNBCAwaaz">
     <title lang="bn">Gold Spot</title>
   </programme>
@@ -1246,13 +1243,13 @@
   <programme start="20251105012000 +0600" stop="20251105014000 +0600" channel="CNBCAwaaz">
     <title lang="bn">Takkar</title>
   </programme>
+  <programme start="20251105014000 +0600" stop="20251105020000 +0600" channel="CNBCAwaaz">
+    <title lang="bn">Your Money</title>
+  </programme>
   <channel id="BharatSamacharTV.in">
     <display-name>Bharat Samachar TV</display-name>
     <icon src="https://bharatsamachartv.com/images/logo.png"/>
   </channel>
-  <programme start="20251104112500 +0600" stop="20251104115500 +0600" channel="BharatSamacharTV.in">
-    <title lang="bn">Breaking News</title>
-  </programme>
   <programme start="20251104115500 +0600" stop="20251104122500 +0600" channel="BharatSamacharTV.in">
     <title lang="bn">Camera Sab Dekhta Hai</title>
   </programme>
